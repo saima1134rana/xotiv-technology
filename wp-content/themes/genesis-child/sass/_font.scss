@@ -7,7 +7,7 @@ $white-color:#fff;
 
 
 $font-alt-1:'Poppins', sans-serif;
-$font-alt-2:'Petrona', sans-serif;
+$font-alt-2:'arial', sans-serif;
 
 
 $fw-900:900;
@@ -22,91 +22,26 @@ $fw-100:100;
 
 
 //Default font scheme
-h1, .h1{
+h1, h2, h3, h4, h5, h6{
+	font-style: normal;
+	text-transform: capitalize;
 	font-family: $font-alt-1;
-	font-size: 36px;
-	font-weight: $fw_700;
-	text-transform: uppercase;
-	line-height: 36px;
+	margin: 0 0 28px;
+	color: var(--clr-success);
+	font-weight: var(--fw-600);
+	line-height: 1.2;
 	letter-spacing: 1px;
-	color:$primary-color;
-	
-}
+  }
+h1{font-size: clamp(1.15em,5vw, 2.5em);}
+h2,h3,h4,h5,h6{font-size: clamp(1.125em,5vw, 2em);}
 
-h2, .h2{
-	font-family: $font-alt-1;
-	font-size: 30px;
-	font-weight: 400;
-	text-transform: uppercase;
-	line-height: 33px;
-	letter-spacing: 1px;
-	color:$primary-color;
-	
-}
-
-h3, .h3{
-	font-family: $font-alt-1;
-	font-size: 24px;
-	font-weight: 300;
-	text-transform: uppercase;
-	line-height: 27px;
-	letter-spacing: 1px;
-	color:$primary-color;
-	
-}
-
-h4, .h4{
-	font-family: $font-alt-1;
-	font-size: 35px;
-	font-weight: 600;
-	text-transform: uppercase;
-	line-height: 35px;
-	letter-spacing: 1px;
-	color:$primary-color;
-	
-}
-.h4-alt{
-	font-family: $font-alt-1;
-	font-size: 35px;
-	font-weight: 600;
-	text-transform: uppercase;
-	line-height: 35px;
-	letter-spacing: 1px;
-	color:$primary-color;
-	
-}
-
-h5, .h5{
-	font-family: $font-alt-1;
-	font-size: 30px;
-	font-weight: 300; 
-	text-transform: uppercase;
-	line-height: 35px;
-	letter-spacing: 1px;
-	color:$primary-color;
-	
-}
-
-h6, .h6{
-	font-family: $font-alt-1;
-	font-size: 20px;
-	font-weight: 600;
-	text-transform: uppercase;
-	line-height: 25px;
-	letter-spacing: 1px;
-	color:$primary-color;
-	
-}
-
-p, .p, body{
-	font-family: $font-alt-1;
+p{
+	font-family: arial;
 	font-size: 16px;
-	font-weight: 300;
-	text-transform: none;
-	line-height: 24px;
-	letter-spacing: normal;
-	color:$primary-color;
-	
+	font-weight: $fw-400;
+	line-height: 1.5;
+	color:#333;
+	margin: 0 0 28px;
 	a{
 		
 	    &:hover{
@@ -119,20 +54,17 @@ p, .p, body{
 .p-alt{
 	font-family: $font-alt-1;
 	font-size: 16px;
-	font-weight: 300;
-	text-transform: none;
-	line-height: 24px;
-	letter-spacing: normal;
+	font-weight: $fw-400;
+	line-height: 1.5;
 	color:$primary-color;
 }
 
 em,strong{
 	font-family: $font-alt-1;
 	font-size: 16px;
-	font-weight: 700;
+	font-weight: $fw-700;
 	text-transform: none;
-	line-height: 24px;
-	letter-spacing: normal;
+	line-height: 1.5;
 	color:$primary-color;
 	
 }

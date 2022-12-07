@@ -57,23 +57,47 @@
           <a class="mt-5 btn btn-blue" href="https://www.xotiv.com/about-us/"><span>More</span></a>
     </div>
     <div class="item">
-    <h3 class="mb-4">Why not go beyond?</h3>
-          <p class="lead">We work with specific purposes and intended result in mind. </p>
-          <a class="mt-5 btn btn-blue " href="https://www.xotiv.com/about-us/"><span>More</span></a>
+      <h3 class="">Mobile Application development</h3>
+      <h3 class="mb-4">Why not go beyond?</h3>
+      <p class="lead">We work with specific purposes and intended result in mind. </p>
+      <a class="mt-5 btn btn-blue " href="https://www.xotiv.com/about-us/"><span>More</span></a>
     </div>
     <div class="item">
-    <h3 class="mb-4">Why not go beyond?</h3>
-          <p class="lead">Get Top-Notch, Extensively, Innovative Mobile App Solution BY Us.</p> 
-          <a class="mt-5 btn btn-blue" href="https://www.xotiv.com/about-us/"><span>More</span></a>
+      <h3 class="">Mobile Application development</h3>
+      <h3 class="mb-4">Why not go beyond?</h3>
+      <p class="lead">Get Top-Notch, Extensively, Innovative Mobile App Solution BY Us.</p> 
+      <a class="mt-5 btn btn-primary" href="https://www.xotiv.com/about-us/"><span>More</span></a>
     </div>
 </div>
      </div>
     </div>
   </div>
+</section>
+<!--------Hero-Banner----->
 
+<section class="container-fluid mt-5 about-section">
+   <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-5 mt-5">
+        <div class="about-image">
+          <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/2-2.png" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-lg-7">
+      <div class="section-title">
+        <div class="title"> 
+          <div><img class="img-fluid" src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/about-icon.png" alt=""> ABOUT US</div>
+        </div>
+        <div class="about-front">Leading Digital Agency For Business Solution</div>
+         <p class="pt-5">Xotiv Technologies offers a wide range of service that includes Artificial Intelligence, Machine Learning, Mobile Application, Web App Development, and other Application Development and Maintenance including a wide range of digital marketing service for digital transformation
+        </p>
+        <a class="btn btn-primary mt-4" href="https://www.xotiv.com/about-us/"><span>Learn More</span></a>
+      </div>
+    </div>
+   </div>
 </section>
 
-<!--------Hero-Banner----->
+
 
 
 

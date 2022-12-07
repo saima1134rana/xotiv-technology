@@ -105,6 +105,8 @@
   .site-footer{
     display: none;;
   }
+
+/*Hero Section*/   
   .hero-section {
 	background-image: url("http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/bg.jpg");
 	background-size: cover;
@@ -146,5 +148,57 @@
 	  }
 	}
   }
-  
 
+
+/*About Section*/ 
+
+  .about-section{
+    .about-image{
+	position: relative;
+	width:fit-content;
+	margin: 0 auto;
+	&::before{
+		content: "";
+		width: 100%;
+		height: 100%;
+		background-image: url(http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/about-bg.png);
+		background-repeat: no-repeat;
+		top: 0;
+		left: 18px;
+		position: absolute;
+		display: inline-block;
+		z-index: -9;
+	}
+	img{
+		width: auto;
+		margin-left: 5em;
+		margin-top: 5em;
+	}
+  }
+  .section-title{
+	margin-bottom:50px;
+	.title{
+		font-size: 18px;
+		font-style: normal;
+		line-height: 1.5;
+		margin-bottom: 10px;
+		color: #1c2045;
+	}
+	.about-front {
+		font-size: 34px;
+		font-style: normal;
+		line-height: 1.5;
+		color: #1c2045;
+		text-transform: capitalize;
+     }
+	 .btn-blue {
+		background: #10c2f2;
+		color: #fff;
+		padding-left: 35px;
+		padding-right: 35px;
+		padding-top: 12px;
+		padding-bottom: 12px;
+		border-radius: 50px;
+	  }
+}
+}

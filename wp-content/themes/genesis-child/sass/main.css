@@ -1,94 +1,40 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins");
-h1, .h1 {
+h1, h2, h3, h4, h5, h6 {
+  font-style: normal;
+  text-transform: capitalize;
   font-family: "Poppins", sans-serif;
-  font-size: 36px;
-  font-weight: 700;
-  text-transform: uppercase;
-  line-height: 36px;
+  margin: 0 0 28px;
+  color: var(--clr-success);
+  font-weight: var(--fw-600);
+  line-height: 1.2;
   letter-spacing: 1px;
-  color: #004A94;
 }
 
-h2, .h2 {
-  font-family: "Poppins", sans-serif;
-  font-size: 30px;
-  font-weight: 400;
-  text-transform: uppercase;
-  line-height: 33px;
-  letter-spacing: 1px;
-  color: #004A94;
+h1 {
+  font-size: clamp(1.15em, 5vw, 2.5em);
 }
 
-h3, .h3 {
-  font-family: "Poppins", sans-serif;
-  font-size: 24px;
-  font-weight: 300;
-  text-transform: uppercase;
-  line-height: 27px;
-  letter-spacing: 1px;
-  color: #004A94;
+h2, h3, h4, h5, h6 {
+  font-size: clamp(1.125em, 5vw, 2em);
 }
 
-h4, .h4 {
-  font-family: "Poppins", sans-serif;
-  font-size: 35px;
-  font-weight: 600;
-  text-transform: uppercase;
-  line-height: 35px;
-  letter-spacing: 1px;
-  color: #004A94;
-}
-
-.h4-alt {
-  font-family: "Poppins", sans-serif;
-  font-size: 35px;
-  font-weight: 600;
-  text-transform: uppercase;
-  line-height: 35px;
-  letter-spacing: 1px;
-  color: #004A94;
-}
-
-h5, .h5 {
-  font-family: "Poppins", sans-serif;
-  font-size: 30px;
-  font-weight: 300;
-  text-transform: uppercase;
-  line-height: 35px;
-  letter-spacing: 1px;
-  color: #004A94;
-}
-
-h6, .h6 {
-  font-family: "Poppins", sans-serif;
-  font-size: 20px;
-  font-weight: 600;
-  text-transform: uppercase;
-  line-height: 25px;
-  letter-spacing: 1px;
-  color: #004A94;
-}
-
-p, .p, body {
-  font-family: "Poppins", sans-serif;
+p {
+  font-family: arial;
   font-size: 16px;
-  font-weight: 300;
-  text-transform: none;
-  line-height: 24px;
-  letter-spacing: normal;
-  color: #004A94;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333;
+  margin: 0 0 28px;
 }
-p a:hover, .p a:hover, body a:hover {
+p a:hover {
   text-decoration: none !important;
 }
 
 .p-alt {
   font-family: "Poppins", sans-serif;
   font-size: 16px;
-  font-weight: 300;
-  text-transform: none;
-  line-height: 24px;
-  letter-spacing: normal;
+  font-weight: 400;
+  line-height: 1.5;
   color: #004A94;
 }
 
@@ -97,8 +43,7 @@ em, strong {
   font-size: 16px;
   font-weight: 700;
   text-transform: none;
-  line-height: 24px;
-  letter-spacing: normal;
+  line-height: 1.5;
   color: #004A94;
 }
 
@@ -107,7 +52,7 @@ em, strong {
 }
 
 .font-alt-2 {
-  font-family: "Petrona", sans-serif;
+  font-family: "arial", sans-serif;
 }
 
 .text-thin {
@@ -595,9 +540,8 @@ em, strong {
   font-weight: 400;
   text-transform: uppercase;
   line-height: 20px;
-  letter-spacing: default;
-  border: 0;
-  padding: 15px 25px;
+  border: 50px;
+  padding: 12px 35px 12px 35px;
   box-shadow: 0 0 32px 1px rgba(0, 0, 0, 0.15);
   position: relative;
   display: inline-block;
@@ -607,8 +551,8 @@ em, strong {
 }
 
 .btn-primary {
-  padding: 18px 35px 12px;
-  border-radius: 3px !important;
+  background: #10c2f2;
+  color: #fff;
 }
 
 /* Genesis Css */
@@ -712,6 +656,7 @@ em, strong {
   display: none;
 }
 
+/*Hero Section*/
 .hero-section {
   background-image: url("http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/bg.jpg");
   background-size: cover;
@@ -748,4 +693,56 @@ em, strong {
 .hero-section .navbar .nav-item .nav-link {
   color: #fff;
   font-size: 18px;
+}
+
+/*About Section*/
+.about-section .about-image {
+  position: relative;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0 auto;
+}
+.about-section .about-image::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-image: url(http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/about-bg.png);
+  background-repeat: no-repeat;
+  top: 0;
+  left: 18px;
+  position: absolute;
+  display: inline-block;
+  z-index: -9;
+}
+.about-section .about-image img {
+  width: auto;
+  margin-left: 5em;
+  margin-top: 5em;
+}
+.about-section .section-title {
+  margin-bottom: 50px;
+}
+.about-section .section-title .title {
+  font-size: 18px;
+  font-style: normal;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  color: #1c2045;
+}
+.about-section .section-title .about-front {
+  font-size: 34px;
+  font-style: normal;
+  line-height: 1.5;
+  color: #1c2045;
+  text-transform: capitalize;
+}
+.about-section .section-title .btn-blue {
+  background: #10c2f2;
+  color: #fff;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 50px;
 }/*# sourceMappingURL=main.css.map */
