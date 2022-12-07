@@ -1,0 +1,118 @@
+//Add your styles into this file
+@import "font";
+@import "font_mobile";
+@import "color";
+@import "bootstrap_override";
+
+/* Genesis Css */
+.genesis-skip-link {
+    margin: 0;
+  display: none;
+}
+
+/*Site Wrap Css*/
+.site-container {
+	animation: fadein 1s;
+	word-wrap: break-word;
+	position: relative;
+	&::before {
+		content: " ";
+		display: table;
+	}
+	&::after {
+		clear: both;
+		content: " ";
+		display: table;
+	}
+}
+.site-inner {
+	padding: 0;
+	max-width: 100%;
+	margin: 0;
+	clear: both;
+	&::before {
+		content: " ";
+		display: table;
+	}
+	&::after {
+		clear: both;
+		content: " ";
+		display: table;
+	}
+}
+.author-box {
+	&::before {
+		content: " ";
+		display: table;
+	}
+	&::after {
+		clear: both;
+		content: " ";
+		display: table;
+	}
+}
+.clearfix {
+	&::before {
+		content: " ";
+		display: table;
+	}
+	&::after {
+		clear: both;
+		content: " ";
+		display: table;
+	}
+}
+.entry {
+	&::before {
+		content: " ";
+		display: table;
+	}
+	&::after {
+		clear: both;
+		content: " ";
+		display: table;
+	}
+}
+.entry-content {
+	&::before {
+		content: " ";
+		display: table;
+	}
+	&::after {
+		clear: both;
+		content: " ";
+		display: table;
+	}
+	overflow-x: hidden;
+}
+.footer-widgets {
+	&::before {
+		content: " ";
+		display: table;
+	}
+	&::after {
+		clear: both;
+		content: " ";
+		display: table;
+	}
+}
+.wp-custom-logo .title-area img{
+	display: none;
+}
+  /* header right widget */
+  .site-footer{
+    display: none;;
+  }
+.hero-section{
+    background-image: url("http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-color: red;
+    height: 1000px;
+    h1{
+        color: $primary-color;
+        font-size: 54px;
+    }
+}
+

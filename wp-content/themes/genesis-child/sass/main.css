@@ -1,0 +1,725 @@
+h1, .h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 36px;
+  letter-spacing: 1px;
+  color: #004A94;
+}
+
+h2, .h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 33px;
+  letter-spacing: 1px;
+  color: #004A94;
+}
+
+h3, .h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  text-transform: uppercase;
+  line-height: 27px;
+  letter-spacing: 1px;
+  color: #004A94;
+}
+
+h4, .h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 35px;
+  letter-spacing: 1px;
+  color: #004A94;
+}
+
+.h4-alt {
+  font-family: "Poppins", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 35px;
+  letter-spacing: 1px;
+  color: #004A94;
+}
+
+h5, .h5 {
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  text-transform: uppercase;
+  line-height: 35px;
+  letter-spacing: 1px;
+  color: #004A94;
+}
+
+h6, .h6 {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 25px;
+  letter-spacing: 1px;
+  color: #004A94;
+}
+
+p, .p, body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: none;
+  line-height: 24px;
+  letter-spacing: normal;
+  color: #004A94;
+}
+p a:hover, .p a:hover, body a:hover {
+  text-decoration: none !important;
+}
+
+.p-alt {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: none;
+  line-height: 24px;
+  letter-spacing: normal;
+  color: #004A94;
+}
+
+em, strong {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: none;
+  line-height: 24px;
+  letter-spacing: normal;
+  color: #004A94;
+}
+
+.font-alt-1 {
+  font-family: "Poppins", sans-serif;
+}
+
+.font-alt-2 {
+  font-family: "Petrona", sans-serif;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.text-xlight {
+  font-weight: 200;
+}
+
+.text-light {
+  font-weight: 300;
+}
+
+.text-normal {
+  font-weight: 400;
+}
+
+.text-medium {
+  font-weight: 500;
+}
+
+.text-semibold {
+  font-weight: 600;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.text-xbold {
+  font-weight: 800;
+}
+
+.text-heavy {
+  font-weight: 900;
+}
+
+.fs-12 {
+  font-size: 12px;
+}
+
+.fs-13 {
+  font-size: 13px;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.fs-15 {
+  font-size: 15px;
+}
+
+.fs-16 {
+  font-size: 16px;
+}
+
+.fs-17 {
+  font-size: 17px;
+}
+
+.fs-18 {
+  font-size: 18px;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+.fs-22 {
+  font-size: 22px;
+}
+
+.fs-24 {
+  font-size: 24px;
+}
+
+.fs-25 {
+  font-size: 25px;
+}
+
+.fs-26 {
+  font-size: 26px;
+}
+
+.fs-28 {
+  font-size: 28px;
+}
+
+.fs-30 {
+  font-size: 30px;
+}
+
+.fs-35 {
+  font-size: 35px;
+}
+
+.fs-36 {
+  font-size: 36px;
+}
+
+.fs-45 {
+  font-size: 45px;
+}
+
+.fs-48 {
+  font-size: 48px;
+}
+
+.fs-50 {
+  font-size: 50px;
+}
+
+.fs-60 {
+  font-size: 60px;
+}
+
+.fs-75 {
+  font-size: 75px;
+}
+
+.fs-100 {
+  font-size: 100px;
+}
+
+.fs-103 {
+  font-size: 103px;
+}
+
+.fw-900 {
+  font-weight: 900;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
+.fw-400 {
+  font-weight: 400;
+}
+
+.fw-300 {
+  font-weight: 300;
+}
+
+.fw-200 {
+  font-weight: 200;
+}
+
+.fw-100 {
+  font-weight: 100;
+}
+
+.lh-0 {
+  line-height: 0;
+}
+
+.lh-14 {
+  line-height: 14px;
+}
+
+.lh-16 {
+  line-height: 16px;
+}
+
+.lh-18 {
+  line-height: 18px;
+}
+
+.lh-20 {
+  line-height: 20px;
+}
+
+.lh-22 {
+  line-height: 22px;
+}
+
+.lh-24 {
+  line-height: 24px;
+}
+
+.lh-25 {
+  line-height: 25px;
+}
+
+.lh-26 {
+  line-height: 26px;
+}
+
+.lh-28 {
+  line-height: 28px;
+}
+
+.lh-30 {
+  line-height: 30px;
+}
+
+.lh-33 {
+  line-height: 33px;
+}
+
+.lh-34 {
+  line-height: 34px;
+}
+
+.lh-35 {
+  line-height: 35px;
+}
+
+.lh-36 {
+  line-height: 36px;
+}
+
+.lh-48 {
+  line-height: 48px;
+}
+
+.lh-55 {
+  line-height: 55px;
+}
+
+.lh-60 {
+  line-height: 60px;
+}
+
+.lh-72 {
+  line-height: 72px;
+}
+
+.lh-74 {
+  line-height: 74px;
+}
+
+.lh-82 {
+  line-height: 82px;
+}
+
+.lh-89 {
+  line-height: 89px;
+}
+
+.ls-24 {
+  letter-spacing: 24px;
+}
+
+.ls-25 {
+  letter-spacing: 25px;
+}
+
+.ls-36 {
+  letter-spacing: 36px;
+}
+
+@media only screen and (max-width: 768px) {
+  h1, .h1 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  h2, .h2 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  h3, .h3 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  h4, .h4 {
+    font-size: 26px;
+    line-height: 33px;
+  }
+  .h4-alt {
+    font-size: 26px;
+    line-height: 33px;
+  }
+  h5, .h5 {
+    font-size: 18px;
+    line-height: 20px;
+  }
+  h6, .h6 {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  em, strong {
+    font-weight: 600;
+    letter-spacing: default;
+  }
+  .text-sm-thin {
+    font-weight: 100;
+  }
+  .text-sm-xlight {
+    font-weight: 200;
+  }
+  .text-sm-light {
+    font-weight: 300;
+  }
+  .text-sm-normal {
+    font-weight: 400;
+  }
+  .text-sm-medium {
+    font-weight: 500;
+  }
+  .text-sm-semibold {
+    font-weight: 600;
+  }
+  .text-sm-bold {
+    font-weight: 700;
+  }
+  .text-sm-xbold {
+    font-weight: 800;
+  }
+  .text-sm-heavy {
+    font-weight: 900;
+  }
+  .fs-sm-13 {
+    font-size: 13px;
+  }
+  .fs-sm-14 {
+    font-size: 14px;
+  }
+  .fs-sm-16 {
+    font-size: 16px;
+  }
+  .fs-sm-17 {
+    font-size: 17px;
+  }
+  .fs-sm-18 {
+    font-size: 18px;
+  }
+  .fs-sm-20 {
+    font-size: 20px;
+  }
+  .fs-sm-24 {
+    font-size: 24px;
+  }
+  .fs-sm-25 {
+    font-size: 25px;
+  }
+  .fs-sm-26 {
+    font-size: 26px;
+  }
+  .fs-sm-30 {
+    font-size: 30px;
+  }
+  .fs-sm-36 {
+    font-size: 36px;
+  }
+  .fs-sm-48 {
+    font-size: 48px;
+  }
+  .fs-sm-80 {
+    font-size: 80px;
+  }
+  .lh-sm-14 {
+    line-height: 14px;
+  }
+  .lh-sm-16 {
+    line-height: 16px;
+  }
+  .lh-sm-18 {
+    line-height: 18px;
+  }
+  .lh-sm-20 {
+    line-height: 20px;
+  }
+  .lh-sm-22 {
+    line-height: 22px;
+  }
+  .lh-sm-24 {
+    line-height: 24px;
+  }
+  .lh-sm-25 {
+    line-height: 25px;
+  }
+  .lh-sm-26 {
+    line-height: 26px;
+  }
+  .lh-sm-30 {
+    line-height: 30px;
+  }
+  .lh-sm-34 {
+    line-height: 34px;
+  }
+  .lh-sm-36 {
+    line-height: 36px;
+  }
+  .lh-sm-48 {
+    line-height: 48px;
+  }
+  .lh-sm-60 {
+    line-height: 60px;
+  }
+  .ls-sm-24 {
+    letter-spacing: 24px;
+  }
+  .ls-sm-25 {
+    letter-spacing: 25px;
+  }
+  .ls-sm-36 {
+    letter-spacing: 36px;
+  }
+}
+.bg-primary-color {
+  background-color: #004A94;
+}
+
+.bg-secondary-color {
+  background-color: #595959;
+}
+
+.bg-tertiary_color {
+  background-color: #3ddddd;
+}
+
+.bg-quaternary-color {
+  background-color: #dfdfdf;
+}
+
+.bg-primary-hover:hover {
+  background-color: #004A94;
+}
+
+.bg-secondary-hover:hover {
+  background-color: #595959;
+}
+
+.bg-tertiary-hover:hover {
+  background-color: #3ddddd;
+}
+
+.bg-quaternary-hover:hover {
+  background-color: #dfdfdf;
+}
+
+.primary-color {
+  color: #004A94;
+}
+
+.secondary-color {
+  color: #595959;
+}
+
+.tertiary_color {
+  color: #3ddddd;
+}
+
+.quaternary-color {
+  color: #dfdfdf;
+}
+
+.white-color {
+  color: #fff;
+}
+
+.primary-color-hover:hover {
+  color: #004A94;
+}
+
+.secondary-color-hover:hover {
+  color: #595959 !important;
+}
+
+.tertiary_color-hover:hover {
+  color: #3ddddd !important;
+}
+
+.quaternary-color-hover:hover {
+  color: #dfdfdf !important;
+}
+
+.btn {
+  font-size: 16px !important;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 20px;
+  letter-spacing: default;
+  border: 0;
+  padding: 15px 25px;
+  box-shadow: 0 0 32px 1px rgba(0, 0, 0, 0.15);
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  transform: perspective(1px) translateZ(0);
+  transition: 0.4s;
+}
+
+.btn-primary {
+  padding: 18px 35px 12px;
+  border-radius: 3px !important;
+}
+
+/* Genesis Css */
+.genesis-skip-link {
+  margin: 0;
+  display: none;
+}
+
+/*Site Wrap Css*/
+.site-container {
+  -webkit-animation: fadein 1s;
+          animation: fadein 1s;
+  word-wrap: break-word;
+  position: relative;
+}
+.site-container::before {
+  content: " ";
+  display: table;
+}
+.site-container::after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+.site-inner {
+  padding: 0;
+  max-width: 100%;
+  margin: 0;
+  clear: both;
+}
+.site-inner::before {
+  content: " ";
+  display: table;
+}
+.site-inner::after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+.author-box::before {
+  content: " ";
+  display: table;
+}
+.author-box::after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+.clearfix::before {
+  content: " ";
+  display: table;
+}
+.clearfix::after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+.entry::before {
+  content: " ";
+  display: table;
+}
+.entry::after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+.entry-content {
+  overflow-x: hidden;
+}
+.entry-content::before {
+  content: " ";
+  display: table;
+}
+.entry-content::after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+.footer-widgets::before {
+  content: " ";
+  display: table;
+}
+.footer-widgets::after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+
+.wp-custom-logo .title-area img {
+  display: none;
+}
+
+/* header right widget */
+.site-footer {
+  display: none;
+}
+
+.hero-section {
+  background-image: url("http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: red;
+  height: 1000px;
+}
+.hero-section h1 {
+  color: #004A94;
+  font-size: 54px;
+}/*# sourceMappingURL=main.css.map */

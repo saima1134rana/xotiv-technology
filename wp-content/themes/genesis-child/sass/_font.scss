@@ -1,0 +1,226 @@
+$primary-color:#004A94;
+$secondary-color:#595959;
+$tertiary-color :#3ddddd;
+$quaternary-color:#dfdfdf;
+$info-color:#898989;
+$white-color:#fff;
+
+
+$font-alt-1:'Poppins', sans-serif;
+$font-alt-2:'Petrona', sans-serif;
+
+
+$fw-900:900;
+$fw-800:800;
+$fw-700:700;
+$fw-600:600;
+$fw-500:500;
+$fw-400:400;
+$fw-300:300;
+$fw-200:200;
+$fw-100:100;
+
+
+//Default font scheme
+h1, .h1{
+	font-family: $font-alt-1;
+	font-size: 36px;
+	font-weight: $fw_700;
+	text-transform: uppercase;
+	line-height: 36px;
+	letter-spacing: 1px;
+	color:$primary-color;
+	
+}
+
+h2, .h2{
+	font-family: $font-alt-1;
+	font-size: 30px;
+	font-weight: 400;
+	text-transform: uppercase;
+	line-height: 33px;
+	letter-spacing: 1px;
+	color:$primary-color;
+	
+}
+
+h3, .h3{
+	font-family: $font-alt-1;
+	font-size: 24px;
+	font-weight: 300;
+	text-transform: uppercase;
+	line-height: 27px;
+	letter-spacing: 1px;
+	color:$primary-color;
+	
+}
+
+h4, .h4{
+	font-family: $font-alt-1;
+	font-size: 35px;
+	font-weight: 600;
+	text-transform: uppercase;
+	line-height: 35px;
+	letter-spacing: 1px;
+	color:$primary-color;
+	
+}
+.h4-alt{
+	font-family: $font-alt-1;
+	font-size: 35px;
+	font-weight: 600;
+	text-transform: uppercase;
+	line-height: 35px;
+	letter-spacing: 1px;
+	color:$primary-color;
+	
+}
+
+h5, .h5{
+	font-family: $font-alt-1;
+	font-size: 30px;
+	font-weight: 300; 
+	text-transform: uppercase;
+	line-height: 35px;
+	letter-spacing: 1px;
+	color:$primary-color;
+	
+}
+
+h6, .h6{
+	font-family: $font-alt-1;
+	font-size: 20px;
+	font-weight: 600;
+	text-transform: uppercase;
+	line-height: 25px;
+	letter-spacing: 1px;
+	color:$primary-color;
+	
+}
+
+p, .p, body{
+	font-family: $font-alt-1;
+	font-size: 16px;
+	font-weight: 300;
+	text-transform: none;
+	line-height: 24px;
+	letter-spacing: normal;
+	color:$primary-color;
+	
+	a{
+		
+	    &:hover{
+	    	
+	    	text-decoration: none !important;
+	    }
+	}
+	 
+}
+.p-alt{
+	font-family: $font-alt-1;
+	font-size: 16px;
+	font-weight: 300;
+	text-transform: none;
+	line-height: 24px;
+	letter-spacing: normal;
+	color:$primary-color;
+}
+
+em,strong{
+	font-family: $font-alt-1;
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: none;
+	line-height: 24px;
+	letter-spacing: normal;
+	color:$primary-color;
+	
+}
+
+
+
+//Classes for font family
+.font-alt-1{font-family: $font-alt-1;}
+.font-alt-2{font-family: $font-alt-2;}
+
+
+//Classes for font-weights
+.text-thin { font-weight: 100; }
+.text-xlight { font-weight: 200; }
+.text-light { font-weight: 300; }
+.text-normal { font-weight: 400; }
+.text-medium { font-weight: 500; }
+.text-semibold { font-weight: 600; }
+.text-bold { font-weight: 700; }
+.text-xbold { font-weight: 800; }
+.text-heavy { font-weight: 900; }
+
+//Classes for font sizes
+.fs-12 { font-size: 12px; }
+.fs-13 { font-size: 13px; }
+.fs-14 { font-size: 14px; }
+.fs-15 { font-size: 15px; }
+.fs-16 { font-size: 16px; }
+.fs-17 { font-size: 17px; }
+.fs-18 { font-size: 18px; }
+.fs-20 { font-size: 20px; }
+.fs-22 { font-size: 22px; }
+.fs-24 { font-size: 24px; }
+.fs-25 { font-size: 25px; }
+.fs-26 { font-size: 26px; }
+.fs-28 { font-size: 28px; }
+.fs-30 { font-size: 30px; }
+.fs-35 { font-size: 35px; }
+.fs-36 { font-size: 36px; }
+.fs-45 { font-size: 45px; }
+.fs-48 { font-size: 48px; }
+.fs-50 { font-size: 50px; }
+.fs-60 { font-size: 60px; }
+.fs-75 { font-size: 75px; }
+.fs-100 { font-size: 100px; }
+.fs-103 { font-size: 103px; }
+
+//Classes for Font Weight
+.fw-900{font-weight: $fw-900;}
+.fw-800{font-weight: $fw-800;}
+.fw-700{font-weight: $fw-700;}
+.fw-600{font-weight: $fw-600;}
+.fw-500{font-weight: $fw-500;}
+.fw-400{font-weight: $fw-400;}
+.fw-300{font-weight: $fw-300;}
+.fw-200{font-weight: $fw-200;}
+.fw-100{font-weight: $fw-100;}
+
+
+
+//Classes for line Heights
+.lh-0 { line-height: 0; }
+.lh-14 { line-height: 14px; }
+.lh-16 { line-height: 16px; }
+.lh-18 { line-height: 18px; }
+.lh-20 { line-height: 20px; }
+.lh-22 { line-height: 22px; }
+.lh-24 { line-height: 24px; }
+.lh-25 { line-height: 25px; }
+.lh-26 { line-height: 26px; }
+.lh-28 { line-height: 28px; }
+.lh-30 { line-height: 30px; }
+.lh-33 { line-height: 33px; }
+.lh-34 { line-height: 34px; }
+.lh-35 { line-height: 35px; }
+.lh-36 { line-height: 36px; }
+.lh-48 { line-height: 48px; }
+.lh-55 { line-height: 55px; }
+.lh-60 { line-height: 60px; }
+.lh-72 { line-height: 72px; }
+.lh-74 { line-height: 74px; }
+.lh-82 { line-height: 82px; }
+.lh-89 { line-height: 89px; }
+
+
+//Classes for letter spacing
+.ls-24 { letter-spacing: 24px; }
+.ls-25 { letter-spacing: 25px; }
+.ls-36 { letter-spacing: 36px; }
+
+

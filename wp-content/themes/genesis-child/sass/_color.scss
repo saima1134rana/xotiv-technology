@@ -1,0 +1,31 @@
+
+//Classes for bg color
+.bg-primary-color{background-color: $primary-color;}
+.bg-secondary-color{background-color: $secondary-color;}
+.bg-tertiary_color{background-color: $tertiary-color;}
+.bg-quaternary-color{background-color:$quaternary-color;}
+
+//Classes for hover bg color
+.bg-primary-hover { &:hover{ background-color: $primary-color; } }
+.bg-secondary-hover { &:hover{ background-color: $secondary-color; } }
+.bg-tertiary-hover { &:hover{ background-color: $tertiary-color; } }
+.bg-quaternary-hover{ &:hover{ background-color: $quaternary-color; } }
+
+
+//Classes for Text color
+.primary-color{color: $primary-color;}
+.secondary-color{color: $secondary-color;}
+.tertiary_color{color:$tertiary-color;}
+.quaternary-color{color:$quaternary-color;}
+.white-color{color:$white-color;}
+
+//Classes for hover color
+.primary-color-hover {&:hover{color: $primary-color;}}
+.secondary-color-hover{ &:hover{ color: $secondary_color !important; } }
+.tertiary_color-hover { &:hover{ color: $tertiary-color !important; } }
+.quaternary-color-hover{ &:hover{ color: $quaternary-color !important; } }
+
+
+
+
+

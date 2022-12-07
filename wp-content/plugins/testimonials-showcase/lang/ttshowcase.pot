@@ -1,0 +1,2862 @@
+# Copyright (C) 2018 ttshowcase
+# This file is distributed under the same license as the ttshowcase package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ttshowcase\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../testimonials-showcase/options.php:24, ../testimonials-showcase/options.php:1733
+msgid "Testimonial"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:25, ../testimonials-showcase/options.php:60, ../testimonials-showcase/ttshowcase.php:480, ../testimonials-showcase/ttshowcase.php:1326, ../testimonials-showcase/includes/class-widget.php:17, ../testimonials-showcase/includes/layers-widget.php:17, ../testimonials-showcase/includes/layers-widget.php:41, ../testimonials-showcase/includes/layers-widget.php:128
+msgid "Testimonials"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:52
+msgid "Show all"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:67, ../testimonials-showcase/layouts/grid/layout.php:899
+msgstr ""
+
+#: ../testimonials-showcase/options.php:73
+msgid "Image"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:79, ../testimonials-showcase/options.php:1734
+msgid "Rating"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:84
+msgid "Database ID"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:111, ../testimonials-showcase/options.php:123
+msgid "%plural%"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:112
+msgid "%singular%"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:113
+msgid "All %plural%"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:114, ../testimonials-showcase/options.php:115
+msgid "Add New %singular%"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:116
+msgid "Edit %singular%"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:117
+msgid "New %singular%"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:118
+msgid "View %singular%"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:119
+msgid "Search"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:120
+msgid "No %singular% found"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:121
+msgid "No %singular% found in Trash"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:122
+msgid "Parent %singular%:"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:136
+msgid "testimonial"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:147
+msgid "Answering and Notes"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:148
+msgid "Testimonial answer and notes"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:154
+msgid "Answer"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:156
+msgid "If you want to add an answer or follow up to this entry, add it here. It will display below the review, styled as an answer. It will only work in the Grid Layout."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:163
+msgid "Notes"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:165
+msgid "Internal notes about this entry"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:176
+msgid "Advanced URL Image Settings"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:177
+msgid "Advanced Image URL settings for this entry"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:183
+msgid "Behavior"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:185
+msgid "What behavior will the image have?"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:189
+msgid "Link to Single Page Entry"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:190
+msgid "Same Link of Subtitle entry"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:192
+msgid "Open Custom Url in New Page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:193
+msgid "Open Custom Url in Same Page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:194
+msgid "Open Url in default lightbox"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:195
+msgid "Open Url in custom lightbox"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:201, ../testimonials-showcase/options.php:786, ../testimonials-showcase/options.php:1732
+msgid "URL"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:203
+msgid ""
+"<br />Add the custom URL here, if the above selection requires you to do so.<br />\n"
+"							If you have another lightbox plugin installed you can use the custom lightbox option and set the class in the advanced settings.<br />\n"
+"							Use the default lightbox option with careful. If you have another lightbox plugin installed, they might be conflictual.<br />\n"
+"							Read more about how to build links for the lightbox <a href=\"http://cmoreira.net/testimonials-showcase/lightbox\" target=\"_blank\">here</a>\n"
+"							"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:216
+msgid "Extended Page Content"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:217
+msgid "If the single page is active you can use the editor below to add content to the page. If you will not use the single page, you can leave the field blank."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:224
+msgid "Featured Image for Testimonial"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:231
+msgid "Testimonial Info"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:232
+msgid "Additional information for this entry"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:239
+msgid "<br />This will display below the Title of the entry. It could be for example the position or company of the author of this testimonial"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:245
+msgid "<br />If you want a link to be added to the sub-title above, you can add it here"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:249
+msgid "URL Target"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:251
+msgid "Target to Open the URL"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:253
+msgid "New page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:254
+msgid "New page (no follow)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:255
+msgid "Same Page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:262
+msgid "<br />Optional. Title to be added just before the testimonial/review text"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:269
+msgid "Short Testimonial Text"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:275
+msgid "Optional. Only to be used in the layout if choosen to. If you have the Rich Snippets option active in the settings it's recommended you insert a rating value"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:282
+msgid "For information purposes only. <br />This will not be displayed in the layout but it might be used to search for a Gravatar if the featured image is not set."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:288, ../testimonials-showcase/options.php:298, ../testimonials-showcase/options.php:308, ../testimonials-showcase/options.php:318
+msgid "This field has no particular purpose, but can be used to grab more custom information from the users. Label can be defined in the Frontend form settings"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:290, ../testimonials-showcase/options.php:300, ../testimonials-showcase/options.php:310, ../testimonials-showcase/options.php:320
+msgid "Please Select"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:337, ../testimonials-showcase/options.php:338, ../testimonials-showcase/options.php:1745
+msgid "Category"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:381
+msgid "Post"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:381
+msgid "Page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:390
+msgid "This settings will reflect in the shortcodes you create to display the front-end submission form."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:393
+msgid "<br>Seems you are using the Polylang plugin! You can translate the label and message values in the \"String Translations\" tab of the Polylang settings page or you can use the following shortcode to display content according to the language: <br>[tlang is=\"en\"]English Value[/tlang][tlang is=\"it\"]Italian Value[/tlang]"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:396
+msgid "<br>Seems you are using the WPML plugin! You can translate the label and message values using the \"String Translations\" addon from WPML or you can use the following shortcode to display content according to the language: <br>[tlang is=\"en\"]English Value[/tlang][tlang is=\"it\"]Italian Value[/tlang]"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:404, ../testimonials-showcase/options.php:1719, ../testimonials-showcase/layouts/averagebox/layout.php:62, ../testimonials-showcase/layouts/grid/layout.php:230, ../testimonials-showcase/layouts/slider/layout.php:252, ../testimonials-showcase/layouts/slider/layout.php:327
+msgid "None"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:417, ../testimonials-showcase/options.php:418
+msgid "Settings"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:422
+msgid "Basic Settings"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:423
+msgid "Basic settings for the plugin."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:430
+msgid "<h4>Plugin Naming Related Settings</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:431, ../testimonials-showcase/options.php:472, ../testimonials-showcase/options.php:499, ../testimonials-showcase/options.php:536, ../testimonials-showcase/options.php:572, ../testimonials-showcase/options.php:632, ../testimonials-showcase/options.php:652, ../testimonials-showcase/options.php:895, ../testimonials-showcase/options.php:1127, ../testimonials-showcase/options.php:1153, ../testimonials-showcase/options.php:1248, ../testimonials-showcase/options.php:1276, ../testimonials-showcase/includes/layers-widget.php:42, ../testimonials-showcase/layouts/averagebox/layout.php:384, ../testimonials-showcase/layouts/grid/layout.php:647, ../testimonials-showcase/layouts/slider/layout.php:714
+msgstr ""
+
+#: ../testimonials-showcase/options.php:436
+msgid "Singular Name"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:437
+msgid "Singular Name for Plugin Feature"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:444
+msgid "Plural Name"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:445
+msgid "Plural Name for Plugin Feature"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:452
+msgid "Category Menu Name"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:453
+msgid "Menu Name for Category"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:461
+msgid "Slug (url text)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:462
+msgid "Url String for This (You might need to re-save the permalink options after changing this setting)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:471
+msgid "<h4>Star Icon Settings</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:477
+msgid "Display Empty stars"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:478
+msgid "If active empty stars will display in 4 and below ratings, so 5 stars are always present"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:485
+msgid "Rating Scale"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:486
+msgid "Chose the rating scale."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:490
+msgid "Up to 5"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:491
+msgid "Up to 10"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:498
+msgid "<h4>Small Thumbnail Settings</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:504
+msgid "Small Thumbnail Width"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:505, ../testimonials-showcase/options.php:514, ../testimonials-showcase/options.php:542, ../testimonials-showcase/options.php:551
+msgid "Thumbnail size in pixels"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:513
+msgid "Small Thumbnail Height"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:522
+msgid "Small Thumbnail Crop"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:523, ../testimonials-showcase/options.php:560
+msgid "Do you want the thumbnail to be cropped when uploaded?"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:526, ../testimonials-showcase/options.php:563
+msgid "Yes"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:527, ../testimonials-showcase/options.php:564
+msgid "No"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:535
+msgid "<h4>Normal Thumbnail Settings</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:541
+msgid "Thumbnail Width"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:550
+msgid "Thumbnail Height"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:559
+msgid "Thumbnail Crop"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:571
+msgid "<h4>Single Page Settings</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:585
+msgid "Display short testimonial"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:586
+msgid "If active the testimonial entry will also display in the single page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:592
+msgid "Populate with other information fields"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:593
+msgid "If active single page will also display information from the other existing fields, but with no specific layout. You can disable this and use the advanced settings for more customization."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:599
+msgid "Display Yes/No fields information."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:600
+msgid "If active the yes/no fields with information will display in the single page."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:607
+msgid "Back Link Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:608
+msgid "Text to display on single pages if you have the URL below defined"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:614
+msgid "Testimonials Page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:615
+msgid "URL to the page where you have all the testimonials. This will be added in the single pages."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:622
+msgid "Theme Template"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:623
+msgid "<br>The way this option works will also depend on your theme. The default template is the Post template, but many themes display extra meta information on post pages such as \"posted by\" or \"post date\" information, which may not be desired. Usually, page templates contain the essential information. If you choose \"Pages\" then the testimonials will be shown using your theme default page template. <strong>Be aware that some themes will not work with this option</strong>, if so (or you want to make a custom page), you can create a file named <code>single-ttshowcase.php</code> <a href=\"http://codex.wordpress.org/Post_Types#Template_Files\">as shown on the wordpress codex</a>, and leave this set to Posts."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:631
+msgid "<h4>Pagination Labels Settings</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:637
+msgid "Next Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:638
+msgid "Next Page link label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:644
+msgid "Previous Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:645
+msgid "Previous page link label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:651
+msgid "<h4>Date Settings</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:657
+msgid "Date Format"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:658
+msgid "Date format for the testiminials layouts, when displayed"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:662
+msgid "WordPress Default"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:671
+msgid "Custom Date Format"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:672
+msgid "Documentation here: http://codex.wordpress.org/Formatting_Date_and_Time"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:686, ../testimonials-showcase/layouts/averagebox/layout.php:204, ../testimonials-showcase/layouts/grid/layout.php:476, ../testimonials-showcase/layouts/slider/layout.php:542
+msgid "Structured Data"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:687
+msgid ""
+"<a href=\"https://developers.google.com/search/docs/guides/intro-structured-data\" target=\"_blank\">Structured data</a> provides information about your page to the search engines. <br />\n"
+"														If you are using the STAR RATING option for your entries, you can activate structured data so Review or Aggregate Review information will be included in the code. Hopefully search engines will fetch this information and display Rich Snippets, like stars, on result pages. <br />\n"
+"														The code will follow the <a href=\"http://schema.org/\" target=\"_blank\">Schema.org</a> formats. <a href=\"http://cmoreira.net/testimonials-showcase/rich-snippets/\" target=\"_blank\">More information about this</a>."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:696
+msgid "Include Structured data in single pages"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:697
+msgid "If active Schema.org Review data will be added to the single page for the entries"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:704
+msgid "Include Structured Data in shortcodes"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:705
+msgid "If active Schema.org Aggregate Review data will be added to the layouts generated by shortcodes"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:712
+msgid "<h3>What is being reviewed</h3>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:713
+msgid "The search engines need to know what is being reviewed. Use one of the two options below to define what is being reviewed. In addition, you can also set a custom name for each layout you create with the shortcode generator. Consider Google now only accepts reviews metadata for Products and LocalBusiness (in addition to movies, books and music)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:718
+msgid "Schema.org type"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:719
+msgid "The default is http://schema.org/Product. Google only accepts reviews for these types."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:722
+msgid "Product"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:723
+msgid "Software Application"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:724
+msgid "Local Business"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:725
+msgid "- Store"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:726
+msgid "- Sports Activity Location"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:727
+msgid "- Real Estate Agent"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:728
+msgid "- Lodging Business"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:729, ../testimonials-showcase/options.php:742
+msgid "- Legal Service"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:730
+msgid "- Health and Beauty Business"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:731
+msgid "- Food Establishment"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:732
+msgid "- Financial Service"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:733
+msgid "- Entertainment Business"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:734
+msgid "- Employment Agency"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:735
+msgid "- Dentist"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:736
+msgid "- Child care"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:737
+msgid "- Automative Business"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:738
+msgid "- Animal Shelter"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:739
+msgid "- Dry Cleaning or Laundry"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:740
+msgid "- Home and Construction Business"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:741
+msgid "- Internet Cafe"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:743
+msgid "- Travel Agency"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:749
+msgid "Display advanced options in Shortcode Generator"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:750
+msgid "If enabled, more options will display in the shortcode generator, in the Rich Snippets section."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:758
+msgid "Use Groups as Products"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:759
+msgid "Enable this option if you want the plugin to interpret the groups as products/business to include the information for the structured data. It will only work when the layout created is only displaying entries from a specific category. All the options below will be ignored when a category is selected. To add specific structured data, enable the option to display the advanced options in the shortcode generator and use them to include your data."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:768, ../testimonials-showcase/options.php:1728, ../testimonials-showcase/layouts/averagebox/layout.php:249, ../testimonials-showcase/layouts/grid/layout.php:510, ../testimonials-showcase/layouts/slider/layout.php:576
+msgid "Name"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:769, ../testimonials-showcase/options.php:781
+msgid "Default product/business name to be used in the rich snippets information, in case the categories are off or do not exist, or the product information for the entry is empty."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:774, ../testimonials-showcase/layouts/averagebox/layout.php:265, ../testimonials-showcase/layouts/grid/layout.php:526, ../testimonials-showcase/layouts/slider/layout.php:592
+msgid "Image URL"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:775
+msgid "URL to an image to be included in the structured data that identifies your product/business."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:780
+msgid "Description"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:787
+msgid "Official Website URL for product/business to include in the structured data"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:793, ../testimonials-showcase/layouts/averagebox/layout.php:281, ../testimonials-showcase/layouts/grid/layout.php:544, ../testimonials-showcase/layouts/slider/layout.php:610
+msgid "Same As URL(s)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:794, ../testimonials-showcase/layouts/averagebox/layout.php:282, ../testimonials-showcase/layouts/grid/layout.php:545, ../testimonials-showcase/layouts/slider/layout.php:611
+msgid "URL of a reference Web page that unambiguously indicates the item's identity. E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website. You can use multiple URLs separated by a comma."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:802
+msgid "<h3>LocalBusiness Specific Fields</h3>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:803
+msgid "Fields to be used when Localbusiness type is being used"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:808, ../testimonials-showcase/layouts/averagebox/layout.php:305, ../testimonials-showcase/layouts/grid/layout.php:568, ../testimonials-showcase/layouts/slider/layout.php:635
+msgid "Address"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:809, ../testimonials-showcase/layouts/averagebox/layout.php:306, ../testimonials-showcase/layouts/grid/layout.php:569, ../testimonials-showcase/layouts/slider/layout.php:636
+msgid "Physical address of the item."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:814, ../testimonials-showcase/layouts/averagebox/layout.php:312, ../testimonials-showcase/layouts/grid/layout.php:575, ../testimonials-showcase/layouts/slider/layout.php:642
+msgid "Telephone"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:815, ../testimonials-showcase/layouts/averagebox/layout.php:313, ../testimonials-showcase/layouts/grid/layout.php:576, ../testimonials-showcase/layouts/slider/layout.php:643
+msgid "Telephone number"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:821, ../testimonials-showcase/layouts/averagebox/layout.php:320, ../testimonials-showcase/layouts/grid/layout.php:583, ../testimonials-showcase/layouts/slider/layout.php:650
+msgid "Price Range"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:822, ../testimonials-showcase/layouts/averagebox/layout.php:321, ../testimonials-showcase/layouts/grid/layout.php:584, ../testimonials-showcase/layouts/slider/layout.php:651
+msgid "The price range of the business, for example $$$."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:827, ../testimonials-showcase/options.php:1736, ../testimonials-showcase/layouts/averagebox/layout.php:327, ../testimonials-showcase/layouts/grid/layout.php:590, ../testimonials-showcase/layouts/slider/layout.php:657
+msgid "Email"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:828, ../testimonials-showcase/layouts/averagebox/layout.php:328, ../testimonials-showcase/layouts/grid/layout.php:591, ../testimonials-showcase/layouts/slider/layout.php:658
+msgid "Email address."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:833, ../testimonials-showcase/layouts/averagebox/layout.php:334, ../testimonials-showcase/layouts/grid/layout.php:597, ../testimonials-showcase/layouts/slider/layout.php:664
+msgid "Logo URL"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:834, ../testimonials-showcase/layouts/averagebox/layout.php:335, ../testimonials-showcase/layouts/grid/layout.php:598, ../testimonials-showcase/layouts/slider/layout.php:665
+msgid "An associated logo."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:840
+msgid "<h3>Product Specific Fields</h3>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:841
+msgid "Offer Metadata fields to be used when Product type is being used"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:846, ../testimonials-showcase/layouts/averagebox/layout.php:362, ../testimonials-showcase/layouts/grid/layout.php:625, ../testimonials-showcase/layouts/slider/layout.php:692
+msgid "Price"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:847, ../testimonials-showcase/layouts/averagebox/layout.php:363, ../testimonials-showcase/layouts/grid/layout.php:626, ../testimonials-showcase/layouts/slider/layout.php:693
+msgid "Number or text with the price for the product being reviewed."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:852, ../testimonials-showcase/layouts/averagebox/layout.php:369, ../testimonials-showcase/layouts/grid/layout.php:632, ../testimonials-showcase/layouts/slider/layout.php:699
+msgid "Currency"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:853, ../testimonials-showcase/layouts/averagebox/layout.php:370, ../testimonials-showcase/layouts/grid/layout.php:633, ../testimonials-showcase/layouts/slider/layout.php:700
+msgid "The currency (in 3-letter ISO 4217 format) of the price"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:858
+msgid "Price Valid Until"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:859, ../testimonials-showcase/layouts/averagebox/layout.php:377, ../testimonials-showcase/layouts/grid/layout.php:640, ../testimonials-showcase/layouts/slider/layout.php:707
+msgid "The date (in ISO 8601 date format) after which the price will no longer be available."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:864, ../testimonials-showcase/layouts/averagebox/layout.php:383, ../testimonials-showcase/layouts/grid/layout.php:646, ../testimonials-showcase/layouts/slider/layout.php:713
+msgid "Availability"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:865
+msgid "The availability of this item"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:869, ../testimonials-showcase/layouts/averagebox/layout.php:388, ../testimonials-showcase/layouts/grid/layout.php:651, ../testimonials-showcase/layouts/slider/layout.php:718
+msgid "Empty (Default)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:870, ../testimonials-showcase/layouts/averagebox/layout.php:389, ../testimonials-showcase/layouts/grid/layout.php:652, ../testimonials-showcase/layouts/slider/layout.php:719
+msgid "In Stock"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:871, ../testimonials-showcase/layouts/averagebox/layout.php:390, ../testimonials-showcase/layouts/grid/layout.php:653, ../testimonials-showcase/layouts/slider/layout.php:720
+msgid "Out of Stock"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:872, ../testimonials-showcase/layouts/averagebox/layout.php:391, ../testimonials-showcase/layouts/grid/layout.php:654, ../testimonials-showcase/layouts/slider/layout.php:721
+msgid "Sold Out"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:873, ../testimonials-showcase/layouts/averagebox/layout.php:392, ../testimonials-showcase/layouts/grid/layout.php:655, ../testimonials-showcase/layouts/slider/layout.php:722
+msgid "Pre-order"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:874, ../testimonials-showcase/layouts/averagebox/layout.php:393, ../testimonials-showcase/layouts/grid/layout.php:656, ../testimonials-showcase/layouts/slider/layout.php:723
+msgid "Online Only"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:875, ../testimonials-showcase/layouts/averagebox/layout.php:394, ../testimonials-showcase/layouts/grid/layout.php:657, ../testimonials-showcase/layouts/slider/layout.php:724
+msgid "Limited Availability"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:876, ../testimonials-showcase/layouts/averagebox/layout.php:395, ../testimonials-showcase/layouts/grid/layout.php:658, ../testimonials-showcase/layouts/slider/layout.php:725
+msgid "In Store Only"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:877, ../testimonials-showcase/layouts/averagebox/layout.php:396, ../testimonials-showcase/layouts/grid/layout.php:659, ../testimonials-showcase/layouts/slider/layout.php:726
+msgid "Discontinued"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:887
+msgid "Front-End Form"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:894
+msgid "<h4>Field Labels</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:899
+msgid "Name Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:900
+msgid "Text to display for the title input"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:908
+msgid "Subtitle Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:909
+msgid "Text to display for the subtitle information input"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:916
+msgid "URL Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:917
+msgid "Text to display for the URL input"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:924
+msgid "Testimonial Title Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:925
+msgid "Text to display for the Testimonial Title input option"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:932
+msgid "Testimonial Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:933
+msgid "Text to display for the Testimonial textarea option"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:940
+msgid "Long Testimonial Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:941
+msgid "Text to display for the Long Testimonial textarea option (single page content)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:948
+msgid "Rating Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:949
+msgid "Text to display for the Rating option"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:957
+msgid "Rating Type Singular Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:958
+msgid "Text to display for singular rating identification (ex.: Star)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:966
+msgid "Rating Type Plural Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:967
+msgid "Text to display for singular rating identification (ex.: Stars)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:974
+msgid "Default Rating"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:975
+msgid "Initial selected rating value"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:982
+msgid "Email Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:983
+msgid "Text to display for the Email input"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:993
+msgid "Human Verification Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:994
+msgid "Text to display for Human math problem verification"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1003
+msgid "Image Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1004
+msgid "Text to display for the Image input"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1012
+msgid "Category Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1013
+msgid "Text to display for the category dropdown input"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1021
+msgid "Yes/No Field Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1022, ../testimonials-showcase/options.php:1030, ../testimonials-showcase/options.php:1038, ../testimonials-showcase/options.php:1047
+msgid "Text to display for a custom boolean dropdown field. This field will not be available to display on the layouts. It is just for information gathering purposes. For example, to know if user allows publication of submission or if he wants to be added to newsletter."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1029
+msgid "Yes/No Field Label 2"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1037
+msgid "Yes/No Field Label 3"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1046
+msgid "Yes/No Field Label 4"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1054
+msgid "Yes/No Field Positive Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1055, ../testimonials-showcase/options.php:1063
+msgid "Text to display in the dropdown or radio button of the Yes/No fields."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1062
+msgid "Yes/No Field Negative Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1071
+msgid "Consent Checkbox Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1072
+msgid "Text to display for the \"consent\" checkbox"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1080
+msgid "Submit Button Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1081
+msgid "Text to display on the submit button"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1083
+msgid "Submit Entry"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1090
+msgid "Fields order"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1091
+msgid "Order the fields will display in the form. Drag & drop to re-order them."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1098
+msgid "Mandatory fields"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1099
+msgid "Select the fields you want to be mandatory."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1105
+msgid "\"Mandatory\" label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1106
+msgid "Text to display after the mandatory fields labels"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1108
+msgid " *"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1113
+msgid "Pending Label"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1114
+msgid "Text to display on admin bar when there are pending entries to approve"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1116, ../testimonials-showcase/ttshowcase.php:1244
+msgid "Pending"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1126
+msgid "<h4>Confirmation and Email Settings </h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1135
+msgid "Thank You Message"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1136
+msgid "Text to display after the user submits the form. Will only display if the \"Confirmation Page\" field is empty."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1138
+msgid "Thank you for submitting your testimonial! It is now awaiting approval from the site administrator. Thank you!"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1143
+msgid "Ajax Submission"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1144
+msgid "If enabled, the form data will be processed without reloading the page. Confirmation URL cannot be used with this method."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1150
+msgid "Confirmation Page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1151
+msgid "If you want the user to be redirected to a specific URL instead of displaying the above message, place the URL here. If there is an URL in this field the message above will be ignored and the user will be redirected to the page you have set here."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1156
+msgid "Force Page Refresh"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1157
+msgid "If active and the confirmation page URL does not exist, the submission page will refresh, displaying both the success message and the form again. This takes more resources, but could be usefull when using the testimonials layout on the same page with auto-approval."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1163
+msgid "Global Error Message"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1164
+msgid "Message to display when an error occurs."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1166
+msgid "The entry was not submitted. Check the form for errors."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1171
+msgid "Error for mandatory empty fields"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1172
+msgid "This message will be used for most fields, when they are mandatory and are left empty."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1174
+msgid "This field is required"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1178
+msgid "Error for email"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1179
+msgid "Invalid email message"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1181
+msgid "Invalid email value"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1185
+msgid "Error for image"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1186
+msgid "Invalid or empty image message"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1188
+msgid "Invalid or empty image"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1192
+msgid "Error for Yes/No"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1193
+msgid "When this field is mandatory and is left unchecked"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1195
+msgid "Please review this field."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1199
+msgid "Human Verification Error"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1200
+msgid "When user fails the human verification problem solving"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1202
+msgid "Please insert the correct answer"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1210
+msgid "Non-logged users message"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1211
+msgid "Message to display to non logged users if you make the form available only to logged users"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1213
+msgid "You need to be a registered user to submit entries."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1221
+msgid "Send Notification Email"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1222
+msgid "Send new entry notification email to site administrator"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1228
+msgid "Send Email to"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1229
+msgid "Notification email will be sent to this address"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1234
+msgid "Notification Email Subject"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1235
+msgid "Notification email subject"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1237
+msgid "New Testimonial for Review"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1240
+msgid "Notification Email Message"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1241
+msgid "Message to be sent when new testimonial has been submited. Template tags can be used:<br> {title} - Name of entry author<br>{admin_url} - Link to the edit and approval page for this entry<br> {text} - Entry submitted text<br> {rating} - Rating for this entry <br> {email} - Email field information<br> {taxonomy} - Taxonomies (groups) information<br> {boolean} - Yes/No custom field information<br> {boolean2} - Yes/No custom field information 2 <br> {boolean3} - Yes/No custom field information 3<br> {boolean4} - Yes/No custom field information 4<br> {short_title} - Title for Short Testimonial"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1243
+msgid "New Testimonial entry from: {title}. <br /> <a href=\"{admin_url}\">Approve or Delete Entry</a>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1247
+msgid "<h4>Spam Prevention</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1253
+msgid "Human Verification on logged users"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1254
+msgid "If active, the human control field, if chosen to display, will also display to logged users"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1260
+msgid "Honeypot Spam prevention"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1261
+msgid "If active, a hidden field will be included in the form, that should be empty on submission. If it has a value, it most likely means the form is being submitted by a robot."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1267
+msgid "Use Akismet"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1268
+msgid "When enabled, Akismet will be used to filter the valid submissions. If they are considered spam they will be stored, but in the trash, they will not be published and they won't trigger the notification email. This will only work if you have Akismet plugin enabled with a valid API key."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1275
+msgid "<h4>Publish Status Settings</h4>"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1280
+msgid "Default Status of Submissions"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1281
+msgid "<br>Chose if you want the entries to be automatically published or to stay pending review, until the admin decides to publish them"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1285
+msgid "Pending Review - Administrator will need to approve entry"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1286
+msgid "Published - Entries will be automatically visible"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1293
+msgid "Integration"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1294
+msgid "Integrate content across the single pages of a specific post type. You can leverage the power of shortcodes and the <a href=\"https://cmoreira.net/testimonials-showcase/product-reviews/\" target=\"_blank\">{current_page_id}</a> option for the category to build a review system, using the shortcode generator to build your layouts and place them here."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1299
+msgid "Post Type"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1301
+msgid "What post type to include this content"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1307, ../testimonials-showcase/includes/class-visual-composer.php:70
+msgid "Content"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1308
+msgid "Place the content you want to render after each entry of the selected post type. <br> You can use placeholder in the shortcodes you build to read information from the current post. Useful to populate the structured data fields. Availabel placeholders:<br>{post_title} - Post Title<br>{excerpt} - Post Excerpt<br>{featured_image} - Featured Image URL<br>{site_url} - your site URL<br>{meta:custom_meta_id} - replace \"custom_meta_id\" with the id of your custom meta fields to read information from them<br>{callback:your_function} - will execute the function passing the current post id as a paramater<br>{term_name} - will display the term name if the shortcode is rendered in the category/taxonomy archive page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1317
+msgid "AverageBox"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1318
+msgid "Advanced Average Box layout settings"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1324
+msgid "Content to display when there are no ratings in average rating shortcode. It will replace the shortcode paramater. It will render shortcodes."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1331
+msgid "If the option to trigger a modal is enabled, what to render when a rating is selected. Usually this would contain a shortcode to render a frontend submission form."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1338
+msgid "Text to display on the Close button of the modal"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1340, ../testimonials-showcase/layouts/averagebox/layout.php:804
+msgid "close"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1347
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1348
+msgid "Advanced settings for the plugin."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1353
+msgid "Custom CSS"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1354
+msgid "Add custom CSS here. It will be added to the page where the layout will display"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1362
+msgid "Custom JS"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1363
+msgid "Add custom javascript code here. It will be added to the page where the layouts will display"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1369
+msgid "Load Custom CSS & JS for Forms"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1370
+msgid "If active, the above custom CSS and javascript will also load on pages where the frontend submission form is being used"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1378
+msgid "Exclude from Search"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1379
+msgid "Exclude entries from general search results"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1387
+msgid "Use Gravatar"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1388
+msgid "If entry doesn't have a featured image but has an email, the plugin will check with the Gravatar service if there is a profile image set for that email."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1393
+msgid "Force Height Output"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1394
+msgid "Some avatar images might not output the height parameter. If you want to force the height parameter to display, check this box. Will use more server load (to calculate proper image height)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1399
+msgid "Disable Fontawesome"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1400
+msgid "Your site might already be loading a version of fontawesome which might conflict with the one the plugin includes. You can disable it if needed here."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1406
+msgid "Render Shortcodes"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1407
+msgid "If disabled shortcodes won't be rendered inside the testimonials text entries"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1413
+msgid "Render Smiles"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1414
+msgid "If enabled and the emoticons are also enabled on \"Settings > Writting > Formatting\" it will convert emoticons like :-) and :-P to graphics on display"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1420
+msgid "Custom Lightbox Class attribute"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1421
+msgid "If you are using a custom lightbox plugin, place here the class name the links should have so the lightbox initiates."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1427
+msgid "Custom Lightbox rel attribute"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1428
+msgid "If you are using a custom lightbox plugin, place here the content for the attribute rel=\"\" the links should have so the lightbox initiates."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1434
+msgid "Elements of Quote block"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1435
+msgid "Which elements to display inside quote block (Inside Speech Bubble).<br> Available template tags: {quote},{read_more},{review_title},{author},{stars},{date},{subtitle},{category}"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1442
+msgid "Elements of Info block"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1443
+msgid "Which elements to display inside info block (Together with Image).<br> Available template tags: {quote},{read_more},{review_title},{author},{stars},{date},{subtitle},{category}"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1449
+msgid "Render Shortcode Layout on Single Page"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1450
+msgid ""
+"If you want to render for example a speech bubble layout on the single page, inclue the \"options:\" parameter of a shortcode here. For example:<br>\n"
+"									theme:speech,info-position:info-left,text-alignment:left,columns:1,display-image:on,image-size:ttshowcase_small,image-shape:circle,image-effect:none,image-link:on"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1460
+msgid "Help! FAQ"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1461
+msgid "If you're having any problem with the plugin you can read the full list of Frequently asked questions in the <a href=\"http://codecanyon.net/item/testimonials-showcase-wordpress-plugin/6588139/support\" target=\"_blank\">Official FAQ page of the plugin</a>. <h3>CSS Tips & Tricks</h3> You can also check some CSS tips on the <a href=\"http://cmoreira.net/testimonials-showcase/custom-css/\" target=\"_blank\">official plugin site</a>.<br><br> <h2>The read more link / single page entry are not working! What can I do?</h2><br>If when you open a single page it returns a \"Page Not Found\" error, it's possible that the permalinks are not working well. Go on Settings > Permalinks and save the settings again, even without any changes. This will make the permalinks option update.<br><br>Another possible problem is conflict of slugs. If you have a page with the same ‘slug’ (permalink name) of the Testimonials Showcase (default is \"testimonials\"), the single pages might not work properly. You will have to change or the slug of the page/post or the slug of the Testimonials Showcase entries, in the plugin settings page and resave the permalinks again. <br> <br> "
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1501, ../testimonials-showcase/options.php:1502
+msgid "Shortcode Generator"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1504
+msgid "Available Generators:"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1508
+msgid "Layout: Simple Query"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1509, ../testimonials-showcase/options.php:1641
+msgid "This will generate a layout for the Testimonials. You have some simple options to perform a query to choose which entries to display"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1514, ../testimonials-showcase/options.php:1558, ../testimonials-showcase/options.php:1630, ../testimonials-showcase/options.php:1648
+msgid "What you want to display"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1515, ../testimonials-showcase/options.php:1559, ../testimonials-showcase/options.php:1631, ../testimonials-showcase/options.php:1649
+msgid "How you want to display it"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1516, ../testimonials-showcase/options.php:1560, ../testimonials-showcase/options.php:1632, ../testimonials-showcase/options.php:1650
+msgid "You can use the shortcode on your post, pages and text widgets"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1517
+msgid "This is a php function to run this shortcode. You can use it directly in the Theme files"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1518, ../testimonials-showcase/options.php:1562, ../testimonials-showcase/options.php:1634, ../testimonials-showcase/options.php:1652
+msgid "Shortcode"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1519, ../testimonials-showcase/options.php:1563, ../testimonials-showcase/options.php:1635, ../testimonials-showcase/options.php:1653
+msgid "Preview"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1520, ../testimonials-showcase/options.php:1564, ../testimonials-showcase/options.php:1654
+msgid "This is a preview only. Once you place the shortcode on your page, it might look different since it will be integrated with your layout and some CSS of your theme or other plugins might affect the way the layout looks like."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1521, ../testimonials-showcase/options.php:1655
+msgid "Light Background"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1522, ../testimonials-showcase/options.php:1656
+msgid "Dark Background"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1527, ../testimonials-showcase/options.php:1661
+msgid "Filter entries with term chosen."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1529, ../testimonials-showcase/options.php:1571, ../testimonials-showcase/options.php:1663, ../testimonials-showcase/form/form-class.php:132
+msgid "[ Current Page Slug ]"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1530, ../testimonials-showcase/options.php:1572, ../testimonials-showcase/options.php:1664, ../testimonials-showcase/form/form-class.php:130
+msgid "[ Current Page ID ]"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1531, ../testimonials-showcase/options.php:1573, ../testimonials-showcase/options.php:1665, ../testimonials-showcase/form/form-class.php:131
+msgid "[ Current Term Name ]"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1535, ../testimonials-showcase/options.php:1597, ../testimonials-showcase/options.php:1669
+msgid "Order By"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1536, ../testimonials-showcase/options.php:1598, ../testimonials-showcase/options.php:1670
+msgid "Paramater to order the entries with"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1539, ../testimonials-showcase/options.php:1587, ../testimonials-showcase/options.php:1673
+msgid "Limit"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1540, ../testimonials-showcase/options.php:1588
+msgid "Number of entries to display. Leave blank or 0 to display all."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1544, ../testimonials-showcase/options.php:1592
+msgid "Pagination"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1545, ../testimonials-showcase/options.php:1593
+msgid "Display pagination Below the layout (Limit number of entries should be set above)"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1552
+msgid "Layout: Advanced Query"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1553
+msgid "Advanced Shortcode Generator. You have more advanced options to perform a query to choose which entries to display"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1561, ../testimonials-showcase/options.php:1633, ../testimonials-showcase/options.php:1651
+msgid "Click here to get the PHP function. You can use it directly in the Theme files"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1568
+msgid "Select Multiple"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1569
+msgid "Filter entries with terms chosen"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1581
+msgid "Relation"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1582
+msgid "Relation to use when filtering chosen terms above."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1601
+msgid "IDs to display"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1602
+msgid "Comma sperated ID values of specific entries you want to display. Example: 7,11. Leave blank or 0 to display all"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1606
+msgid "Search for term"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1607
+msgid "Search for a term in the title and content of the entry. Leave blank to ignore this field."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1610
+msgid "Extensive Search for term"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1611
+msgid "Search for a term in the title, content and all aditional information fields. Leave blank to ignore this field."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1614
+msgid "Publish Status"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1615
+msgid "Publish status of entries"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1621
+msgid "Front-end Submission Form"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1622
+msgid "Shortcode generator to display a front-end submission form. After generating the shortcode you can place it in a page and forward your users there to submit their own entries."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1636
+msgid "This is a preview only. The forms might look slightly different when applied to your page. Usually the themes have their own form styles and when you place the shortcode in your page, the form might inherit the available form styles from your theme."
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1640
+msgid "Average Rating Info"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1674
+msgid "Number of entries to display"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1712
+msgid "Order Attribute"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1713
+msgid "ID"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1714, ../testimonials-showcase/includes/utils-advanced.php:1295, ../testimonials-showcase/layouts/grid/layout.php:186
+msgid "Title"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1715
+msgid "Random"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1716
+msgid "Ascending"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1717
+msgid "Descending"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1718, ../testimonials-showcase/layouts/grid/layout.php:2028
+msgid "All"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1720
+msgid "Published"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1721
+msgid "Pending Review"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1722
+msgid "in Draft"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1723
+msgid "Private"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1724
+msgid "ASC"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1725
+msgid "DESC"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1726
+msgid "Settings Updated"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1727
+msgid "Continue Reading"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1729
+msgid "Position"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1730
+msgid "Your country and time of visit"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1731
+msgid "Company"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1735
+msgid "Rate"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1739
+msgid "Submit"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1740
+msgid "Testimonial Title"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1741
+msgid "Your Image"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1742
+msgid "Star"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1743
+msgid "Stars"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1744
+msgid "Are you Human?"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1746
+msgid "How did you visit us?"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1748
+msgid " Please insert the correct answer"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1749
+msgid " Please enter a valid name"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1750
+msgid " Please enter a valid email"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1751
+msgid "New Testimonial to Review"
+msgstr ""
+
+#: ../testimonials-showcase/options.php:1752
+msgid " Please enter a valid testimonial"
+msgstr ""
+
+#: ../testimonials-showcase/ttshowcase.php:481
+msgid "Insert previously saved Testimonials Shortcode"
+msgstr ""
+
+#: ../testimonials-showcase/ttshowcase.php:555
+msgid "There were no arguments supplied for this shortcode"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:22
+msgid "Subtitle"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:23
+msgid "Subtitle input active"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:30
+msgid "URL field"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:31
+msgid "URL input field active"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:38
+msgid "Display Image Upload"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:39
+msgid "Display Image Upload option"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:47
+msgid "Display Title Option"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:48
+msgid "Display Review/testimonial title option"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:56
+msgid "Display Long Testimonial Field"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:57
+msgid "Display textarea for single page content (long testimonial)"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:65
+msgid "Display Star Rating"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:66
+msgid "Display Star Rating option"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:77
+msgid "Email Field"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:78
+msgid "Display Email Field"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:85
+msgid "Consent Checkbox"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:86
+msgid "Display Checkbox to ask for consent. The user will need to check this field. It will be mandatory."
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:93
+msgid "Human Verification"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:94
+msgid "Display math problem to verify if visitor is human. It will not display if user is logged in"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:98
+msgid "Math Problem"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:99
+msgid "Letter Deciphering"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:106
+msgid "Recognise Logged Users"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:107
+msgid "If the user is logged, it will autofill email and name fields"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:115
+msgid "Only allow Logged Users"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:116
+msgid "The form will only display if the user is logged in"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:123
+msgid "Default Category"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:124
+msgid "Hidden field to set default category for entry. Useful for product or service reviews."
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:128
+msgid "Do not use"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:138
+msgid "Dispay category dropdown"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:139
+msgid "The form will display a category dropdown for the user to choose the category. If a default category is set, it will display initially selected."
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:145
+msgid "Dispay parents only"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:146
+msgid "Display only parent categories"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:154
+msgid "Dispay custom Yes/No"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:155, ../testimonials-showcase/form/form-class.php:167, ../testimonials-showcase/form/form-class.php:179, ../testimonials-showcase/form/form-class.php:191
+msgid "Will display the custom yes/no field"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:159, ../testimonials-showcase/form/form-class.php:171, ../testimonials-showcase/form/form-class.php:183, ../testimonials-showcase/form/form-class.php:195
+msgid "Dropdown"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:160, ../testimonials-showcase/form/form-class.php:172, ../testimonials-showcase/form/form-class.php:184, ../testimonials-showcase/form/form-class.php:196
+msgid "Checkbox"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:161, ../testimonials-showcase/form/form-class.php:173, ../testimonials-showcase/form/form-class.php:185, ../testimonials-showcase/form/form-class.php:197
+msgid "Radio Buttons"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:166
+msgid "Dispay custom Yes/No 2"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:178
+msgid "Dispay custom Yes/No 3"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:190
+msgid "Dispay custom Yes/No 4"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:204, ../testimonials-showcase/layouts/averagebox/layout.php:43
+msgid "Style"
+msgstr ""
+
+#: ../testimonials-showcase/form/form-class.php:205
+msgid "Which style to adapt for the form"
+msgstr ""
+
+#: ../testimonials-showcase/includes/class-ordering.php:96
+msgid "To reposition an item, simply drag and drop the row by \"clicking and holding\" it anywhere (outside of the links and form controls) and moving it to its new position."
+msgstr ""
+
+#: ../testimonials-showcase/includes/class-ordering.php:282
+msgid "Sort by Order"
+msgstr ""
+
+#: ../testimonials-showcase/includes/class-ordering.php:287
+msgid "Drag & Drop Ordering Activated"
+msgstr ""
+
+#: ../testimonials-showcase/includes/class-widget.php:15
+msgid "Display saved Testimonials Layout"
+msgstr ""
+
+#: ../testimonials-showcase/includes/class-widget.php:91
+msgid "Layout to display:"
+msgstr ""
+
+#: ../testimonials-showcase/includes/class-widget.php:110
+msgid "You can select the shortcode layouts previously saved using the Shortcode Generator."
+msgstr ""
+
+#: ../testimonials-showcase/includes/class-widget.php:116
+msgid "Please create a layout shortcode first"
+msgstr ""
+
+#: ../testimonials-showcase/includes/layers-widget.php:24
+msgid "Display a previously saved testimonial layout"
+msgstr ""
+
+#: ../testimonials-showcase/includes/layers-widget.php:167
+msgid "-- Please Select --"
+msgstr ""
+
+#: ../testimonials-showcase/includes/layers-widget.php:204
+msgid "Show Testimonials Layout"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils-advanced.php:764, ../testimonials-showcase/includes/utils-advanced.php:797, ../testimonials-showcase/includes/utils-advanced.php:853
+msgid "Default Avatar"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils-advanced.php:814
+msgid "No Avatar"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils-advanced.php:835
+msgid "Avatar"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils-advanced.php:1209
+msgid "review"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils-advanced.php:1302
+msgid "Long Testimonial"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils-advanced.php:1431
+msgid "Testimonials Showcase"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1011, ../testimonials-showcase/includes/utils.php:1023
+msgid "Ignore"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1024
+msgid "1 Star"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1025
+msgid "2 Stars"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1026
+msgid "3 Stars"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1027
+msgid "4 Stars"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1028
+msgid "5 Stars"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1029
+msgid "6 Stars"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1030
+msgid "7 Stars"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1031
+msgid "8 Stars"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1032
+msgid "9 Stars"
+msgstr ""
+
+#: ../testimonials-showcase/includes/utils.php:1033
+msgid "10 Stars"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:55, ../testimonials-showcase/layouts/grid/layout.php:220, ../testimonials-showcase/layouts/slider/layout.php:316
+msgid "Theme"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:56
+msgid "Aspect of Box"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:60
+msgid "Simple Box"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:61
+msgid "Big Stars Box"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:71, ../testimonials-showcase/layouts/grid/layout.php:279, ../testimonials-showcase/layouts/slider/layout.php:363
+msgid "What do display"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:84
+msgid "Show Stars"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:85
+msgid "Display Star Icons"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:92
+msgid "Use Half Stars"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:93
+msgid "Display Half Stars"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:100
+msgid "Stars Label"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:101
+msgid "Text to display before the Star Icons"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:108
+msgid "Show Average"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:109
+msgid "Display average value of ratings"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:116
+msgid "Average Label"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:117
+msgid "Text to display before the Average"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:124
+msgid "Show Total Ratings"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:125
+msgid "Display number of total ratings"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:132
+msgid "Total Label"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:133
+msgid "Text to display before the Total Ratings value"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:140
+msgid "Total Label After"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:141
+msgid "Text to display after the Total Ratings value"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:148
+msgid "Total Label After (singular)"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:149
+msgid "Text to display after the Total Ratings value when there's only one rating"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:156
+msgid "Text for empty average"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:157
+msgid "Text to display when there are no ratings to calculate average"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:164
+msgid "Consider Empty Ratings"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:165
+msgid "Count ratings with 0 rating (rating not submitted)"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:172
+msgid "Display Ratings Breakdown"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:173
+msgid "If enabled a graphic will display with the ratings breakdown"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:180
+msgid "Breakdown %"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:181
+msgid "Display percentage value together with ratings breakdown"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:189
+msgid "Trigger Modal Window"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:190
+msgid "When enabled, when users click a star it will trigger a modal window with the content set in the settings page of the plugin, in the Average Box panel."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:216, ../testimonials-showcase/layouts/grid/layout.php:488, ../testimonials-showcase/layouts/slider/layout.php:554
+msgid "Include Structured Data"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:217, ../testimonials-showcase/layouts/grid/layout.php:489, ../testimonials-showcase/layouts/slider/layout.php:555
+msgid "Keep the default settings or override them for this specific shortcode"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:221, ../testimonials-showcase/layouts/grid/layout.php:493, ../testimonials-showcase/layouts/slider/layout.php:559
+msgid "Default Settings"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:222, ../testimonials-showcase/layouts/grid/layout.php:494, ../testimonials-showcase/layouts/slider/layout.php:560
+msgid "Do not include structured data"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:223, ../testimonials-showcase/layouts/grid/layout.php:495, ../testimonials-showcase/layouts/slider/layout.php:561
+msgid "Include structured data"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:228, ../testimonials-showcase/layouts/grid/layout.php:500, ../testimonials-showcase/layouts/slider/layout.php:566
+msgid "Schema to use"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:229, ../testimonials-showcase/layouts/grid/layout.php:501, ../testimonials-showcase/layouts/slider/layout.php:567
+msgid "If you wish to use another type of schema, insert the URL here."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:236
+msgid "Property to use"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:237
+msgid "Which meta property to use: ratingCount when using this shortcode alone (default) or force to use the reviewCount, which needs to have a layout shortcode on the same page."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:241
+msgid "ratingCount (Default)"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:242
+msgid "reviewCount"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:250, ../testimonials-showcase/layouts/grid/layout.php:511, ../testimonials-showcase/layouts/slider/layout.php:577
+msgid "Name of \"thing\" being reviewed"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:257, ../testimonials-showcase/layouts/grid/layout.php:518, ../testimonials-showcase/layouts/slider/layout.php:584
+msgid "Website"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:258, ../testimonials-showcase/layouts/grid/layout.php:519, ../testimonials-showcase/layouts/slider/layout.php:585
+msgid "Url to official Website"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:266, ../testimonials-showcase/layouts/grid/layout.php:527, ../testimonials-showcase/layouts/slider/layout.php:593
+msgid "The URL of the product photo."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:273, ../testimonials-showcase/layouts/grid/layout.php:534, ../testimonials-showcase/layouts/slider/layout.php:600
+msgid "Product Description"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:274, ../testimonials-showcase/layouts/grid/layout.php:535, ../testimonials-showcase/layouts/slider/layout.php:601
+msgid "Custom Product Description for Rich Snippets."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:293, ../testimonials-showcase/layouts/grid/layout.php:556, ../testimonials-showcase/layouts/slider/layout.php:623
+msgid "Business Only data"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:350, ../testimonials-showcase/layouts/grid/layout.php:613, ../testimonials-showcase/layouts/slider/layout.php:680
+msgid "Product Only - Offer Metadata"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:376, ../testimonials-showcase/layouts/grid/layout.php:639, ../testimonials-showcase/layouts/slider/layout.php:706
+msgid "Date"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:911
+msgid "$tt_star_label_plural"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/averagebox/layout.php:926
+msgid "$tt_star_label_singular"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:47
+msgid "Grid Layout"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:48
+msgid "These options apply only to the Grid layout. Some options are specific to some layout themes. Read the description to understand what the field information will be used on."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:52, ../testimonials-showcase/layouts/slider/layout.php:53
+msgid "General Settings"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:57, ../testimonials-showcase/layouts/slider/layout.php:58
+msgid "Display Empty Entries"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:58, ../testimonials-showcase/layouts/slider/layout.php:59
+msgid "If enabled, entries with empty testimonial text, but with other data will also display"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:64
+msgid "Use Masonry Alignment"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:65
+msgid "Vertical align entries in masonry style"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:72, ../testimonials-showcase/layouts/slider/layout.php:64
+msgid "Italic by Default"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:73, ../testimonials-showcase/layouts/slider/layout.php:65
+msgid "Default all text of Testimonial to <i>Italic</i>"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:79, ../testimonials-showcase/layouts/slider/layout.php:71
+msgid "Read More Label"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:80, ../testimonials-showcase/layouts/slider/layout.php:72
+msgid "Text to display in the Read More link to single page of entry."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:83, ../testimonials-showcase/layouts/grid/layout.php:840, ../testimonials-showcase/layouts/slider/layout.php:75, ../testimonials-showcase/layouts/slider/layout.php:880
+msgid "Read More..."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:87, ../testimonials-showcase/layouts/slider/layout.php:78
+msgid "Use default image"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:88, ../testimonials-showcase/layouts/slider/layout.php:79
+msgid "Display default image (set below) when there is no image present"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:95, ../testimonials-showcase/layouts/slider/layout.php:94
+msgid "Default Image"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:96
+msgid "Image to display when there is not featured image set (if option above is active). <br>You can use the default:"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:102, ../testimonials-showcase/layouts/slider/layout.php:101
+msgid "Category/Group Prefix"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:103, ../testimonials-showcase/layouts/slider/layout.php:102
+msgid "Text to display before the category on the layout, if chosen to be displayed. Tip: If category description includes a URL, the category will link to that URL."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:106, ../testimonials-showcase/layouts/slider/layout.php:105
+msgid "Posted on:"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:111, ../testimonials-showcase/layouts/slider/layout.php:109
+msgid "Empty Shortcode Content"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:112, ../testimonials-showcase/layouts/slider/layout.php:110
+msgid "Content to display when there are no entries to display on a given shortcode."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:115, ../testimonials-showcase/layouts/grid/layout.php:799, ../testimonials-showcase/layouts/grid/layout.php:842, ../testimonials-showcase/layouts/slider/layout.php:113, ../testimonials-showcase/layouts/slider/layout.php:835
+msgid "<!-- Empty TShowcase Container -->"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:119, ../testimonials-showcase/layouts/slider/layout.php:117
+msgid "Speech Bubble Themes Color Options"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:125, ../testimonials-showcase/layouts/slider/layout.php:123
+msgid "Speech Bubble Background Color"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:126, ../testimonials-showcase/layouts/grid/layout.php:144, ../testimonials-showcase/layouts/slider/layout.php:124, ../testimonials-showcase/layouts/slider/layout.php:142
+msgid "Main color for the text box"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:131, ../testimonials-showcase/layouts/grid/layout.php:180
+msgid "Text Color"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:132, ../testimonials-showcase/layouts/slider/layout.php:130
+msgid "Color of the text inside the speech bubble"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:138, ../testimonials-showcase/layouts/slider/layout.php:136
+msgid "Card Box Theme Color Options"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:143, ../testimonials-showcase/layouts/slider/layout.php:141
+msgid "Main Background Color"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:149, ../testimonials-showcase/layouts/slider/layout.php:147
+msgid "Main Text Color"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:150, ../testimonials-showcase/layouts/slider/layout.php:148
+msgid "Color of the text inside the box"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:156, ../testimonials-showcase/layouts/slider/layout.php:154
+msgid "Author Background Color"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:157, ../testimonials-showcase/layouts/slider/layout.php:155
+msgid "Will only be used in Flat Speech Bubbles Layout"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:162, ../testimonials-showcase/layouts/slider/layout.php:160
+msgid "Author Text Color"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:163, ../testimonials-showcase/layouts/slider/layout.php:161
+msgid "Color of the text inside the box - to be used only for Flat Speech Bubbles Layout"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:169
+msgid "Answer Box Options"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:174
+msgid "Background Color"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:175
+msgid "Main color for the answer box"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:181
+msgid "Main color for text in the answer box"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:187
+msgid "Title to display before answer"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:189
+msgid "Administrator Answer"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:207
+msgid "Visual Settings"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:221, ../testimonials-showcase/layouts/slider/layout.php:317
+msgid "Aspect of the grid elements"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:225, ../testimonials-showcase/layouts/slider/layout.php:321
+msgid "Rounded Speech Bubbles"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:226, ../testimonials-showcase/layouts/slider/layout.php:322
+msgid "Flat Speech Bubbles"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:227, ../testimonials-showcase/layouts/slider/layout.php:323
+msgid "Flat Card Box"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:228, ../testimonials-showcase/layouts/slider/layout.php:324
+msgid "Quote Signs"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:229, ../testimonials-showcase/layouts/slider/layout.php:326
+msgid "Simple Separator"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:237, ../testimonials-showcase/layouts/slider/layout.php:336
+msgid "Composition"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:238, ../testimonials-showcase/layouts/slider/layout.php:337
+msgid "Position of the elements"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:242, ../testimonials-showcase/layouts/slider/layout.php:341
+msgid "Author Below, Text Above"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:243, ../testimonials-showcase/layouts/slider/layout.php:342
+msgid "Author Above, Text Below"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:244, ../testimonials-showcase/layouts/slider/layout.php:343
+msgid "Author Left, Text Right"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:245, ../testimonials-showcase/layouts/slider/layout.php:344
+msgid "Author Right, Text Left"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:249, ../testimonials-showcase/layouts/slider/layout.php:348
+msgid "Alignment"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:250, ../testimonials-showcase/layouts/slider/layout.php:349
+msgid "General Alignment of Elements"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:253
+msgid "Left"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:254
+msgid "Right"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:255
+msgid "Center"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:260
+msgid "Columns"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:261
+msgid "Number of columns to display"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:265
+msgid "1 Column"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:266
+msgid "2 Columns"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:267
+msgid "3 Columns"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:268
+msgid "4 Columns"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:269
+msgid "5 Columns"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:270
+msgid "6 Columns"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:291
+msgid "Live Filter"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:292
+msgid "Display a live filter menu (beta feature)"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:296
+msgid "No Filter"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:297
+msgid "Hide Filter"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:298
+msgid "Enhance Filter"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:303, ../testimonials-showcase/layouts/slider/layout.php:375
+msgid "Short Testimonial Title"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:304
+msgid "Display Short Testimonial title"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:311, ../testimonials-showcase/layouts/slider/layout.php:383
+msgid "Star Rating"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:312, ../testimonials-showcase/layouts/slider/layout.php:384
+msgid "Display Star Rating below the author info"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:319, ../testimonials-showcase/layouts/slider/layout.php:391
+msgid "Display Category"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:320, ../testimonials-showcase/layouts/slider/layout.php:392
+msgid "Display Category of entry"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:327, ../testimonials-showcase/layouts/slider/layout.php:399
+msgid "Display Date"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:328, ../testimonials-showcase/layouts/slider/layout.php:400
+msgid "Display Date of entry"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:335, ../testimonials-showcase/layouts/slider/layout.php:407
+msgid "Text Content"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:336
+msgid "What should display in the quote content. Default is \"Short Testimonial\". The \"Extended Content\" is what would display on the single page."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:340, ../testimonials-showcase/layouts/slider/layout.php:412
+msgid "Short Testimonial"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:341, ../testimonials-showcase/layouts/slider/layout.php:413
+msgid "Extended Content"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:342, ../testimonials-showcase/layouts/slider/layout.php:414
+msgid "Both"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:349, ../testimonials-showcase/layouts/slider/layout.php:419
+msgid "Char. limit"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:350, ../testimonials-showcase/layouts/slider/layout.php:420
+msgid "Number of characters from the testimonial text to display. Leave blank to display all. Usefull to make slides have the same size, when text has different lenghts. Shortcodes will be disabeld."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:357, ../testimonials-showcase/layouts/slider/layout.php:427
+msgid "Cutout text"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:358, ../testimonials-showcase/layouts/slider/layout.php:428
+msgid "Text string to display if Char Limit is being used and text has been cut off."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:367, ../testimonials-showcase/layouts/slider/layout.php:437
+msgid "Read More"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:368, ../testimonials-showcase/layouts/slider/layout.php:438
+msgid "Default URL will be to single page of entry. Custom URL option must be set below. Subtitle URL will be the same as the entry Sub title url field."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:372, ../testimonials-showcase/layouts/slider/layout.php:442
+msgid "Disabled"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:373, ../testimonials-showcase/layouts/slider/layout.php:443
+msgid "Default URL"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:374
+msgid "Default URL (Only cutout)"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:377, ../testimonials-showcase/layouts/slider/layout.php:446
+msgid "Custom URL"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:378, ../testimonials-showcase/layouts/slider/layout.php:447
+msgid "Subtitle URL field"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:379
+msgid "Display Cut Content Inline"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:380
+msgid "Display Cut Content Inline (2)"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:381
+msgid "Display Extended Content Inline"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:386, ../testimonials-showcase/layouts/slider/layout.php:452
+msgid "Custom Read More URL"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:387, ../testimonials-showcase/layouts/slider/layout.php:453
+msgid "Place URL here if Custom URL option is chosen above. If left blank, default single entry URL will be used"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:399, ../testimonials-showcase/layouts/slider/layout.php:465
+msgid "Image Settings"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:411, ../testimonials-showcase/layouts/slider/layout.php:477
+msgid "Display Image"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:412, ../testimonials-showcase/layouts/slider/layout.php:478
+msgid "If disabeled, the settings below will be ignored"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:420, ../testimonials-showcase/layouts/slider/layout.php:486
+msgid "Image Size"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:421, ../testimonials-showcase/layouts/slider/layout.php:487
+msgid "You can change the custom sizes in the Settings page"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:424, ../testimonials-showcase/layouts/slider/layout.php:490
+msgid "Custom Small Size"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:425, ../testimonials-showcase/layouts/slider/layout.php:491
+msgid "Custom Medium Size"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:426, ../testimonials-showcase/layouts/slider/layout.php:492
+msgid "Default Thumbnail Size"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:430, ../testimonials-showcase/layouts/slider/layout.php:496
+msgid "Image Shape"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:431
+msgid "image shape effect"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:435, ../testimonials-showcase/layouts/slider/layout.php:501
+msgid "Squared"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:436, ../testimonials-showcase/layouts/slider/layout.php:502
+msgid "Rounded Corners"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:437, ../testimonials-showcase/layouts/slider/layout.php:503
+msgid "Circular"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:442, ../testimonials-showcase/layouts/slider/layout.php:508
+msgid "Image Effect"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:443, ../testimonials-showcase/layouts/slider/layout.php:509
+msgid "image shape description"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:447, ../testimonials-showcase/layouts/slider/layout.php:513
+msgid "Transparency"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:448, ../testimonials-showcase/layouts/slider/layout.php:514
+msgid "Grayscale"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:449, ../testimonials-showcase/layouts/slider/layout.php:515
+msgid "White Border"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:450, ../testimonials-showcase/layouts/slider/layout.php:516
+msgid "Shadow Highlight"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:456, ../testimonials-showcase/layouts/slider/layout.php:522
+msgid "Image Link"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:457, ../testimonials-showcase/layouts/slider/layout.php:523
+msgid "If active, the image will follow the options chosen in the Advanced URL settings for each entry"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:464, ../testimonials-showcase/layouts/slider/layout.php:530
+msgid "Image Size Override"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:465, ../testimonials-showcase/layouts/slider/layout.php:531
+msgid "Place new image dimensions in this format: widthXheight. For example: 100x100. It will ignore the image size option and try to redimension the image to this size."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:841, ../testimonials-showcase/layouts/slider/layout.php:879
+msgid "Posted on: "
+msgstr ""
+
+#: ../testimonials-showcase/layouts/grid/layout.php:1125, ../testimonials-showcase/layouts/slider/layout.php:1104
+msgid "ago"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:48
+msgid "Slider Layout"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:49
+msgid "These options apply only to the Slider layout. Some options are specific to some layout themes. Read the description to understand what the field information will be used on."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:86
+msgid "Touch Enabled"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:87
+msgid "Enable touch sliding for touch devices."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:95
+msgid "Image to display when there is not featured image set (If option is active). <br>You can use the default:"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:129
+msgid "Speech Bubble Text Color"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:167
+msgid "Slider Controls Options"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:173
+msgid "Next Arrow Code"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:174
+msgid "Code to display for Next Arrow.<br> By Default we use a <a href=\"http://fontawesome.io/icons/#directional\" target=\"_blank\">Font Awesome Icon</a>.<br>Suggestions:<br><xmp style=\"margin:0px;\"><i class=\"fa fa-caret-right fa-2x\" ></i></xmp><xmp style=\"margin:0px;\"><i class=\"fa fa-chevron-circle-right fa-2x\" ></i></xmp>"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:180
+msgid "Previous Arrow Code"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:181
+msgid "Code to display for Previous Arrow.<br> By Default we use a <a href=\"http://fontawesome.io/icons/#directional\" target=\"_blank\">Font Awesome Icon</a>.<br>Suggestions:<br><xmp style=\"margin:0px;\"><i class=\"fa fa-caret-left fa-2x\" ></i></xmp><xmp style=\"margin:0px;\"><i class=\"fa fa-chevron-circle-left fa-2x\" ></i></xmp>"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:202
+msgid "Slider Settings"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:214
+msgid "Transition"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:215
+msgid "Slider Transition Effect"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:219
+msgid "Fade"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:220
+msgid "Horizontal Slide"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:221
+msgid "Vertical Slide"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:225
+msgid "Adaptive Height"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:226
+msgid "Fixed height or adaptive. When fixed, the slider will have the height of the longest text entry. Setting will be ignored in \"vertical\" transition mode."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:230
+msgid "Fixed"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:231
+msgid "Adaptive"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:243
+msgid "Controls"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:244
+msgid "What kind of controls to display"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:248
+msgid "Pager Circles"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:249
+msgid "Next / Previous Arrows below"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:250
+msgid "Next / Previous Arrows on sides"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:251
+msgid "Play/Pause Controls"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:269
+msgid "Pause Time"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:270
+msgid "Pause time between slides (in ms)"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:277
+msgid "Auto Start"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:278
+msgid "If inactive the sliders will only change if user clicks the controls"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:285
+msgid "Entries"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:286
+msgid "Number of entries to display in each slide"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:290
+msgid "1 Entry"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:291
+msgid "2 Entry"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:292
+msgid "3 Entries"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:293
+msgid "4 Entries"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:305
+msgid "Visual Options"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:325
+msgid "Quote Signs - Large Text"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:376
+msgid "Display Short Testimonial/Review title"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:408
+msgid "What should display in the quote content."
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:444
+msgid "Default URL (cutout text)"
+msgstr ""
+
+#: ../testimonials-showcase/layouts/slider/layout.php:497
+msgid "Image shape effect"
+msgstr ""

@@ -1,0 +1,1746 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Responsive Posts Carousel Pro\n"
+"POT-Creation-Date: 2019-09-15 10:57+0500\n"
+"PO-Revision-Date: 2018-01-23 14:06+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: carousel.class.php:75
+msgid "Contents"
+msgstr ""
+
+#: carousel.class.php:80
+msgid "Slider"
+msgstr ""
+
+#: carousel.class.php:85
+msgid "Appearance"
+msgstr ""
+
+#: carousel.class.php:90 inc/settings-fields.php:177
+msgid "Arrows"
+msgstr ""
+
+#: carousel.class.php:95
+msgid "Advanced"
+msgstr ""
+
+#: carousel.class.php:208 inc/settings-fields.php:268
+#: inc/settings-fields.php:430
+msgid "Default"
+msgstr ""
+
+#: carousel.class.php:237 carousel.class.php:478
+msgid "Sorry! this Taxonomy has no Terms."
+msgstr ""
+
+#: carousel.class.php:251
+msgid "Please select any taxonomy first"
+msgstr ""
+
+#: carousel.class.php:300
+msgid "Enable"
+msgstr ""
+
+#: carousel.class.php:312
+msgid "Default Shortcode"
+msgstr ""
+
+#: carousel.class.php:317
+msgid "Display 10 Latest Posted"
+msgstr ""
+
+#: carousel.class.php:322
+msgid "Order by Ascending Titles"
+msgstr ""
+
+#: carousel.class.php:331
+msgid "Documentation"
+msgstr ""
+
+#: carousel.class.php:332
+msgid "Load Template from Theme"
+msgstr ""
+
+#: carousel.class.php:333
+msgid "Order and Sorting"
+msgstr ""
+
+#: carousel.class.php:334
+msgid "Support Forum"
+msgstr ""
+
+#: carousel.class.php:346 carousel.class.php:349
+msgid "Carousel updated."
+msgstr ""
+
+#: carousel.class.php:347
+msgid "Custom field updated."
+msgstr ""
+
+#: carousel.class.php:348
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: carousel.class.php:351
+msgid "Carousel restored to revision"
+msgstr ""
+
+#: carousel.class.php:352
+msgid "Carousel published."
+msgstr ""
+
+#: carousel.class.php:353
+msgid "Carousel saved."
+msgstr ""
+
+#: carousel.class.php:354
+msgid "Carousel submitted."
+msgstr ""
+
+#: carousel.class.php:356
+msgid "Carousel scheduled."
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: carousel.class.php:358
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: carousel.class.php:360
+msgid "Carousel draft updated."
+msgstr ""
+
+#: carousel.class.php:366 inc/register-carousel.php:11
+msgid "View Carousel"
+msgstr ""
+
+#: carousel.class.php:372
+msgid "Preview Carousel"
+msgstr ""
+
+#: carousel.class.php:444
+msgid "Sorry, it seems you did not selected any carousel."
+msgstr ""
+
+#: carousel.class.php:468
+msgid "All"
+msgstr ""
+
+#: carousel.class.php:638
+msgid "Shortcode"
+msgstr ""
+
+#: carousel.class.php:639
+msgid "Template"
+msgstr ""
+
+#: carousel.class.php:707 carousel.class.php:720
+msgid "Template not Found"
+msgstr ""
+
+#: carousel.class.php:832
+msgid "Please choose some other template."
+msgstr ""
+
+#: carousel.class.php:862
+msgid "None"
+msgstr ""
+
+#: carousel.class.php:863
+msgid "Solid"
+msgstr ""
+
+#: carousel.class.php:864
+msgid "Dotted"
+msgstr ""
+
+#: carousel.class.php:865
+msgid "Dashed"
+msgstr ""
+
+#: carousel.class.php:866
+msgid "Double"
+msgstr ""
+
+#: carousel.class.php:867
+msgid "Groove"
+msgstr ""
+
+#: carousel.class.php:868
+msgid "Ridge"
+msgstr ""
+
+#: carousel.class.php:869
+msgid "Inset"
+msgstr ""
+
+#: carousel.class.php:870
+msgid "Outset"
+msgstr ""
+
+#: inc/carousel-styles.php:6
+msgid "Style 1"
+msgstr ""
+
+#: inc/carousel-styles.php:9 inc/carousel-styles.php:144
+#: inc/carousel-styles.php:271 inc/carousel-styles.php:398
+#: inc/carousel-styles.php:509 inc/carousel-styles.php:636
+#: inc/carousel-styles.php:779 inc/carousel-styles.php:922
+#: inc/carousel-styles.php:1049 inc/carousel-styles.php:1176
+#: inc/carousel-styles.php:1303 inc/carousel-styles.php:1446
+#: inc/carousel-styles.php:1589 inc/carousel-styles.php:1716
+#: inc/carousel-styles.php:1835 inc/carousel-styles.php:1954
+#: inc/carousel-styles.php:2065 inc/carousel-styles.php:2192
+#: inc/carousel-styles.php:2446 inc/carousel-styles.php:2589
+#: inc/carousel-styles.php:3228 inc/carousel-styles.php:3338
+#: inc/carousel-styles.php:3456 inc/carousel-styles.php:3566
+#: inc/carousel-styles.php:3764 inc/carousel-styles.php:3810
+#: inc/carousel-styles.php:3920 inc/carousel-styles.php:4030
+#: inc/carousel-styles.php:4218 inc/carousel-styles.php:4328
+#: inc/carousel-styles.php:4406 inc/carousel-styles.php:4508
+#: inc/carousel-styles.php:4634 inc/carousel-styles.php:5216
+#: inc/carousel-styles.php:5334 inc/carousel-styles.php:5586
+#: inc/carousel-styles.php:5720 inc/carousel-styles.php:5862
+#: inc/carousel-styles.php:6020
+msgid "Background Color"
+msgstr ""
+
+#: inc/carousel-styles.php:17 inc/carousel-styles.php:152
+#: inc/carousel-styles.php:279 inc/carousel-styles.php:414
+#: inc/carousel-styles.php:517 inc/carousel-styles.php:644
+#: inc/carousel-styles.php:787 inc/carousel-styles.php:930
+#: inc/carousel-styles.php:1057 inc/carousel-styles.php:1184
+#: inc/carousel-styles.php:1311 inc/carousel-styles.php:1454
+#: inc/carousel-styles.php:1597 inc/carousel-styles.php:1724
+#: inc/carousel-styles.php:1843 inc/carousel-styles.php:1962
+#: inc/carousel-styles.php:2073 inc/carousel-styles.php:2200
+#: inc/carousel-styles.php:2319 inc/carousel-styles.php:2454
+#: inc/carousel-styles.php:2597 inc/carousel-styles.php:2748
+#: inc/carousel-styles.php:2827 inc/carousel-styles.php:2938
+#: inc/carousel-styles.php:3064 inc/carousel-styles.php:3142
+#: inc/carousel-styles.php:3236 inc/carousel-styles.php:3354
+#: inc/carousel-styles.php:3464 inc/carousel-styles.php:3574
+#: inc/carousel-styles.php:3692 inc/carousel-styles.php:3818
+#: inc/carousel-styles.php:3928 inc/carousel-styles.php:4108
+#: inc/carousel-styles.php:4226 inc/carousel-styles.php:4336
+#: inc/carousel-styles.php:4414 inc/carousel-styles.php:4516
+#: inc/carousel-styles.php:4642 inc/carousel-styles.php:4720
+#: inc/carousel-styles.php:4870 inc/carousel-styles.php:4988
+#: inc/carousel-styles.php:5114 inc/carousel-styles.php:5224
+#: inc/carousel-styles.php:5342 inc/carousel-styles.php:5444
+#: inc/carousel-styles.php:5522 inc/carousel-styles.php:5656
+#: inc/carousel-styles.php:5798 inc/carousel-styles.php:5948
+msgid "Title Color"
+msgstr ""
+
+#: inc/carousel-styles.php:25 inc/carousel-styles.php:160
+#: inc/carousel-styles.php:287 inc/carousel-styles.php:422
+#: inc/carousel-styles.php:525 inc/carousel-styles.php:652
+#: inc/carousel-styles.php:795 inc/carousel-styles.php:938
+#: inc/carousel-styles.php:1065 inc/carousel-styles.php:1192
+#: inc/carousel-styles.php:1319 inc/carousel-styles.php:1462
+#: inc/carousel-styles.php:1605 inc/carousel-styles.php:1732
+#: inc/carousel-styles.php:1859 inc/carousel-styles.php:1970
+#: inc/carousel-styles.php:2089 inc/carousel-styles.php:2216
+#: inc/carousel-styles.php:2335 inc/carousel-styles.php:2470
+#: inc/carousel-styles.php:2613 inc/carousel-styles.php:2764
+#: inc/carousel-styles.php:2835 inc/carousel-styles.php:2954
+#: inc/carousel-styles.php:3072 inc/carousel-styles.php:3158
+#: inc/carousel-styles.php:3244 inc/carousel-styles.php:3362
+#: inc/carousel-styles.php:3472 inc/carousel-styles.php:3582
+#: inc/carousel-styles.php:3700 inc/carousel-styles.php:3826
+#: inc/carousel-styles.php:3936 inc/carousel-styles.php:4116
+#: inc/carousel-styles.php:4234 inc/carousel-styles.php:4344
+#: inc/carousel-styles.php:4430 inc/carousel-styles.php:4532
+#: inc/carousel-styles.php:4650 inc/carousel-styles.php:4736
+#: inc/carousel-styles.php:4878 inc/carousel-styles.php:5004
+#: inc/carousel-styles.php:5122 inc/carousel-styles.php:5232
+#: inc/carousel-styles.php:5350 inc/carousel-styles.php:5452
+#: inc/carousel-styles.php:5530 inc/carousel-styles.php:5664
+#: inc/carousel-styles.php:5806 inc/carousel-styles.php:5964
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/carousel-styles.php:33 inc/carousel-styles.php:168
+#: inc/carousel-styles.php:295 inc/carousel-styles.php:430
+#: inc/carousel-styles.php:533 inc/carousel-styles.php:660
+#: inc/carousel-styles.php:803 inc/carousel-styles.php:946
+#: inc/carousel-styles.php:1073 inc/carousel-styles.php:1200
+#: inc/carousel-styles.php:1327 inc/carousel-styles.php:1470
+#: inc/carousel-styles.php:1613 inc/carousel-styles.php:1740
+#: inc/carousel-styles.php:1867 inc/carousel-styles.php:1978
+#: inc/carousel-styles.php:2097 inc/carousel-styles.php:2224
+#: inc/carousel-styles.php:2343 inc/carousel-styles.php:2478
+#: inc/carousel-styles.php:2621 inc/carousel-styles.php:2772
+#: inc/carousel-styles.php:2843 inc/carousel-styles.php:2962
+#: inc/carousel-styles.php:3080 inc/carousel-styles.php:3166
+#: inc/carousel-styles.php:3252 inc/carousel-styles.php:3370
+#: inc/carousel-styles.php:3480 inc/carousel-styles.php:3590
+#: inc/carousel-styles.php:3708 inc/carousel-styles.php:3834
+#: inc/carousel-styles.php:3944 inc/carousel-styles.php:4124
+#: inc/carousel-styles.php:4242 inc/carousel-styles.php:4352
+#: inc/carousel-styles.php:4438 inc/carousel-styles.php:4540
+#: inc/carousel-styles.php:4658 inc/carousel-styles.php:4744
+#: inc/carousel-styles.php:4886 inc/carousel-styles.php:5012
+#: inc/carousel-styles.php:5130 inc/carousel-styles.php:5240
+#: inc/carousel-styles.php:5358 inc/carousel-styles.php:5460
+#: inc/carousel-styles.php:5538 inc/carousel-styles.php:5672
+#: inc/carousel-styles.php:5814 inc/carousel-styles.php:5972
+msgid "Title Font Family"
+msgstr ""
+
+#: inc/carousel-styles.php:41 inc/carousel-styles.php:176
+#: inc/carousel-styles.php:303 inc/carousel-styles.php:438
+#: inc/carousel-styles.php:541 inc/carousel-styles.php:668
+#: inc/carousel-styles.php:811 inc/carousel-styles.php:954
+#: inc/carousel-styles.php:1081 inc/carousel-styles.php:1208
+#: inc/carousel-styles.php:1335 inc/carousel-styles.php:1478
+#: inc/carousel-styles.php:1621 inc/carousel-styles.php:1748
+#: inc/carousel-styles.php:1875 inc/carousel-styles.php:1986
+#: inc/carousel-styles.php:2105 inc/carousel-styles.php:2232
+#: inc/carousel-styles.php:2351 inc/carousel-styles.php:2486
+#: inc/carousel-styles.php:2629 inc/carousel-styles.php:2780
+#: inc/carousel-styles.php:2851 inc/carousel-styles.php:2970
+#: inc/carousel-styles.php:3088 inc/carousel-styles.php:3174
+#: inc/carousel-styles.php:3260 inc/carousel-styles.php:3378
+#: inc/carousel-styles.php:3488 inc/carousel-styles.php:3598
+#: inc/carousel-styles.php:3716 inc/carousel-styles.php:3842
+#: inc/carousel-styles.php:3952 inc/carousel-styles.php:4132
+#: inc/carousel-styles.php:4250 inc/carousel-styles.php:4360
+#: inc/carousel-styles.php:4446 inc/carousel-styles.php:4548
+#: inc/carousel-styles.php:4666 inc/carousel-styles.php:4752
+#: inc/carousel-styles.php:4894 inc/carousel-styles.php:5020
+#: inc/carousel-styles.php:5138 inc/carousel-styles.php:5248
+#: inc/carousel-styles.php:5366 inc/carousel-styles.php:5468
+#: inc/carousel-styles.php:5546 inc/carousel-styles.php:5680
+#: inc/carousel-styles.php:5822 inc/carousel-styles.php:5980
+msgid "Title Line Height"
+msgstr ""
+
+#: inc/carousel-styles.php:49 inc/carousel-styles.php:184
+#: inc/carousel-styles.php:311 inc/carousel-styles.php:446
+#: inc/carousel-styles.php:549 inc/carousel-styles.php:676
+#: inc/carousel-styles.php:819 inc/carousel-styles.php:962
+#: inc/carousel-styles.php:1089 inc/carousel-styles.php:1216
+#: inc/carousel-styles.php:1343 inc/carousel-styles.php:1486
+#: inc/carousel-styles.php:1629 inc/carousel-styles.php:1756
+#: inc/carousel-styles.php:1994 inc/carousel-styles.php:2113
+#: inc/carousel-styles.php:2240 inc/carousel-styles.php:2359
+#: inc/carousel-styles.php:2494 inc/carousel-styles.php:2637
+#: inc/carousel-styles.php:2859 inc/carousel-styles.php:2978
+#: inc/carousel-styles.php:3268 inc/carousel-styles.php:3386
+#: inc/carousel-styles.php:3496 inc/carousel-styles.php:3606
+#: inc/carousel-styles.php:3724 inc/carousel-styles.php:3850
+#: inc/carousel-styles.php:3960 inc/carousel-styles.php:4038
+#: inc/carousel-styles.php:4140 inc/carousel-styles.php:4258
+#: inc/carousel-styles.php:4564 inc/carousel-styles.php:4784
+#: inc/carousel-styles.php:4910 inc/carousel-styles.php:5028
+#: inc/carousel-styles.php:5146 inc/carousel-styles.php:5256
+#: inc/carousel-styles.php:5374 inc/carousel-styles.php:5476
+#: inc/carousel-styles.php:5554 inc/carousel-styles.php:5688
+#: inc/carousel-styles.php:5830 inc/carousel-styles.php:5988
+msgid "Description Color"
+msgstr ""
+
+#: inc/carousel-styles.php:57 inc/carousel-styles.php:192
+#: inc/carousel-styles.php:319 inc/carousel-styles.php:454
+#: inc/carousel-styles.php:557 inc/carousel-styles.php:684
+#: inc/carousel-styles.php:827 inc/carousel-styles.php:970
+#: inc/carousel-styles.php:1097 inc/carousel-styles.php:1224
+#: inc/carousel-styles.php:1351 inc/carousel-styles.php:1494
+#: inc/carousel-styles.php:1637 inc/carousel-styles.php:1764
+#: inc/carousel-styles.php:2002 inc/carousel-styles.php:2121
+#: inc/carousel-styles.php:2248 inc/carousel-styles.php:2375
+#: inc/carousel-styles.php:2502 inc/carousel-styles.php:2645
+#: inc/carousel-styles.php:2867 inc/carousel-styles.php:2994
+#: inc/carousel-styles.php:3276 inc/carousel-styles.php:3394
+#: inc/carousel-styles.php:3504 inc/carousel-styles.php:3614
+#: inc/carousel-styles.php:3732 inc/carousel-styles.php:3858
+#: inc/carousel-styles.php:3968 inc/carousel-styles.php:4046
+#: inc/carousel-styles.php:4156 inc/carousel-styles.php:4266
+#: inc/carousel-styles.php:4572 inc/carousel-styles.php:4800
+#: inc/carousel-styles.php:4918 inc/carousel-styles.php:5044
+#: inc/carousel-styles.php:5154 inc/carousel-styles.php:5264
+#: inc/carousel-styles.php:5382 inc/carousel-styles.php:5484
+#: inc/carousel-styles.php:5562 inc/carousel-styles.php:5696
+#: inc/carousel-styles.php:5838 inc/carousel-styles.php:5996
+msgid "Description Font Size"
+msgstr ""
+
+#: inc/carousel-styles.php:65 inc/carousel-styles.php:200
+#: inc/carousel-styles.php:327 inc/carousel-styles.php:462
+#: inc/carousel-styles.php:565 inc/carousel-styles.php:692
+#: inc/carousel-styles.php:835 inc/carousel-styles.php:978
+#: inc/carousel-styles.php:1105 inc/carousel-styles.php:1232
+#: inc/carousel-styles.php:1359 inc/carousel-styles.php:1502
+#: inc/carousel-styles.php:1645 inc/carousel-styles.php:1772
+#: inc/carousel-styles.php:2010 inc/carousel-styles.php:2129
+#: inc/carousel-styles.php:2256 inc/carousel-styles.php:2383
+#: inc/carousel-styles.php:2510 inc/carousel-styles.php:2653
+#: inc/carousel-styles.php:2875 inc/carousel-styles.php:3002
+#: inc/carousel-styles.php:3284 inc/carousel-styles.php:3402
+#: inc/carousel-styles.php:3512 inc/carousel-styles.php:3622
+#: inc/carousel-styles.php:3740 inc/carousel-styles.php:3866
+#: inc/carousel-styles.php:3976 inc/carousel-styles.php:4054
+#: inc/carousel-styles.php:4164 inc/carousel-styles.php:4274
+#: inc/carousel-styles.php:4580 inc/carousel-styles.php:4808
+#: inc/carousel-styles.php:4926 inc/carousel-styles.php:5052
+#: inc/carousel-styles.php:5162 inc/carousel-styles.php:5272
+#: inc/carousel-styles.php:5390 inc/carousel-styles.php:5492
+#: inc/carousel-styles.php:5570 inc/carousel-styles.php:5704
+#: inc/carousel-styles.php:5846 inc/carousel-styles.php:6004
+msgid "Description Font Family"
+msgstr ""
+
+#: inc/carousel-styles.php:73 inc/carousel-styles.php:208
+#: inc/carousel-styles.php:335 inc/carousel-styles.php:470
+#: inc/carousel-styles.php:573 inc/carousel-styles.php:700
+#: inc/carousel-styles.php:843 inc/carousel-styles.php:986
+#: inc/carousel-styles.php:1113 inc/carousel-styles.php:1240
+#: inc/carousel-styles.php:1367 inc/carousel-styles.php:1510
+#: inc/carousel-styles.php:1653 inc/carousel-styles.php:1780
+#: inc/carousel-styles.php:2018 inc/carousel-styles.php:2137
+#: inc/carousel-styles.php:2264 inc/carousel-styles.php:2391
+#: inc/carousel-styles.php:2518 inc/carousel-styles.php:2661
+#: inc/carousel-styles.php:2883 inc/carousel-styles.php:3010
+#: inc/carousel-styles.php:3292 inc/carousel-styles.php:3410
+#: inc/carousel-styles.php:3520 inc/carousel-styles.php:3630
+#: inc/carousel-styles.php:3748 inc/carousel-styles.php:3874
+#: inc/carousel-styles.php:3984 inc/carousel-styles.php:4062
+#: inc/carousel-styles.php:4172 inc/carousel-styles.php:4282
+#: inc/carousel-styles.php:4588 inc/carousel-styles.php:4816
+#: inc/carousel-styles.php:4934 inc/carousel-styles.php:5060
+#: inc/carousel-styles.php:5170 inc/carousel-styles.php:5280
+#: inc/carousel-styles.php:5398 inc/carousel-styles.php:5500
+#: inc/carousel-styles.php:5578 inc/carousel-styles.php:5712
+#: inc/carousel-styles.php:5854 inc/carousel-styles.php:6012
+msgid "Description Line Height"
+msgstr ""
+
+#: inc/carousel-styles.php:81 inc/carousel-styles.php:216
+#: inc/carousel-styles.php:343 inc/carousel-styles.php:708
+#: inc/carousel-styles.php:851 inc/carousel-styles.php:1375
+#: inc/carousel-styles.php:1518 inc/carousel-styles.php:2534
+#: inc/carousel-styles.php:2693
+msgid "Date Background"
+msgstr ""
+
+#: inc/carousel-styles.php:89 inc/carousel-styles.php:224
+#: inc/carousel-styles.php:1883 inc/carousel-styles.php:3638
+#: inc/carousel-styles.php:5744 inc/carousel-styles.php:5902
+msgid "Icon Background"
+msgstr ""
+
+#: inc/carousel-styles.php:97 inc/carousel-styles.php:478
+#: inc/carousel-styles.php:994 inc/carousel-styles.php:1121
+#: inc/carousel-styles.php:1248
+msgid "Button Background"
+msgstr ""
+
+#: inc/carousel-styles.php:105 inc/carousel-styles.php:232
+#: inc/carousel-styles.php:359 inc/carousel-styles.php:597
+#: inc/carousel-styles.php:740 inc/carousel-styles.php:883
+#: inc/carousel-styles.php:1010 inc/carousel-styles.php:1137
+#: inc/carousel-styles.php:1264 inc/carousel-styles.php:1407
+#: inc/carousel-styles.php:1550 inc/carousel-styles.php:1677
+#: inc/carousel-styles.php:1796 inc/carousel-styles.php:1915
+#: inc/carousel-styles.php:2026 inc/carousel-styles.php:2153
+#: inc/carousel-styles.php:2280 inc/carousel-styles.php:2407
+#: inc/carousel-styles.php:2550 inc/carousel-styles.php:2709
+#: inc/carousel-styles.php:2788 inc/carousel-styles.php:2891
+#: inc/carousel-styles.php:3018 inc/carousel-styles.php:3096
+#: inc/carousel-styles.php:3190 inc/carousel-styles.php:3300
+#: inc/carousel-styles.php:3418 inc/carousel-styles.php:3528
+#: inc/carousel-styles.php:3654 inc/carousel-styles.php:3772
+#: inc/carousel-styles.php:3882 inc/carousel-styles.php:3992
+#: inc/carousel-styles.php:4070 inc/carousel-styles.php:4180
+#: inc/carousel-styles.php:4290 inc/carousel-styles.php:4368
+#: inc/carousel-styles.php:4470 inc/carousel-styles.php:4596
+#: inc/carousel-styles.php:4674 inc/carousel-styles.php:4824
+#: inc/carousel-styles.php:4942 inc/carousel-styles.php:5068
+#: inc/carousel-styles.php:5178 inc/carousel-styles.php:5296
+#: inc/carousel-styles.php:5406 inc/carousel-styles.php:5618
+#: inc/carousel-styles.php:5760 inc/carousel-styles.php:5910
+#: inc/carousel-styles.php:6068
+msgid "Border Style"
+msgstr ""
+
+#: inc/carousel-styles.php:113 inc/carousel-styles.php:240
+#: inc/carousel-styles.php:367 inc/carousel-styles.php:486
+#: inc/carousel-styles.php:605 inc/carousel-styles.php:748
+#: inc/carousel-styles.php:891 inc/carousel-styles.php:1018
+#: inc/carousel-styles.php:1145 inc/carousel-styles.php:1272
+#: inc/carousel-styles.php:1415 inc/carousel-styles.php:1558
+#: inc/carousel-styles.php:1685 inc/carousel-styles.php:1804
+#: inc/carousel-styles.php:1923 inc/carousel-styles.php:2034
+#: inc/carousel-styles.php:2161 inc/carousel-styles.php:2288
+#: inc/carousel-styles.php:2415 inc/carousel-styles.php:2558
+#: inc/carousel-styles.php:2717 inc/carousel-styles.php:2796
+#: inc/carousel-styles.php:2899 inc/carousel-styles.php:3026
+#: inc/carousel-styles.php:3104 inc/carousel-styles.php:3198
+#: inc/carousel-styles.php:3308 inc/carousel-styles.php:3426
+#: inc/carousel-styles.php:3536 inc/carousel-styles.php:3662
+#: inc/carousel-styles.php:3780 inc/carousel-styles.php:3890
+#: inc/carousel-styles.php:4000 inc/carousel-styles.php:4078
+#: inc/carousel-styles.php:4188 inc/carousel-styles.php:4298
+#: inc/carousel-styles.php:4376 inc/carousel-styles.php:4478
+#: inc/carousel-styles.php:4604 inc/carousel-styles.php:4682
+#: inc/carousel-styles.php:4832 inc/carousel-styles.php:4950
+#: inc/carousel-styles.php:5076 inc/carousel-styles.php:5186
+#: inc/carousel-styles.php:5304 inc/carousel-styles.php:5414
+#: inc/carousel-styles.php:5626 inc/carousel-styles.php:5768
+#: inc/carousel-styles.php:5918 inc/carousel-styles.php:6076
+msgid "Border Width"
+msgstr ""
+
+#: inc/carousel-styles.php:121 inc/carousel-styles.php:248
+#: inc/carousel-styles.php:375 inc/carousel-styles.php:613
+#: inc/carousel-styles.php:756 inc/carousel-styles.php:899
+#: inc/carousel-styles.php:1026 inc/carousel-styles.php:1153
+#: inc/carousel-styles.php:1280 inc/carousel-styles.php:1423
+#: inc/carousel-styles.php:1566 inc/carousel-styles.php:1693
+#: inc/carousel-styles.php:1812 inc/carousel-styles.php:1931
+#: inc/carousel-styles.php:2042 inc/carousel-styles.php:2169
+#: inc/carousel-styles.php:2296 inc/carousel-styles.php:2423
+#: inc/carousel-styles.php:2566 inc/carousel-styles.php:2725
+#: inc/carousel-styles.php:2804 inc/carousel-styles.php:2907
+#: inc/carousel-styles.php:3034 inc/carousel-styles.php:3112
+#: inc/carousel-styles.php:3206 inc/carousel-styles.php:3316
+#: inc/carousel-styles.php:3434 inc/carousel-styles.php:3544
+#: inc/carousel-styles.php:3670 inc/carousel-styles.php:3788
+#: inc/carousel-styles.php:3898 inc/carousel-styles.php:4008
+#: inc/carousel-styles.php:4086 inc/carousel-styles.php:4196
+#: inc/carousel-styles.php:4306 inc/carousel-styles.php:4384
+#: inc/carousel-styles.php:4486 inc/carousel-styles.php:4612
+#: inc/carousel-styles.php:4690 inc/carousel-styles.php:4840
+#: inc/carousel-styles.php:4958 inc/carousel-styles.php:5084
+#: inc/carousel-styles.php:5194 inc/carousel-styles.php:5312
+#: inc/carousel-styles.php:5422 inc/carousel-styles.php:5634
+#: inc/carousel-styles.php:5776 inc/carousel-styles.php:5926
+#: inc/carousel-styles.php:6084
+msgid "Border Color"
+msgstr ""
+
+#: inc/carousel-styles.php:129 inc/carousel-styles.php:256
+#: inc/carousel-styles.php:383 inc/carousel-styles.php:494
+#: inc/carousel-styles.php:621 inc/carousel-styles.php:764
+#: inc/carousel-styles.php:907 inc/carousel-styles.php:1034
+#: inc/carousel-styles.php:1161 inc/carousel-styles.php:1288
+#: inc/carousel-styles.php:1431 inc/carousel-styles.php:1574
+#: inc/carousel-styles.php:1701 inc/carousel-styles.php:1820
+#: inc/carousel-styles.php:1939 inc/carousel-styles.php:2050
+#: inc/carousel-styles.php:2177 inc/carousel-styles.php:2304
+#: inc/carousel-styles.php:2431 inc/carousel-styles.php:2574
+#: inc/carousel-styles.php:2733 inc/carousel-styles.php:2812
+#: inc/carousel-styles.php:2915 inc/carousel-styles.php:3042
+#: inc/carousel-styles.php:3120 inc/carousel-styles.php:3214
+#: inc/carousel-styles.php:3324 inc/carousel-styles.php:3442
+#: inc/carousel-styles.php:3552 inc/carousel-styles.php:3678
+#: inc/carousel-styles.php:3796 inc/carousel-styles.php:3906
+#: inc/carousel-styles.php:4016 inc/carousel-styles.php:4094
+#: inc/carousel-styles.php:4204 inc/carousel-styles.php:4314
+#: inc/carousel-styles.php:4392 inc/carousel-styles.php:4494
+#: inc/carousel-styles.php:4620 inc/carousel-styles.php:4698
+#: inc/carousel-styles.php:4848 inc/carousel-styles.php:4966
+#: inc/carousel-styles.php:5092 inc/carousel-styles.php:5202
+#: inc/carousel-styles.php:5320 inc/carousel-styles.php:5430
+#: inc/carousel-styles.php:5642 inc/carousel-styles.php:5784
+#: inc/carousel-styles.php:5934 inc/carousel-styles.php:6092
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/carousel-styles.php:141
+msgid "Style 2"
+msgstr ""
+
+#: inc/carousel-styles.php:268
+msgid "Style 3"
+msgstr ""
+
+#: inc/carousel-styles.php:351 inc/carousel-styles.php:2542
+#: inc/carousel-styles.php:2701
+msgid "Date Text"
+msgstr ""
+
+#: inc/carousel-styles.php:395
+msgid "Style 4"
+msgstr ""
+
+#: inc/carousel-styles.php:406
+msgid "Top Border Color"
+msgstr ""
+
+#: inc/carousel-styles.php:506
+msgid "Style 5"
+msgstr ""
+
+#: inc/carousel-styles.php:581 inc/carousel-styles.php:867
+#: inc/carousel-styles.php:1391 inc/carousel-styles.php:1534
+msgid "Footer Background"
+msgstr ""
+
+#: inc/carousel-styles.php:589
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/carousel-styles.php:633
+msgid "Style 6"
+msgstr ""
+
+#: inc/carousel-styles.php:716 inc/carousel-styles.php:859
+#: inc/carousel-styles.php:1383 inc/carousel-styles.php:1526
+msgid "Date Text Color"
+msgstr ""
+
+#: inc/carousel-styles.php:724
+msgid "Meta Color"
+msgstr ""
+
+#: inc/carousel-styles.php:732
+msgid "Hover Caret Color"
+msgstr ""
+
+#: inc/carousel-styles.php:776
+msgid "Style 7"
+msgstr ""
+
+#: inc/carousel-styles.php:875 inc/carousel-styles.php:1399
+#: inc/carousel-styles.php:1542
+msgid "Footer Color"
+msgstr ""
+
+#: inc/carousel-styles.php:919
+msgid "Style 8"
+msgstr ""
+
+#: inc/carousel-styles.php:1002 inc/carousel-styles.php:1129
+#: inc/carousel-styles.php:1256 inc/carousel-styles.php:5886
+#: inc/carousel-styles.php:6052
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/carousel-styles.php:1046
+msgid "Style 9"
+msgstr ""
+
+#: inc/carousel-styles.php:1173
+msgid "Style 10"
+msgstr ""
+
+#: inc/carousel-styles.php:1300
+msgid "Style 11"
+msgstr ""
+
+#: inc/carousel-styles.php:1443
+msgid "Style 12"
+msgstr ""
+
+#: inc/carousel-styles.php:1586
+msgid "Style 13"
+msgstr ""
+
+#: inc/carousel-styles.php:1661
+msgid "Buttons Background"
+msgstr ""
+
+#: inc/carousel-styles.php:1669 inc/carousel-styles.php:2399
+#: inc/carousel-styles.php:2526 inc/carousel-styles.php:2669
+#: inc/carousel-styles.php:3756 inc/carousel-styles.php:4768
+msgid "Icons Color"
+msgstr ""
+
+#: inc/carousel-styles.php:1713
+msgid "Style 14"
+msgstr ""
+
+#: inc/carousel-styles.php:1788
+msgid "Diamond Color"
+msgstr ""
+
+#: inc/carousel-styles.php:1832
+msgid "Style 15"
+msgstr ""
+
+#: inc/carousel-styles.php:1851 inc/carousel-styles.php:2946
+#: inc/carousel-styles.php:3150 inc/carousel-styles.php:4422
+#: inc/carousel-styles.php:4524 inc/carousel-styles.php:4728
+#: inc/carousel-styles.php:4996 inc/carousel-styles.php:5956
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/carousel-styles.php:1891 inc/carousel-styles.php:3182
+#: inc/carousel-styles.php:3646 inc/carousel-styles.php:4454
+msgid "Icon Color"
+msgstr ""
+
+#: inc/carousel-styles.php:1899
+msgid "Inner Border Color"
+msgstr ""
+
+#: inc/carousel-styles.php:1907
+msgid "Title Border Color"
+msgstr ""
+
+#: inc/carousel-styles.php:1951
+msgid "Style 16"
+msgstr ""
+
+#: inc/carousel-styles.php:2062
+msgid "Style 17"
+msgstr ""
+
+#: inc/carousel-styles.php:2081 inc/carousel-styles.php:2208
+#: inc/carousel-styles.php:2327 inc/carousel-styles.php:2756
+msgid "Title Background"
+msgstr ""
+
+#: inc/carousel-styles.php:2145 inc/carousel-styles.php:2272
+msgid "Networks Background"
+msgstr ""
+
+#: inc/carousel-styles.php:2189
+msgid "Style 18"
+msgstr ""
+
+#: inc/carousel-styles.php:2316
+msgid "Style 19"
+msgstr ""
+
+#: inc/carousel-styles.php:2367 inc/carousel-styles.php:2986
+#: inc/carousel-styles.php:4792 inc/carousel-styles.php:5036
+msgid "Description Background"
+msgstr ""
+
+#: inc/carousel-styles.php:2443
+msgid "Style 20"
+msgstr ""
+
+#: inc/carousel-styles.php:2462 inc/carousel-styles.php:2605
+msgid "Title Bottom Line"
+msgstr ""
+
+#: inc/carousel-styles.php:2586
+msgid "Style 21"
+msgstr ""
+
+#: inc/carousel-styles.php:2677 inc/carousel-styles.php:2930
+#: inc/carousel-styles.php:3056 inc/carousel-styles.php:3134
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/carousel-styles.php:2685
+msgid "Overlay Border"
+msgstr ""
+
+#: inc/carousel-styles.php:2745
+msgid "Style 22"
+msgstr ""
+
+#: inc/carousel-styles.php:2824
+msgid "Style 23"
+msgstr ""
+
+#: inc/carousel-styles.php:2927
+msgid "Style 24"
+msgstr ""
+
+#: inc/carousel-styles.php:3053
+msgid "Style 25"
+msgstr ""
+
+#: inc/carousel-styles.php:3131
+msgid "Style 26"
+msgstr ""
+
+#: inc/carousel-styles.php:3225
+msgid "Style 27"
+msgstr ""
+
+#: inc/carousel-styles.php:3335
+msgid "Style 28"
+msgstr ""
+
+#: inc/carousel-styles.php:3346
+msgid "Content Background Color"
+msgstr ""
+
+#: inc/carousel-styles.php:3453
+msgid "Style 29"
+msgstr ""
+
+#: inc/carousel-styles.php:3563
+msgid "Style 30"
+msgstr ""
+
+#: inc/carousel-styles.php:3689
+msgid "Style 31"
+msgstr ""
+
+#: inc/carousel-styles.php:3807
+msgid "Style 32"
+msgstr ""
+
+#: inc/carousel-styles.php:3917
+msgid "Style 33"
+msgstr ""
+
+#: inc/carousel-styles.php:4027
+msgid "Style 34"
+msgstr ""
+
+#: inc/carousel-styles.php:4105
+msgid "Style 35"
+msgstr ""
+
+#: inc/carousel-styles.php:4148
+msgid "Description Background Color"
+msgstr ""
+
+#: inc/carousel-styles.php:4215
+msgid "Style 36"
+msgstr ""
+
+#: inc/carousel-styles.php:4325
+msgid "Style 37"
+msgstr ""
+
+#: inc/carousel-styles.php:4403
+msgid "Style 38"
+msgstr ""
+
+#: inc/carousel-styles.php:4462
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/carousel-styles.php:4505
+msgid "Style 39"
+msgstr ""
+
+#: inc/carousel-styles.php:4556 inc/carousel-styles.php:4760
+#: inc/carousel-styles.php:4902
+msgid "Hover Lines Color"
+msgstr ""
+
+#: inc/carousel-styles.php:4631
+msgid "Style 40"
+msgstr ""
+
+#: inc/carousel-styles.php:4709
+msgid "Style 41"
+msgstr ""
+
+#: inc/carousel-styles.php:4712
+msgid "Image Overlay Hover"
+msgstr ""
+
+#: inc/carousel-styles.php:4776
+msgid "Icons Border Color"
+msgstr ""
+
+#: inc/carousel-styles.php:4859
+msgid "Style 42"
+msgstr ""
+
+#: inc/carousel-styles.php:4862 inc/carousel-styles.php:4980
+#: inc/carousel-styles.php:5106
+msgid "Overlay Hover"
+msgstr ""
+
+#: inc/carousel-styles.php:4977
+msgid "Style 43"
+msgstr ""
+
+#: inc/carousel-styles.php:5103
+msgid "Style 44"
+msgstr ""
+
+#: inc/carousel-styles.php:5213
+msgid "Style 45"
+msgstr ""
+
+#: inc/carousel-styles.php:5288
+msgid "Categories Background"
+msgstr ""
+
+#: inc/carousel-styles.php:5331
+msgid "Style 46"
+msgstr ""
+
+#: inc/carousel-styles.php:5441
+msgid "Style 47"
+msgstr ""
+
+#: inc/carousel-styles.php:5508
+msgid "Separator Color"
+msgstr ""
+
+#: inc/carousel-styles.php:5519
+msgid "Style 48"
+msgstr ""
+
+#: inc/carousel-styles.php:5594 inc/carousel-styles.php:5728
+#: inc/carousel-styles.php:5870 inc/carousel-styles.php:6028
+msgid "Price Color"
+msgstr ""
+
+#: inc/carousel-styles.php:5602
+msgid "Topbar Color"
+msgstr ""
+
+#: inc/carousel-styles.php:5610
+msgid "Topbar Color - Hover"
+msgstr ""
+
+#: inc/carousel-styles.php:5653
+msgid "Style 49"
+msgstr ""
+
+#: inc/carousel-styles.php:5736
+msgid "Icon Border Color"
+msgstr ""
+
+#: inc/carousel-styles.php:5752
+msgid "Icon Background - Hover"
+msgstr ""
+
+#: inc/carousel-styles.php:5795
+msgid "Style 50"
+msgstr ""
+
+#: inc/carousel-styles.php:5878 inc/carousel-styles.php:6060
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/carousel-styles.php:5894 inc/carousel-styles.php:6044
+msgid "Button Text"
+msgstr ""
+
+#: inc/carousel-styles.php:5945
+msgid "Style 51"
+msgstr ""
+
+#: inc/carousel-styles.php:6036
+msgid "Price Background Color"
+msgstr ""
+
+#: inc/register-carousel.php:3
+msgctxt "Carousel"
+msgid "Carousels"
+msgstr ""
+
+#: inc/register-carousel.php:4
+msgctxt "Carousel"
+msgid "Carousel"
+msgstr ""
+
+#: inc/register-carousel.php:5
+msgctxt "admin menu"
+msgid "Carousels"
+msgstr ""
+
+#: inc/register-carousel.php:6
+msgctxt "Carousels"
+msgid "Carousel"
+msgstr ""
+
+#: inc/register-carousel.php:7
+msgctxt "Carousel"
+msgid "Add New"
+msgstr ""
+
+#: inc/register-carousel.php:8
+msgid "Add New Carousel"
+msgstr ""
+
+#: inc/register-carousel.php:9
+msgid "New Carousel"
+msgstr ""
+
+#: inc/register-carousel.php:10
+msgid "Edit Carousel"
+msgstr ""
+
+#: inc/register-carousel.php:12
+msgid "All Carousels"
+msgstr ""
+
+#: inc/register-carousel.php:13
+msgid "Search Carousels"
+msgstr ""
+
+#: inc/register-carousel.php:14
+msgid "Parent Carousels:"
+msgstr ""
+
+#: inc/register-carousel.php:15
+msgid "No Carousel found."
+msgstr ""
+
+#: inc/register-carousel.php:16
+msgid "No Carousel found in Trash."
+msgstr ""
+
+#: inc/register-carousel.php:21
+msgid "Create Posts Carousels."
+msgstr ""
+
+#: inc/render-template-settings.php:11
+msgid ""
+"Please note that some colors may not work here but will work on the "
+"frontend. Its because CSS pseudo-elements do not work by inline styling."
+msgstr ""
+
+#: inc/render.php:88 inc/render/render-shortcode.php:121
+msgid "Carousel contents not found!"
+msgstr ""
+
+#: inc/render/templates/style20.php:17 inc/render/templates/style21.php:15
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: inc/settings-fields.php:8
+msgid "Display By"
+msgstr ""
+
+#: inc/settings-fields.php:9
+msgid "How you want to display carousel"
+msgstr ""
+
+#: inc/settings-fields.php:11
+msgid "By Post Type"
+msgstr ""
+
+#: inc/settings-fields.php:12
+msgid "By Taxonomy"
+msgstr ""
+
+#: inc/settings-fields.php:20 inc/settings-fields.php:21
+msgid "Select Taxonomy"
+msgstr ""
+
+#: inc/settings-fields.php:28
+msgid "Select Term"
+msgstr ""
+
+#: inc/settings-fields.php:29
+msgid "Select Terms"
+msgstr ""
+
+#: inc/settings-fields.php:36 inc/settings-fields.php:37
+msgid "Select Post Type"
+msgstr ""
+
+#: inc/settings-fields.php:44
+msgid "Select Posts"
+msgstr ""
+
+#: inc/settings-fields.php:45
+msgid "Choose posts to display in carousel"
+msgstr ""
+
+#: inc/settings-fields.php:52
+msgid "Exclude Posts"
+msgstr ""
+
+#: inc/settings-fields.php:53
+msgid "Comma separated ids of posts that you do not want to display"
+msgstr ""
+
+#: inc/settings-fields.php:60
+msgid "Title"
+msgstr ""
+
+#: inc/settings-fields.php:61
+msgid ""
+"Provide post meta key to display as heading. You can use only one meta key "
+"here."
+msgstr ""
+
+#: inc/settings-fields.php:62 inc/settings-fields.php:72
+#: inc/settings-fields.php:81 inc/settings-fields.php:91
+#: inc/settings-fields.php:311
+msgid "Example"
+msgstr ""
+
+#: inc/settings-fields.php:70
+msgid "Title Words Length"
+msgstr ""
+
+#: inc/settings-fields.php:71
+msgid "Maximum words to display for title."
+msgstr ""
+
+#: inc/settings-fields.php:79
+msgid "Content"
+msgstr ""
+
+#: inc/settings-fields.php:80
+msgid ""
+"Provide post meta key to display as description. You can use only one meta "
+"key here."
+msgstr ""
+
+#: inc/settings-fields.php:89
+msgid "Description Words Length"
+msgstr ""
+
+#: inc/settings-fields.php:90
+msgid "Maximum words to display for description."
+msgstr ""
+
+#: inc/settings-fields.php:98
+msgid "Append to Trimmed Text"
+msgstr ""
+
+#: inc/settings-fields.php:99
+msgid "What to append if Maximum Words is defined. Default: "
+msgstr ""
+
+#: inc/settings-fields.php:107
+msgid "Shortcodes/Page Builders"
+msgstr ""
+
+#: inc/settings-fields.php:108
+msgid ""
+"Check this if you are using any page builder or shortcodes inside post/page "
+"contents."
+msgstr ""
+
+#: inc/settings-fields.php:115
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/settings-fields.php:116
+msgid ""
+"Provide text for read more button (if available in selected template). Leave "
+"blank to disable."
+msgstr ""
+
+#: inc/settings-fields.php:123
+msgid "Read More Button CSS Classes"
+msgstr ""
+
+#: inc/settings-fields.php:124
+msgid "Provide css classes for styling of button"
+msgstr ""
+
+#: inc/settings-fields.php:131
+msgid "Link Target"
+msgstr ""
+
+#: inc/settings-fields.php:132
+msgid "How you want to open links"
+msgstr ""
+
+#: inc/settings-fields.php:134
+msgid "Same Tab"
+msgstr ""
+
+#: inc/settings-fields.php:135
+msgid "New Tab"
+msgstr ""
+
+#: inc/settings-fields.php:143
+msgid "Template Style"
+msgstr ""
+
+#: inc/settings-fields.php:144
+msgid "Choose post display style here and customize it below."
+msgstr ""
+
+#: inc/settings-fields.php:153
+msgid "Accessibility"
+msgstr ""
+
+#: inc/settings-fields.php:154
+msgid "Enables tabbing and arrow key navigation"
+msgstr ""
+
+#: inc/settings-fields.php:161
+msgid "Bottom Dots"
+msgstr ""
+
+#: inc/settings-fields.php:162
+msgid "Check to enable current slide indicator dots"
+msgstr ""
+
+#: inc/settings-fields.php:169
+msgid "Auto Play"
+msgstr ""
+
+#: inc/settings-fields.php:170
+msgid "Enables auto play of slides"
+msgstr ""
+
+#: inc/settings-fields.php:178
+msgid "Check to enable Next/Prev arrows"
+msgstr ""
+
+#: inc/settings-fields.php:185
+msgid "Auto Play Speed"
+msgstr ""
+
+#: inc/settings-fields.php:186
+msgid "Auto play change interval in milliseconds"
+msgstr ""
+
+#: inc/settings-fields.php:193
+msgid "Pause on Hover"
+msgstr ""
+
+#: inc/settings-fields.php:194
+msgid "Enable it to pause the auto play when user hover over the slider."
+msgstr ""
+
+#: inc/settings-fields.php:201
+msgid "Number of Columns (Desktop)"
+msgstr ""
+
+#: inc/settings-fields.php:202
+msgid "Number of posts to show at a time in a row for desktop view"
+msgstr ""
+
+#: inc/settings-fields.php:209
+msgid "Number of Columns (Tablet)"
+msgstr ""
+
+#: inc/settings-fields.php:210
+msgid "Number of posts to show at a time in a row for tablet view"
+msgstr ""
+
+#: inc/settings-fields.php:217
+msgid "Number of Columns (Mobile)"
+msgstr ""
+
+#: inc/settings-fields.php:218
+msgid "Number of posts to show at a time in a row for mobile view"
+msgstr ""
+
+#: inc/settings-fields.php:225
+msgid "Number of Posts To Slide"
+msgstr ""
+
+#: inc/settings-fields.php:226
+msgid "Number of posts to slide at a time"
+msgstr ""
+
+#: inc/settings-fields.php:233
+msgid "Slide Speed"
+msgstr ""
+
+#: inc/settings-fields.php:234
+msgid "Transition speed in milliseconds"
+msgstr ""
+
+#: inc/settings-fields.php:241
+msgid "Infinite"
+msgstr ""
+
+#: inc/settings-fields.php:242
+msgid "Infinite loop sliding."
+msgstr ""
+
+#: inc/settings-fields.php:249
+msgid "Center Mode"
+msgstr ""
+
+#: inc/settings-fields.php:250
+msgid ""
+"Enables centered view with partial prev/next slides. Use it with odd Number "
+"of Columns."
+msgstr ""
+
+#: inc/settings-fields.php:257
+msgid "Initial Slide"
+msgstr ""
+
+#: inc/settings-fields.php:258
+msgid "Set the initial slide here, starting from 0"
+msgstr ""
+
+#: inc/settings-fields.php:265
+msgid "CSS Easing"
+msgstr ""
+
+#: inc/settings-fields.php:266
+msgid "Slide animation easing can be choosed here."
+msgstr ""
+
+#: inc/settings-fields.php:269
+msgid "Linear"
+msgstr ""
+
+#: inc/settings-fields.php:270
+msgid "easeInSine"
+msgstr ""
+
+#: inc/settings-fields.php:271
+msgid "easeOutSine"
+msgstr ""
+
+#: inc/settings-fields.php:272
+msgid "easeInOutSine"
+msgstr ""
+
+#: inc/settings-fields.php:273
+msgid "easeInQuad"
+msgstr ""
+
+#: inc/settings-fields.php:274
+msgid "easeOutQuad"
+msgstr ""
+
+#: inc/settings-fields.php:275
+msgid "easeInOutQuad"
+msgstr ""
+
+#: inc/settings-fields.php:276
+msgid "easeInCubic"
+msgstr ""
+
+#: inc/settings-fields.php:277
+msgid "easeOutCubic"
+msgstr ""
+
+#: inc/settings-fields.php:278
+msgid "easeInOutCubic"
+msgstr ""
+
+#: inc/settings-fields.php:279
+msgid "easeInQuart"
+msgstr ""
+
+#: inc/settings-fields.php:280
+msgid "easeOutQuart"
+msgstr ""
+
+#: inc/settings-fields.php:281
+msgid "easeInOutQuart"
+msgstr ""
+
+#: inc/settings-fields.php:282
+msgid "easeInQuint"
+msgstr ""
+
+#: inc/settings-fields.php:283
+msgid "easeOutQuint"
+msgstr ""
+
+#: inc/settings-fields.php:284
+msgid "easeInOutQuint"
+msgstr ""
+
+#: inc/settings-fields.php:285
+msgid "easeInExpo"
+msgstr ""
+
+#: inc/settings-fields.php:286
+msgid "easeOutExpo"
+msgstr ""
+
+#: inc/settings-fields.php:287
+msgid "easeInOutExpo"
+msgstr ""
+
+#: inc/settings-fields.php:288
+msgid "easeInCirc"
+msgstr ""
+
+#: inc/settings-fields.php:289
+msgid "easeOutCirc"
+msgstr ""
+
+#: inc/settings-fields.php:290
+msgid "easeInOutCirc"
+msgstr ""
+
+#: inc/settings-fields.php:291
+msgid "easeInBack"
+msgstr ""
+
+#: inc/settings-fields.php:292
+msgid "easeOutBack"
+msgstr ""
+
+#: inc/settings-fields.php:293
+msgid "easeInOutBack"
+msgstr ""
+
+#: inc/settings-fields.php:301
+msgid "Vertical Mode"
+msgstr ""
+
+#: inc/settings-fields.php:302
+msgid ""
+"It will display slides vertically, best to display in widgets or sidebars."
+msgstr ""
+
+#: inc/settings-fields.php:309
+msgid "Space Between Posts"
+msgstr ""
+
+#: inc/settings-fields.php:310
+msgid "Margin will apply to both sides. Provide with unit."
+msgstr ""
+
+#: inc/settings-fields.php:319
+msgid "Carousel Background Color"
+msgstr ""
+
+#: inc/settings-fields.php:320
+msgid "Choose background color for whole carousel"
+msgstr ""
+
+#: inc/settings-fields.php:327
+msgid "Navigation Dots Color"
+msgstr ""
+
+#: inc/settings-fields.php:328
+msgid "Choose the color for bottom navigation dots"
+msgstr ""
+
+#: inc/settings-fields.php:335
+msgid "Full Width"
+msgstr ""
+
+#: inc/settings-fields.php:336
+msgid ""
+"Checking it will remove the margin from slides on the sides making it full "
+"as the container."
+msgstr ""
+
+#: inc/settings-fields.php:343
+msgid "RTL Mode"
+msgstr ""
+
+#: inc/settings-fields.php:344
+msgid "Checking it will enable the right to left mode."
+msgstr ""
+
+#: inc/settings-fields.php:351
+msgid "Same Height Slides"
+msgstr ""
+
+#: inc/settings-fields.php:352
+msgid "Checking it will make all slides equal to the biggest one."
+msgstr ""
+
+#: inc/settings-fields.php:359
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/settings-fields.php:360
+msgid "Paste custom css code here"
+msgstr ""
+
+#: inc/settings-fields.php:370
+msgid "Arrows Type"
+msgstr ""
+
+#: inc/settings-fields.php:371
+msgid "Choose navigation arrows type here"
+msgstr ""
+
+#: inc/settings-fields.php:373 inc/settings-fields.php:395
+msgid "Circle"
+msgstr ""
+
+#: inc/settings-fields.php:374
+msgid "Circle Inverted"
+msgstr ""
+
+#: inc/settings-fields.php:375
+msgid "Simple"
+msgstr ""
+
+#: inc/settings-fields.php:376
+msgid "Long"
+msgstr ""
+
+#: inc/settings-fields.php:377
+msgid "Angle"
+msgstr ""
+
+#: inc/settings-fields.php:378
+msgid "Double Angle"
+msgstr ""
+
+#: inc/settings-fields.php:379
+msgid "Caret"
+msgstr ""
+
+#: inc/settings-fields.php:380
+msgid "Caret Square"
+msgstr ""
+
+#: inc/settings-fields.php:381
+msgid "Hand"
+msgstr ""
+
+#: inc/settings-fields.php:382
+msgid "Chevron"
+msgstr ""
+
+#: inc/settings-fields.php:390
+msgid "Arrows Style"
+msgstr ""
+
+#: inc/settings-fields.php:391
+msgid "Choose arrow appearance here"
+msgstr ""
+
+#: inc/settings-fields.php:393
+msgid "Transparent"
+msgstr ""
+
+#: inc/settings-fields.php:394
+msgid "Square"
+msgstr ""
+
+#: inc/settings-fields.php:403
+msgid "Arrows Color"
+msgstr ""
+
+#: inc/settings-fields.php:404
+msgid "Choose arrows color"
+msgstr ""
+
+#: inc/settings-fields.php:411
+msgid "Arrows Background Color"
+msgstr ""
+
+#: inc/settings-fields.php:412
+msgid "Choose arrows background color"
+msgstr ""
+
+#: inc/settings-fields.php:419
+msgid "Arrows Size"
+msgstr ""
+
+#: inc/settings-fields.php:420
+msgid "Provide size in pixels along with unit"
+msgstr ""
+
+#: inc/settings-fields.php:427
+msgid "Arrows Position"
+msgstr ""
+
+#: inc/settings-fields.php:428
+msgid "Where you want to display the arrows"
+msgstr ""
+
+#: inc/settings-fields.php:431
+msgid "Top Right"
+msgstr ""
+
+#: inc/settings-fields.php:432
+msgid "Top Left"
+msgstr ""
+
+#: inc/settings-fields.php:433
+msgid "Above Posts"
+msgstr ""
+
+#: inc/settings-fields.php:443
+msgid "Images Size"
+msgstr ""
+
+#: inc/settings-fields.php:444
+msgid "Choose images size for thumbnails"
+msgstr ""
+
+#: inc/settings-fields.php:451
+msgid "Lazy Loading"
+msgstr ""
+
+#: inc/settings-fields.php:452
+msgid ""
+"It will enable the lazy loading of the images. Make sure that Equal Height "
+"Mode is not enabled to avoid strange results."
+msgstr ""
+
+#: inc/settings-fields.php:459
+msgid "Skip Posts"
+msgstr ""
+
+#: inc/settings-fields.php:460
+msgid "Number of posts to skip from initial posts regarding current settings."
+msgstr ""
+
+#: inc/settings-fields.php:467
+msgid "Total Posts"
+msgstr ""
+
+#: inc/settings-fields.php:468
+msgid ""
+"Number of posts to display from current settings. Leave blank to display all."
+msgstr ""
+
+#: inc/settings-fields.php:475
+msgid "Rows"
+msgstr ""
+
+#: inc/settings-fields.php:476
+msgid ""
+"Setting this to more than 1 initializes grid mode. Use slidesPerRow to set "
+"how many slides should be in each row."
+msgstr ""
+
+#: inc/settings-fields.php:483
+msgid "Slides Per Row"
+msgstr ""
+
+#: inc/settings-fields.php:484
+msgid ""
+"With grid mode initialized via the rows option, this sets how many slides "
+"are in each grid row."
+msgstr ""
+
+#: inc/settings-fields.php:491
+msgid "Placeholder Image Url"
+msgstr ""
+
+#: inc/settings-fields.php:492
+msgid ""
+"Provide placeholder image url for that posts which do not have featured "
+"images."
+msgstr ""
+
+#: inc/settings-fields.php:499
+msgid "Disable Current Post"
+msgstr ""
+
+#: inc/settings-fields.php:500
+msgid ""
+"Check to exclude the current post from slider if you are using it under a "
+"post."
+msgstr ""
+
+#: inc/settings-fields.php:507
+msgid "Equal Height Mode"
+msgstr ""
+
+#: inc/settings-fields.php:508
+msgid "Checking this make all images same in height."
+msgstr ""
+
+#: inc/settings-fields.php:515
+msgid "Images Height"
+msgstr ""
+
+#: inc/settings-fields.php:516
+msgid ""
+"Fixed Height for images in px. Eg: 450px if Equal Height Mode is enabled."
+msgstr ""
+
+#: inc/settings-fields.php:525
+msgid "Post Link"
+msgstr ""
+
+#: inc/settings-fields.php:526
+msgid "Facebook"
+msgstr ""
+
+#: inc/settings-fields.php:527
+msgid "Twitter"
+msgstr ""
+
+#: inc/settings-fields.php:528
+msgid "Google Plus"
+msgstr ""
+
+#: inc/settings-fields.php:529
+msgid "Tumblr"
+msgstr ""
+
+#: inc/settings-fields.php:530
+msgid "Email"
+msgstr ""
+
+#: inc/settings-fields.php:531
+msgid "Pinterest"
+msgstr ""
+
+#: inc/settings-fields.php:532
+msgid "Linkedin"
+msgstr ""
+
+#: inc/settings-fields.php:533
+msgid "Reddit"
+msgstr ""
+
+#: inc/settings-fields.php:534
+msgid "Xing"
+msgstr ""
+
+#: inc/settings-fields.php:535
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/settings-fields.php:536
+msgid "Hacker News"
+msgstr ""
+
+#: inc/settings-fields.php:537
+msgid "VK"
+msgstr ""
+
+#: inc/settings-fields.php:538
+msgid "Telegram"
+msgstr ""
+
+#: inc/settings-fields.php:540
+msgid "Social Networks"
+msgstr ""
+
+#: inc/settings-fields.php:541
+msgid "Choose social networks for specific templates."
+msgstr ""
+
+#: inc/templates/post-card-with-author.php:13
+msgid "Profile"
+msgstr ""
+
+#: inc/templates/post-card-with-author.php:14
+msgid "More Info"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Responsive Posts Carousel Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://webcodingplace.com/responsive-posts-carousel-wordpress-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The best Posts Slider Plugin for WordPress you will ever need."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WebCodingPlace"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://webcodingplace.com/"
+msgstr ""

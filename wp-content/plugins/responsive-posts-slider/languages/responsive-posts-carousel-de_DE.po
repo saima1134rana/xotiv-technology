@@ -1,0 +1,1971 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Posts Carousel Pro\n"
+"POT-Creation-Date: 2019-09-15 10:57+0500\n"
+"PO-Revision-Date: 2019-09-15 10:58+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: carousel.class.php:75
+msgid "Contents"
+msgstr "Inhalte"
+
+#: carousel.class.php:80
+msgid "Slider"
+msgstr "Slider"
+
+#: carousel.class.php:85
+msgid "Appearance"
+msgstr "Aussehen"
+
+#: carousel.class.php:90 inc/settings-fields.php:177
+msgid "Arrows"
+msgstr "Pfeile"
+
+#: carousel.class.php:95
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: carousel.class.php:208 inc/settings-fields.php:268
+#: inc/settings-fields.php:430
+msgid "Default"
+msgstr "Standard"
+
+#: carousel.class.php:237 carousel.class.php:478
+#, fuzzy
+msgid "Sorry! this Taxonomy has no Terms."
+msgstr "Tut mir Leid! Diese Taxonomie hat keine Bedingungen."
+
+#: carousel.class.php:251
+#, fuzzy
+msgid "Please select any taxonomy first"
+msgstr "Bitte wählen Sie zuerst eine Taxonomie aus"
+
+#: carousel.class.php:300
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: carousel.class.php:312
+msgid "Default Shortcode"
+msgstr "Standard-Shortcode"
+
+#: carousel.class.php:317
+#, fuzzy
+msgid "Display 10 Latest Posted"
+msgstr "Display 10 Aktuelles Posted"
+
+#: carousel.class.php:322
+#, fuzzy
+msgid "Order by Ascending Titles"
+msgstr "Auftrag durch Aufstiegstitel"
+
+#: carousel.class.php:331
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: carousel.class.php:332
+#, fuzzy
+msgid "Load Template from Theme"
+msgstr "Tragende Vorlage aus Thema"
+
+#: carousel.class.php:333
+#, fuzzy
+msgid "Order and Sorting"
+msgstr "Ordnung und Sortierung"
+
+#: carousel.class.php:334
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: carousel.class.php:346 carousel.class.php:349
+#, fuzzy
+msgid "Carousel updated."
+msgstr "Karussell aktualisiert."
+
+#: carousel.class.php:347
+msgid "Custom field updated."
+msgstr "Benutzerdefiniertes Feld aktualisiert."
+
+#: carousel.class.php:348
+msgid "Custom field deleted."
+msgstr "Benutzerdefiniertes Feld gelöscht."
+
+#. translators: %s: date and time of the revision
+#: carousel.class.php:351
+#, fuzzy
+msgid "Carousel restored to revision"
+msgstr "Karussell wieder überarbeitet"
+
+#: carousel.class.php:352
+#, fuzzy
+msgid "Carousel published."
+msgstr "Karussell veröffentlicht."
+
+#: carousel.class.php:353
+#, fuzzy
+msgid "Carousel saved."
+msgstr "Karussell gerettet."
+
+#: carousel.class.php:354
+#, fuzzy
+msgid "Carousel submitted."
+msgstr "Karussell eingereicht."
+
+#: carousel.class.php:356
+#, fuzzy
+msgid "Carousel scheduled."
+msgstr "Karussell geplant."
+
+#. translators: Publish box date format, see http://php.net/date
+#: carousel.class.php:358
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G: i"
+
+#: carousel.class.php:360
+#, fuzzy
+msgid "Carousel draft updated."
+msgstr "Karussellentwurf aktualisiert."
+
+#: carousel.class.php:366 inc/register-carousel.php:11
+#, fuzzy
+msgid "View Carousel"
+msgstr "Karussell ansehen"
+
+#: carousel.class.php:372
+#, fuzzy
+msgid "Preview Carousel"
+msgstr "Vorschaukarussell"
+
+#: carousel.class.php:444
+#, fuzzy
+msgid "Sorry, it seems you did not selected any carousel."
+msgstr "Sorry, es scheint, dass Sie kein Karussell ausgewählt haben."
+
+#: carousel.class.php:468
+msgid "All"
+msgstr "Alle"
+
+#: carousel.class.php:638
+msgid "Shortcode"
+msgstr "Shortcode "
+
+#: carousel.class.php:639
+msgid "Template"
+msgstr "Vorlage"
+
+#: carousel.class.php:707 carousel.class.php:720
+msgid "Template not Found"
+msgstr "template wurde nicht gefunden"
+
+#: carousel.class.php:832
+#, fuzzy
+msgid "Please choose some other template."
+msgstr "Bitte wählen Sie eine andere Vorlage aus."
+
+#: carousel.class.php:862
+msgid "None"
+msgstr "Keiner"
+
+#: carousel.class.php:863
+msgid "Solid"
+msgstr "Solide"
+
+#: carousel.class.php:864
+msgid "Dotted"
+msgstr "Dotted"
+
+#: carousel.class.php:865
+msgid "Dashed"
+msgstr "Gestrichelt"
+
+#: carousel.class.php:866
+msgid "Double"
+msgstr "Doppelt"
+
+#: carousel.class.php:867
+msgid "Groove"
+msgstr "Rille"
+
+#: carousel.class.php:868
+msgid "Ridge"
+msgstr "Grat"
+
+#: carousel.class.php:869
+msgid "Inset"
+msgstr "Einsatz"
+
+#: carousel.class.php:870
+msgid "Outset"
+msgstr "Anfang"
+
+#: inc/carousel-styles.php:6
+#, fuzzy
+msgid "Style 1"
+msgstr "Stil 1"
+
+#: inc/carousel-styles.php:9 inc/carousel-styles.php:144
+#: inc/carousel-styles.php:271 inc/carousel-styles.php:398
+#: inc/carousel-styles.php:509 inc/carousel-styles.php:636
+#: inc/carousel-styles.php:779 inc/carousel-styles.php:922
+#: inc/carousel-styles.php:1049 inc/carousel-styles.php:1176
+#: inc/carousel-styles.php:1303 inc/carousel-styles.php:1446
+#: inc/carousel-styles.php:1589 inc/carousel-styles.php:1716
+#: inc/carousel-styles.php:1835 inc/carousel-styles.php:1954
+#: inc/carousel-styles.php:2065 inc/carousel-styles.php:2192
+#: inc/carousel-styles.php:2446 inc/carousel-styles.php:2589
+#: inc/carousel-styles.php:3228 inc/carousel-styles.php:3338
+#: inc/carousel-styles.php:3456 inc/carousel-styles.php:3566
+#: inc/carousel-styles.php:3764 inc/carousel-styles.php:3810
+#: inc/carousel-styles.php:3920 inc/carousel-styles.php:4030
+#: inc/carousel-styles.php:4218 inc/carousel-styles.php:4328
+#: inc/carousel-styles.php:4406 inc/carousel-styles.php:4508
+#: inc/carousel-styles.php:4634 inc/carousel-styles.php:5216
+#: inc/carousel-styles.php:5334 inc/carousel-styles.php:5586
+#: inc/carousel-styles.php:5720 inc/carousel-styles.php:5862
+#: inc/carousel-styles.php:6020
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: inc/carousel-styles.php:17 inc/carousel-styles.php:152
+#: inc/carousel-styles.php:279 inc/carousel-styles.php:414
+#: inc/carousel-styles.php:517 inc/carousel-styles.php:644
+#: inc/carousel-styles.php:787 inc/carousel-styles.php:930
+#: inc/carousel-styles.php:1057 inc/carousel-styles.php:1184
+#: inc/carousel-styles.php:1311 inc/carousel-styles.php:1454
+#: inc/carousel-styles.php:1597 inc/carousel-styles.php:1724
+#: inc/carousel-styles.php:1843 inc/carousel-styles.php:1962
+#: inc/carousel-styles.php:2073 inc/carousel-styles.php:2200
+#: inc/carousel-styles.php:2319 inc/carousel-styles.php:2454
+#: inc/carousel-styles.php:2597 inc/carousel-styles.php:2748
+#: inc/carousel-styles.php:2827 inc/carousel-styles.php:2938
+#: inc/carousel-styles.php:3064 inc/carousel-styles.php:3142
+#: inc/carousel-styles.php:3236 inc/carousel-styles.php:3354
+#: inc/carousel-styles.php:3464 inc/carousel-styles.php:3574
+#: inc/carousel-styles.php:3692 inc/carousel-styles.php:3818
+#: inc/carousel-styles.php:3928 inc/carousel-styles.php:4108
+#: inc/carousel-styles.php:4226 inc/carousel-styles.php:4336
+#: inc/carousel-styles.php:4414 inc/carousel-styles.php:4516
+#: inc/carousel-styles.php:4642 inc/carousel-styles.php:4720
+#: inc/carousel-styles.php:4870 inc/carousel-styles.php:4988
+#: inc/carousel-styles.php:5114 inc/carousel-styles.php:5224
+#: inc/carousel-styles.php:5342 inc/carousel-styles.php:5444
+#: inc/carousel-styles.php:5522 inc/carousel-styles.php:5656
+#: inc/carousel-styles.php:5798 inc/carousel-styles.php:5948
+msgid "Title Color"
+msgstr "Titelfarbe"
+
+#: inc/carousel-styles.php:25 inc/carousel-styles.php:160
+#: inc/carousel-styles.php:287 inc/carousel-styles.php:422
+#: inc/carousel-styles.php:525 inc/carousel-styles.php:652
+#: inc/carousel-styles.php:795 inc/carousel-styles.php:938
+#: inc/carousel-styles.php:1065 inc/carousel-styles.php:1192
+#: inc/carousel-styles.php:1319 inc/carousel-styles.php:1462
+#: inc/carousel-styles.php:1605 inc/carousel-styles.php:1732
+#: inc/carousel-styles.php:1859 inc/carousel-styles.php:1970
+#: inc/carousel-styles.php:2089 inc/carousel-styles.php:2216
+#: inc/carousel-styles.php:2335 inc/carousel-styles.php:2470
+#: inc/carousel-styles.php:2613 inc/carousel-styles.php:2764
+#: inc/carousel-styles.php:2835 inc/carousel-styles.php:2954
+#: inc/carousel-styles.php:3072 inc/carousel-styles.php:3158
+#: inc/carousel-styles.php:3244 inc/carousel-styles.php:3362
+#: inc/carousel-styles.php:3472 inc/carousel-styles.php:3582
+#: inc/carousel-styles.php:3700 inc/carousel-styles.php:3826
+#: inc/carousel-styles.php:3936 inc/carousel-styles.php:4116
+#: inc/carousel-styles.php:4234 inc/carousel-styles.php:4344
+#: inc/carousel-styles.php:4430 inc/carousel-styles.php:4532
+#: inc/carousel-styles.php:4650 inc/carousel-styles.php:4736
+#: inc/carousel-styles.php:4878 inc/carousel-styles.php:5004
+#: inc/carousel-styles.php:5122 inc/carousel-styles.php:5232
+#: inc/carousel-styles.php:5350 inc/carousel-styles.php:5452
+#: inc/carousel-styles.php:5530 inc/carousel-styles.php:5664
+#: inc/carousel-styles.php:5806 inc/carousel-styles.php:5964
+msgid "Title Font Size"
+msgstr "Titel Schriftgröße"
+
+#: inc/carousel-styles.php:33 inc/carousel-styles.php:168
+#: inc/carousel-styles.php:295 inc/carousel-styles.php:430
+#: inc/carousel-styles.php:533 inc/carousel-styles.php:660
+#: inc/carousel-styles.php:803 inc/carousel-styles.php:946
+#: inc/carousel-styles.php:1073 inc/carousel-styles.php:1200
+#: inc/carousel-styles.php:1327 inc/carousel-styles.php:1470
+#: inc/carousel-styles.php:1613 inc/carousel-styles.php:1740
+#: inc/carousel-styles.php:1867 inc/carousel-styles.php:1978
+#: inc/carousel-styles.php:2097 inc/carousel-styles.php:2224
+#: inc/carousel-styles.php:2343 inc/carousel-styles.php:2478
+#: inc/carousel-styles.php:2621 inc/carousel-styles.php:2772
+#: inc/carousel-styles.php:2843 inc/carousel-styles.php:2962
+#: inc/carousel-styles.php:3080 inc/carousel-styles.php:3166
+#: inc/carousel-styles.php:3252 inc/carousel-styles.php:3370
+#: inc/carousel-styles.php:3480 inc/carousel-styles.php:3590
+#: inc/carousel-styles.php:3708 inc/carousel-styles.php:3834
+#: inc/carousel-styles.php:3944 inc/carousel-styles.php:4124
+#: inc/carousel-styles.php:4242 inc/carousel-styles.php:4352
+#: inc/carousel-styles.php:4438 inc/carousel-styles.php:4540
+#: inc/carousel-styles.php:4658 inc/carousel-styles.php:4744
+#: inc/carousel-styles.php:4886 inc/carousel-styles.php:5012
+#: inc/carousel-styles.php:5130 inc/carousel-styles.php:5240
+#: inc/carousel-styles.php:5358 inc/carousel-styles.php:5460
+#: inc/carousel-styles.php:5538 inc/carousel-styles.php:5672
+#: inc/carousel-styles.php:5814 inc/carousel-styles.php:5972
+msgid "Title Font Family"
+msgstr "Schriftfamilie für Title"
+
+#: inc/carousel-styles.php:41 inc/carousel-styles.php:176
+#: inc/carousel-styles.php:303 inc/carousel-styles.php:438
+#: inc/carousel-styles.php:541 inc/carousel-styles.php:668
+#: inc/carousel-styles.php:811 inc/carousel-styles.php:954
+#: inc/carousel-styles.php:1081 inc/carousel-styles.php:1208
+#: inc/carousel-styles.php:1335 inc/carousel-styles.php:1478
+#: inc/carousel-styles.php:1621 inc/carousel-styles.php:1748
+#: inc/carousel-styles.php:1875 inc/carousel-styles.php:1986
+#: inc/carousel-styles.php:2105 inc/carousel-styles.php:2232
+#: inc/carousel-styles.php:2351 inc/carousel-styles.php:2486
+#: inc/carousel-styles.php:2629 inc/carousel-styles.php:2780
+#: inc/carousel-styles.php:2851 inc/carousel-styles.php:2970
+#: inc/carousel-styles.php:3088 inc/carousel-styles.php:3174
+#: inc/carousel-styles.php:3260 inc/carousel-styles.php:3378
+#: inc/carousel-styles.php:3488 inc/carousel-styles.php:3598
+#: inc/carousel-styles.php:3716 inc/carousel-styles.php:3842
+#: inc/carousel-styles.php:3952 inc/carousel-styles.php:4132
+#: inc/carousel-styles.php:4250 inc/carousel-styles.php:4360
+#: inc/carousel-styles.php:4446 inc/carousel-styles.php:4548
+#: inc/carousel-styles.php:4666 inc/carousel-styles.php:4752
+#: inc/carousel-styles.php:4894 inc/carousel-styles.php:5020
+#: inc/carousel-styles.php:5138 inc/carousel-styles.php:5248
+#: inc/carousel-styles.php:5366 inc/carousel-styles.php:5468
+#: inc/carousel-styles.php:5546 inc/carousel-styles.php:5680
+#: inc/carousel-styles.php:5822 inc/carousel-styles.php:5980
+msgid "Title Line Height"
+msgstr "Titel Zeilenhöhe"
+
+#: inc/carousel-styles.php:49 inc/carousel-styles.php:184
+#: inc/carousel-styles.php:311 inc/carousel-styles.php:446
+#: inc/carousel-styles.php:549 inc/carousel-styles.php:676
+#: inc/carousel-styles.php:819 inc/carousel-styles.php:962
+#: inc/carousel-styles.php:1089 inc/carousel-styles.php:1216
+#: inc/carousel-styles.php:1343 inc/carousel-styles.php:1486
+#: inc/carousel-styles.php:1629 inc/carousel-styles.php:1756
+#: inc/carousel-styles.php:1994 inc/carousel-styles.php:2113
+#: inc/carousel-styles.php:2240 inc/carousel-styles.php:2359
+#: inc/carousel-styles.php:2494 inc/carousel-styles.php:2637
+#: inc/carousel-styles.php:2859 inc/carousel-styles.php:2978
+#: inc/carousel-styles.php:3268 inc/carousel-styles.php:3386
+#: inc/carousel-styles.php:3496 inc/carousel-styles.php:3606
+#: inc/carousel-styles.php:3724 inc/carousel-styles.php:3850
+#: inc/carousel-styles.php:3960 inc/carousel-styles.php:4038
+#: inc/carousel-styles.php:4140 inc/carousel-styles.php:4258
+#: inc/carousel-styles.php:4564 inc/carousel-styles.php:4784
+#: inc/carousel-styles.php:4910 inc/carousel-styles.php:5028
+#: inc/carousel-styles.php:5146 inc/carousel-styles.php:5256
+#: inc/carousel-styles.php:5374 inc/carousel-styles.php:5476
+#: inc/carousel-styles.php:5554 inc/carousel-styles.php:5688
+#: inc/carousel-styles.php:5830 inc/carousel-styles.php:5988
+msgid "Description Color"
+msgstr "Beschreibungs- Farbe"
+
+#: inc/carousel-styles.php:57 inc/carousel-styles.php:192
+#: inc/carousel-styles.php:319 inc/carousel-styles.php:454
+#: inc/carousel-styles.php:557 inc/carousel-styles.php:684
+#: inc/carousel-styles.php:827 inc/carousel-styles.php:970
+#: inc/carousel-styles.php:1097 inc/carousel-styles.php:1224
+#: inc/carousel-styles.php:1351 inc/carousel-styles.php:1494
+#: inc/carousel-styles.php:1637 inc/carousel-styles.php:1764
+#: inc/carousel-styles.php:2002 inc/carousel-styles.php:2121
+#: inc/carousel-styles.php:2248 inc/carousel-styles.php:2375
+#: inc/carousel-styles.php:2502 inc/carousel-styles.php:2645
+#: inc/carousel-styles.php:2867 inc/carousel-styles.php:2994
+#: inc/carousel-styles.php:3276 inc/carousel-styles.php:3394
+#: inc/carousel-styles.php:3504 inc/carousel-styles.php:3614
+#: inc/carousel-styles.php:3732 inc/carousel-styles.php:3858
+#: inc/carousel-styles.php:3968 inc/carousel-styles.php:4046
+#: inc/carousel-styles.php:4156 inc/carousel-styles.php:4266
+#: inc/carousel-styles.php:4572 inc/carousel-styles.php:4800
+#: inc/carousel-styles.php:4918 inc/carousel-styles.php:5044
+#: inc/carousel-styles.php:5154 inc/carousel-styles.php:5264
+#: inc/carousel-styles.php:5382 inc/carousel-styles.php:5484
+#: inc/carousel-styles.php:5562 inc/carousel-styles.php:5696
+#: inc/carousel-styles.php:5838 inc/carousel-styles.php:5996
+msgid "Description Font Size"
+msgstr "Schriftgröße für Akkordioninhalt"
+
+#: inc/carousel-styles.php:65 inc/carousel-styles.php:200
+#: inc/carousel-styles.php:327 inc/carousel-styles.php:462
+#: inc/carousel-styles.php:565 inc/carousel-styles.php:692
+#: inc/carousel-styles.php:835 inc/carousel-styles.php:978
+#: inc/carousel-styles.php:1105 inc/carousel-styles.php:1232
+#: inc/carousel-styles.php:1359 inc/carousel-styles.php:1502
+#: inc/carousel-styles.php:1645 inc/carousel-styles.php:1772
+#: inc/carousel-styles.php:2010 inc/carousel-styles.php:2129
+#: inc/carousel-styles.php:2256 inc/carousel-styles.php:2383
+#: inc/carousel-styles.php:2510 inc/carousel-styles.php:2653
+#: inc/carousel-styles.php:2875 inc/carousel-styles.php:3002
+#: inc/carousel-styles.php:3284 inc/carousel-styles.php:3402
+#: inc/carousel-styles.php:3512 inc/carousel-styles.php:3622
+#: inc/carousel-styles.php:3740 inc/carousel-styles.php:3866
+#: inc/carousel-styles.php:3976 inc/carousel-styles.php:4054
+#: inc/carousel-styles.php:4164 inc/carousel-styles.php:4274
+#: inc/carousel-styles.php:4580 inc/carousel-styles.php:4808
+#: inc/carousel-styles.php:4926 inc/carousel-styles.php:5052
+#: inc/carousel-styles.php:5162 inc/carousel-styles.php:5272
+#: inc/carousel-styles.php:5390 inc/carousel-styles.php:5492
+#: inc/carousel-styles.php:5570 inc/carousel-styles.php:5704
+#: inc/carousel-styles.php:5846 inc/carousel-styles.php:6004
+msgid "Description Font Family"
+msgstr "Beschreibung Schriftart"
+
+#: inc/carousel-styles.php:73 inc/carousel-styles.php:208
+#: inc/carousel-styles.php:335 inc/carousel-styles.php:470
+#: inc/carousel-styles.php:573 inc/carousel-styles.php:700
+#: inc/carousel-styles.php:843 inc/carousel-styles.php:986
+#: inc/carousel-styles.php:1113 inc/carousel-styles.php:1240
+#: inc/carousel-styles.php:1367 inc/carousel-styles.php:1510
+#: inc/carousel-styles.php:1653 inc/carousel-styles.php:1780
+#: inc/carousel-styles.php:2018 inc/carousel-styles.php:2137
+#: inc/carousel-styles.php:2264 inc/carousel-styles.php:2391
+#: inc/carousel-styles.php:2518 inc/carousel-styles.php:2661
+#: inc/carousel-styles.php:2883 inc/carousel-styles.php:3010
+#: inc/carousel-styles.php:3292 inc/carousel-styles.php:3410
+#: inc/carousel-styles.php:3520 inc/carousel-styles.php:3630
+#: inc/carousel-styles.php:3748 inc/carousel-styles.php:3874
+#: inc/carousel-styles.php:3984 inc/carousel-styles.php:4062
+#: inc/carousel-styles.php:4172 inc/carousel-styles.php:4282
+#: inc/carousel-styles.php:4588 inc/carousel-styles.php:4816
+#: inc/carousel-styles.php:4934 inc/carousel-styles.php:5060
+#: inc/carousel-styles.php:5170 inc/carousel-styles.php:5280
+#: inc/carousel-styles.php:5398 inc/carousel-styles.php:5500
+#: inc/carousel-styles.php:5578 inc/carousel-styles.php:5712
+#: inc/carousel-styles.php:5854 inc/carousel-styles.php:6012
+msgid "Description Line Height"
+msgstr "Beschreibung Zeilenhöhe"
+
+#: inc/carousel-styles.php:81 inc/carousel-styles.php:216
+#: inc/carousel-styles.php:343 inc/carousel-styles.php:708
+#: inc/carousel-styles.php:851 inc/carousel-styles.php:1375
+#: inc/carousel-styles.php:1518 inc/carousel-styles.php:2534
+#: inc/carousel-styles.php:2693
+#, fuzzy
+msgid "Date Background"
+msgstr "Datumsgrund"
+
+#: inc/carousel-styles.php:89 inc/carousel-styles.php:224
+#: inc/carousel-styles.php:1883 inc/carousel-styles.php:3638
+#: inc/carousel-styles.php:5744 inc/carousel-styles.php:5902
+msgid "Icon Background"
+msgstr "Icon Hintergrund"
+
+#: inc/carousel-styles.php:97 inc/carousel-styles.php:478
+#: inc/carousel-styles.php:994 inc/carousel-styles.php:1121
+#: inc/carousel-styles.php:1248
+msgid "Button Background"
+msgstr "Button-Hintergrund"
+
+#: inc/carousel-styles.php:105 inc/carousel-styles.php:232
+#: inc/carousel-styles.php:359 inc/carousel-styles.php:597
+#: inc/carousel-styles.php:740 inc/carousel-styles.php:883
+#: inc/carousel-styles.php:1010 inc/carousel-styles.php:1137
+#: inc/carousel-styles.php:1264 inc/carousel-styles.php:1407
+#: inc/carousel-styles.php:1550 inc/carousel-styles.php:1677
+#: inc/carousel-styles.php:1796 inc/carousel-styles.php:1915
+#: inc/carousel-styles.php:2026 inc/carousel-styles.php:2153
+#: inc/carousel-styles.php:2280 inc/carousel-styles.php:2407
+#: inc/carousel-styles.php:2550 inc/carousel-styles.php:2709
+#: inc/carousel-styles.php:2788 inc/carousel-styles.php:2891
+#: inc/carousel-styles.php:3018 inc/carousel-styles.php:3096
+#: inc/carousel-styles.php:3190 inc/carousel-styles.php:3300
+#: inc/carousel-styles.php:3418 inc/carousel-styles.php:3528
+#: inc/carousel-styles.php:3654 inc/carousel-styles.php:3772
+#: inc/carousel-styles.php:3882 inc/carousel-styles.php:3992
+#: inc/carousel-styles.php:4070 inc/carousel-styles.php:4180
+#: inc/carousel-styles.php:4290 inc/carousel-styles.php:4368
+#: inc/carousel-styles.php:4470 inc/carousel-styles.php:4596
+#: inc/carousel-styles.php:4674 inc/carousel-styles.php:4824
+#: inc/carousel-styles.php:4942 inc/carousel-styles.php:5068
+#: inc/carousel-styles.php:5178 inc/carousel-styles.php:5296
+#: inc/carousel-styles.php:5406 inc/carousel-styles.php:5618
+#: inc/carousel-styles.php:5760 inc/carousel-styles.php:5910
+#: inc/carousel-styles.php:6068
+msgid "Border Style"
+msgstr "Rahmenstil"
+
+#: inc/carousel-styles.php:113 inc/carousel-styles.php:240
+#: inc/carousel-styles.php:367 inc/carousel-styles.php:486
+#: inc/carousel-styles.php:605 inc/carousel-styles.php:748
+#: inc/carousel-styles.php:891 inc/carousel-styles.php:1018
+#: inc/carousel-styles.php:1145 inc/carousel-styles.php:1272
+#: inc/carousel-styles.php:1415 inc/carousel-styles.php:1558
+#: inc/carousel-styles.php:1685 inc/carousel-styles.php:1804
+#: inc/carousel-styles.php:1923 inc/carousel-styles.php:2034
+#: inc/carousel-styles.php:2161 inc/carousel-styles.php:2288
+#: inc/carousel-styles.php:2415 inc/carousel-styles.php:2558
+#: inc/carousel-styles.php:2717 inc/carousel-styles.php:2796
+#: inc/carousel-styles.php:2899 inc/carousel-styles.php:3026
+#: inc/carousel-styles.php:3104 inc/carousel-styles.php:3198
+#: inc/carousel-styles.php:3308 inc/carousel-styles.php:3426
+#: inc/carousel-styles.php:3536 inc/carousel-styles.php:3662
+#: inc/carousel-styles.php:3780 inc/carousel-styles.php:3890
+#: inc/carousel-styles.php:4000 inc/carousel-styles.php:4078
+#: inc/carousel-styles.php:4188 inc/carousel-styles.php:4298
+#: inc/carousel-styles.php:4376 inc/carousel-styles.php:4478
+#: inc/carousel-styles.php:4604 inc/carousel-styles.php:4682
+#: inc/carousel-styles.php:4832 inc/carousel-styles.php:4950
+#: inc/carousel-styles.php:5076 inc/carousel-styles.php:5186
+#: inc/carousel-styles.php:5304 inc/carousel-styles.php:5414
+#: inc/carousel-styles.php:5626 inc/carousel-styles.php:5768
+#: inc/carousel-styles.php:5918 inc/carousel-styles.php:6076
+msgid "Border Width"
+msgstr "Rahmenbreite"
+
+#: inc/carousel-styles.php:121 inc/carousel-styles.php:248
+#: inc/carousel-styles.php:375 inc/carousel-styles.php:613
+#: inc/carousel-styles.php:756 inc/carousel-styles.php:899
+#: inc/carousel-styles.php:1026 inc/carousel-styles.php:1153
+#: inc/carousel-styles.php:1280 inc/carousel-styles.php:1423
+#: inc/carousel-styles.php:1566 inc/carousel-styles.php:1693
+#: inc/carousel-styles.php:1812 inc/carousel-styles.php:1931
+#: inc/carousel-styles.php:2042 inc/carousel-styles.php:2169
+#: inc/carousel-styles.php:2296 inc/carousel-styles.php:2423
+#: inc/carousel-styles.php:2566 inc/carousel-styles.php:2725
+#: inc/carousel-styles.php:2804 inc/carousel-styles.php:2907
+#: inc/carousel-styles.php:3034 inc/carousel-styles.php:3112
+#: inc/carousel-styles.php:3206 inc/carousel-styles.php:3316
+#: inc/carousel-styles.php:3434 inc/carousel-styles.php:3544
+#: inc/carousel-styles.php:3670 inc/carousel-styles.php:3788
+#: inc/carousel-styles.php:3898 inc/carousel-styles.php:4008
+#: inc/carousel-styles.php:4086 inc/carousel-styles.php:4196
+#: inc/carousel-styles.php:4306 inc/carousel-styles.php:4384
+#: inc/carousel-styles.php:4486 inc/carousel-styles.php:4612
+#: inc/carousel-styles.php:4690 inc/carousel-styles.php:4840
+#: inc/carousel-styles.php:4958 inc/carousel-styles.php:5084
+#: inc/carousel-styles.php:5194 inc/carousel-styles.php:5312
+#: inc/carousel-styles.php:5422 inc/carousel-styles.php:5634
+#: inc/carousel-styles.php:5776 inc/carousel-styles.php:5926
+#: inc/carousel-styles.php:6084
+msgid "Border Color"
+msgstr "Randfarbe"
+
+#: inc/carousel-styles.php:129 inc/carousel-styles.php:256
+#: inc/carousel-styles.php:383 inc/carousel-styles.php:494
+#: inc/carousel-styles.php:621 inc/carousel-styles.php:764
+#: inc/carousel-styles.php:907 inc/carousel-styles.php:1034
+#: inc/carousel-styles.php:1161 inc/carousel-styles.php:1288
+#: inc/carousel-styles.php:1431 inc/carousel-styles.php:1574
+#: inc/carousel-styles.php:1701 inc/carousel-styles.php:1820
+#: inc/carousel-styles.php:1939 inc/carousel-styles.php:2050
+#: inc/carousel-styles.php:2177 inc/carousel-styles.php:2304
+#: inc/carousel-styles.php:2431 inc/carousel-styles.php:2574
+#: inc/carousel-styles.php:2733 inc/carousel-styles.php:2812
+#: inc/carousel-styles.php:2915 inc/carousel-styles.php:3042
+#: inc/carousel-styles.php:3120 inc/carousel-styles.php:3214
+#: inc/carousel-styles.php:3324 inc/carousel-styles.php:3442
+#: inc/carousel-styles.php:3552 inc/carousel-styles.php:3678
+#: inc/carousel-styles.php:3796 inc/carousel-styles.php:3906
+#: inc/carousel-styles.php:4016 inc/carousel-styles.php:4094
+#: inc/carousel-styles.php:4204 inc/carousel-styles.php:4314
+#: inc/carousel-styles.php:4392 inc/carousel-styles.php:4494
+#: inc/carousel-styles.php:4620 inc/carousel-styles.php:4698
+#: inc/carousel-styles.php:4848 inc/carousel-styles.php:4966
+#: inc/carousel-styles.php:5092 inc/carousel-styles.php:5202
+#: inc/carousel-styles.php:5320 inc/carousel-styles.php:5430
+#: inc/carousel-styles.php:5642 inc/carousel-styles.php:5784
+#: inc/carousel-styles.php:5934 inc/carousel-styles.php:6092
+msgid "Box Shadow"
+msgstr "Box Schatten"
+
+#: inc/carousel-styles.php:141
+#, fuzzy
+msgid "Style 2"
+msgstr "Stil 2"
+
+#: inc/carousel-styles.php:268
+#, fuzzy
+msgid "Style 3"
+msgstr "Stil 3"
+
+#: inc/carousel-styles.php:351 inc/carousel-styles.php:2542
+#: inc/carousel-styles.php:2701
+#, fuzzy
+msgid "Date Text"
+msgstr "Datum Text"
+
+#: inc/carousel-styles.php:395
+#, fuzzy
+msgid "Style 4"
+msgstr "Kastenstil 4"
+
+#: inc/carousel-styles.php:406
+msgid "Top Border Color"
+msgstr "Farbe des oberen Rahmens"
+
+#: inc/carousel-styles.php:506
+msgid "Style 5"
+msgstr "Stil 5"
+
+#: inc/carousel-styles.php:581 inc/carousel-styles.php:867
+#: inc/carousel-styles.php:1391 inc/carousel-styles.php:1534
+msgid "Footer Background"
+msgstr "Fusszeilen Hintergrund"
+
+#: inc/carousel-styles.php:589
+msgid "Footer Text Color"
+msgstr "Footer Textfarbe"
+
+#: inc/carousel-styles.php:633
+msgid "Style 6"
+msgstr "Style 6"
+
+#: inc/carousel-styles.php:716 inc/carousel-styles.php:859
+#: inc/carousel-styles.php:1383 inc/carousel-styles.php:1526
+#, fuzzy
+msgid "Date Text Color"
+msgstr "Datum Textfarbe"
+
+#: inc/carousel-styles.php:724
+msgid "Meta Color"
+msgstr "Meta Farbe"
+
+#: inc/carousel-styles.php:732
+#, fuzzy
+msgid "Hover Caret Color"
+msgstr "Hover Caret Color"
+
+#: inc/carousel-styles.php:776
+msgid "Style 7"
+msgstr "Style 7"
+
+#: inc/carousel-styles.php:875 inc/carousel-styles.php:1399
+#: inc/carousel-styles.php:1542
+msgid "Footer Color"
+msgstr "Footer Color"
+
+#: inc/carousel-styles.php:919
+msgid "Style 8"
+msgstr "Style 8"
+
+#: inc/carousel-styles.php:1002 inc/carousel-styles.php:1129
+#: inc/carousel-styles.php:1256 inc/carousel-styles.php:5886
+#: inc/carousel-styles.php:6052
+msgid "Button Text Color"
+msgstr "Button Text Farbe"
+
+#: inc/carousel-styles.php:1046
+msgid "Style 9"
+msgstr "Style 9"
+
+#: inc/carousel-styles.php:1173
+msgid "Style 10"
+msgstr "Stil 10"
+
+#: inc/carousel-styles.php:1300
+msgid "Style 11"
+msgstr "Style 11"
+
+#: inc/carousel-styles.php:1443
+msgid "Style 12"
+msgstr "Style 12"
+
+#: inc/carousel-styles.php:1586
+#, fuzzy
+msgid "Style 13"
+msgstr "Stil 13"
+
+#: inc/carousel-styles.php:1661
+msgid "Buttons Background"
+msgstr "Schaltflächen Hintergrund"
+
+#: inc/carousel-styles.php:1669 inc/carousel-styles.php:2399
+#: inc/carousel-styles.php:2526 inc/carousel-styles.php:2669
+#: inc/carousel-styles.php:3756 inc/carousel-styles.php:4768
+msgid "Icons Color"
+msgstr "Symbol Farbe"
+
+#: inc/carousel-styles.php:1713
+msgid "Style 14"
+msgstr "Stil 14"
+
+#: inc/carousel-styles.php:1788
+#, fuzzy
+msgid "Diamond Color"
+msgstr "Diamond Color"
+
+#: inc/carousel-styles.php:1832
+#, fuzzy
+msgid "Style 15"
+msgstr "Stil 15"
+
+#: inc/carousel-styles.php:1851 inc/carousel-styles.php:2946
+#: inc/carousel-styles.php:3150 inc/carousel-styles.php:4422
+#: inc/carousel-styles.php:4524 inc/carousel-styles.php:4728
+#: inc/carousel-styles.php:4996 inc/carousel-styles.php:5956
+msgid "Title Background Color"
+msgstr "Titel Hintergrund Farbe"
+
+#: inc/carousel-styles.php:1891 inc/carousel-styles.php:3182
+#: inc/carousel-styles.php:3646 inc/carousel-styles.php:4454
+msgid "Icon Color"
+msgstr "Icon Farbe"
+
+#: inc/carousel-styles.php:1899
+#, fuzzy
+msgid "Inner Border Color"
+msgstr "Innere Grenzfarbe"
+
+#: inc/carousel-styles.php:1907
+msgid "Title Border Color"
+msgstr "Titelrand Farbe"
+
+#: inc/carousel-styles.php:1951
+#, fuzzy
+msgid "Style 16"
+msgstr "Stil 16"
+
+#: inc/carousel-styles.php:2062
+#, fuzzy
+msgid "Style 17"
+msgstr "Stil 17"
+
+#: inc/carousel-styles.php:2081 inc/carousel-styles.php:2208
+#: inc/carousel-styles.php:2327 inc/carousel-styles.php:2756
+#, fuzzy
+msgid "Title Background"
+msgstr "Titel Hintergrund Farbe"
+
+#: inc/carousel-styles.php:2145 inc/carousel-styles.php:2272
+#, fuzzy
+msgid "Networks Background"
+msgstr "Netzwerk-Hintergrund"
+
+#: inc/carousel-styles.php:2189
+#, fuzzy
+msgid "Style 18"
+msgstr "Stil 18"
+
+#: inc/carousel-styles.php:2316
+#, fuzzy
+msgid "Style 19"
+msgstr "Stil 19"
+
+#: inc/carousel-styles.php:2367 inc/carousel-styles.php:2986
+#: inc/carousel-styles.php:4792 inc/carousel-styles.php:5036
+#, fuzzy
+msgid "Description Background"
+msgstr "Hintergrundfarbe für den Accordioninhalt"
+
+#: inc/carousel-styles.php:2443
+#, fuzzy
+msgid "Style 20"
+msgstr "Stil 20"
+
+#: inc/carousel-styles.php:2462 inc/carousel-styles.php:2605
+#, fuzzy
+msgid "Title Bottom Line"
+msgstr "Titel Bottom Line"
+
+#: inc/carousel-styles.php:2586
+#, fuzzy
+msgid "Style 21"
+msgstr "Stil 21"
+
+#: inc/carousel-styles.php:2677 inc/carousel-styles.php:2930
+#: inc/carousel-styles.php:3056 inc/carousel-styles.php:3134
+msgid "Overlay Color"
+msgstr "Overlay-Farbe"
+
+#: inc/carousel-styles.php:2685
+#, fuzzy
+msgid "Overlay Border"
+msgstr "Überlagert Grenze"
+
+#: inc/carousel-styles.php:2745
+#, fuzzy
+msgid "Style 22"
+msgstr "Stil 22"
+
+#: inc/carousel-styles.php:2824
+#, fuzzy
+msgid "Style 23"
+msgstr "Stil 23"
+
+#: inc/carousel-styles.php:2927
+#, fuzzy
+msgid "Style 24"
+msgstr "Stil 24"
+
+#: inc/carousel-styles.php:3053
+#, fuzzy
+msgid "Style 25"
+msgstr "Stil 25"
+
+#: inc/carousel-styles.php:3131
+#, fuzzy
+msgid "Style 26"
+msgstr "Stil 26"
+
+#: inc/carousel-styles.php:3225
+#, fuzzy
+msgid "Style 27"
+msgstr "Stil 27"
+
+#: inc/carousel-styles.php:3335
+#, fuzzy
+msgid "Style 28"
+msgstr "Stil 28"
+
+#: inc/carousel-styles.php:3346
+msgid "Content Background Color"
+msgstr "Content Hintergrundfarbe"
+
+#: inc/carousel-styles.php:3453
+#, fuzzy
+msgid "Style 29"
+msgstr "Stil 29"
+
+#: inc/carousel-styles.php:3563
+#, fuzzy
+msgid "Style 30"
+msgstr "Stil 30"
+
+#: inc/carousel-styles.php:3689
+#, fuzzy
+msgid "Style 31"
+msgstr "Stil 31"
+
+#: inc/carousel-styles.php:3807
+#, fuzzy
+msgid "Style 32"
+msgstr "Stil 32"
+
+#: inc/carousel-styles.php:3917
+#, fuzzy
+msgid "Style 33"
+msgstr "Stil 33"
+
+#: inc/carousel-styles.php:4027
+#, fuzzy
+msgid "Style 34"
+msgstr "Stil 34"
+
+#: inc/carousel-styles.php:4105
+#, fuzzy
+msgid "Style 35"
+msgstr "Stil 35"
+
+#: inc/carousel-styles.php:4148
+msgid "Description Background Color"
+msgstr "Hintergrundfarbe für den Accordioninhalt"
+
+#: inc/carousel-styles.php:4215
+#, fuzzy
+msgid "Style 36"
+msgstr "Stil 36"
+
+#: inc/carousel-styles.php:4325
+#, fuzzy
+msgid "Style 37"
+msgstr "Stil 37"
+
+#: inc/carousel-styles.php:4403
+#, fuzzy
+msgid "Style 38"
+msgstr "Stil 38"
+
+#: inc/carousel-styles.php:4462
+msgid "Icon Background Color"
+msgstr "Icon Hintergrundfarbe"
+
+#: inc/carousel-styles.php:4505
+#, fuzzy
+msgid "Style 39"
+msgstr "Stil 39"
+
+#: inc/carousel-styles.php:4556 inc/carousel-styles.php:4760
+#: inc/carousel-styles.php:4902
+#, fuzzy
+msgid "Hover Lines Color"
+msgstr "Hover Lines Farbe"
+
+#: inc/carousel-styles.php:4631
+#, fuzzy
+msgid "Style 40"
+msgstr "Stil 40"
+
+#: inc/carousel-styles.php:4709
+#, fuzzy
+msgid "Style 41"
+msgstr "Stil 41"
+
+#: inc/carousel-styles.php:4712
+#, fuzzy
+msgid "Image Overlay Hover"
+msgstr "Bild-Überlagerung"
+
+#: inc/carousel-styles.php:4776
+msgid "Icons Border Color"
+msgstr "Icons Linienfarbe"
+
+#: inc/carousel-styles.php:4859
+#, fuzzy
+msgid "Style 42"
+msgstr "Stil 42"
+
+#: inc/carousel-styles.php:4862 inc/carousel-styles.php:4980
+#: inc/carousel-styles.php:5106
+#, fuzzy
+msgid "Overlay Hover"
+msgstr "Überlagerung des Hüber"
+
+#: inc/carousel-styles.php:4977
+#, fuzzy
+msgid "Style 43"
+msgstr "Stil 43"
+
+#: inc/carousel-styles.php:5103
+#, fuzzy
+msgid "Style 44"
+msgstr "Stil 44"
+
+#: inc/carousel-styles.php:5213
+#, fuzzy
+msgid "Style 45"
+msgstr "Stil 45"
+
+#: inc/carousel-styles.php:5288
+#, fuzzy
+msgid "Categories Background"
+msgstr "Hintergrund der Kategorien"
+
+#: inc/carousel-styles.php:5331
+#, fuzzy
+msgid "Style 46"
+msgstr "Stil 46"
+
+#: inc/carousel-styles.php:5441
+#, fuzzy
+msgid "Style 47"
+msgstr "Kastenstil 4"
+
+#: inc/carousel-styles.php:5508
+#, fuzzy
+#| msgid "Overlay Color"
+msgid "Separator Color"
+msgstr "Overlay-Farbe"
+
+#: inc/carousel-styles.php:5519
+#, fuzzy
+msgid "Style 48"
+msgstr "Kastenstil 4"
+
+#: inc/carousel-styles.php:5594 inc/carousel-styles.php:5728
+#: inc/carousel-styles.php:5870 inc/carousel-styles.php:6028
+#, fuzzy
+#| msgid "Title Color"
+msgid "Price Color"
+msgstr "Titelfarbe"
+
+#: inc/carousel-styles.php:5602
+#, fuzzy
+#| msgid "Top Border Color"
+msgid "Topbar Color"
+msgstr "Farbe des oberen Rahmens"
+
+#: inc/carousel-styles.php:5610
+msgid "Topbar Color - Hover"
+msgstr ""
+
+#: inc/carousel-styles.php:5653
+#, fuzzy
+msgid "Style 49"
+msgstr "Kastenstil 4"
+
+#: inc/carousel-styles.php:5736
+#, fuzzy
+#| msgid "Icons Border Color"
+msgid "Icon Border Color"
+msgstr "Icons Linienfarbe"
+
+#: inc/carousel-styles.php:5752
+#, fuzzy
+#| msgid "Icon Background Color"
+msgid "Icon Background - Hover"
+msgstr "Icon Hintergrundfarbe"
+
+#: inc/carousel-styles.php:5795
+#, fuzzy
+#| msgid "Style 5"
+msgid "Style 50"
+msgstr "Stil 5"
+
+#: inc/carousel-styles.php:5878 inc/carousel-styles.php:6060
+#, fuzzy
+#| msgid "Icon Background Color"
+msgid "Button Background Color"
+msgstr "Icon Hintergrundfarbe"
+
+#: inc/carousel-styles.php:5894 inc/carousel-styles.php:6044
+#, fuzzy
+#| msgid "Button Text Color"
+msgid "Button Text"
+msgstr "Button Text Farbe"
+
+#: inc/carousel-styles.php:5945
+#, fuzzy
+#| msgid "Style 5"
+msgid "Style 51"
+msgstr "Stil 5"
+
+#: inc/carousel-styles.php:6036
+#, fuzzy
+#| msgid "Title Background Color"
+msgid "Price Background Color"
+msgstr "Titel Hintergrund Farbe"
+
+#: inc/register-carousel.php:3
+msgctxt "Carousel"
+msgid "Carousels"
+msgstr "Carousels"
+
+#: inc/register-carousel.php:4
+#, fuzzy
+msgctxt "Carousel"
+msgid "Carousel"
+msgstr "Neues Carousel hinzufügen"
+
+#: inc/register-carousel.php:5
+msgctxt "admin menu"
+msgid "Carousels"
+msgstr "Carousels"
+
+#: inc/register-carousel.php:6
+#, fuzzy
+msgctxt "Carousels"
+msgid "Carousel"
+msgstr "Neues Carousel hinzufügen"
+
+#: inc/register-carousel.php:7
+msgctxt "Carousel"
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: inc/register-carousel.php:8
+msgid "Add New Carousel"
+msgstr "Neues Carousel hinzufügen"
+
+#: inc/register-carousel.php:9
+#, fuzzy
+msgid "New Carousel"
+msgstr "Neues Carousel hinzufügen"
+
+#: inc/register-carousel.php:10
+msgid "Edit Carousel"
+msgstr "Carousel bearbeiten"
+
+#: inc/register-carousel.php:12
+msgid "All Carousels"
+msgstr "Alle Carousels"
+
+#: inc/register-carousel.php:13
+msgid "Search Carousels"
+msgstr "Suche Carousel"
+
+#: inc/register-carousel.php:14
+#, fuzzy
+msgid "Parent Carousels:"
+msgstr "Eltern Carousels:"
+
+#: inc/register-carousel.php:15
+#, fuzzy
+msgid "No Carousel found."
+msgstr "Kein Karussell gefunden"
+
+#: inc/register-carousel.php:16
+#, fuzzy
+msgid "No Carousel found in Trash."
+msgstr "Kein Karussell in Müll gefunden"
+
+#: inc/register-carousel.php:21
+#, fuzzy
+msgid "Create Posts Carousels."
+msgstr "Erstellen Sie Beiträge Carousels."
+
+#: inc/render-template-settings.php:11
+#, fuzzy
+msgid ""
+"Please note that some colors may not work here but will work on the "
+"frontend. Its because CSS pseudo-elements do not work by inline styling."
+msgstr ""
+"Bitte beachten Sie, dass einige Farben hier nicht funktionieren, aber auf "
+"dem Frontend funktionieren. Es ist, weil CSS-Pseudo-Elemente nicht durch "
+"Inline-Styling funktionieren."
+
+#: inc/render.php:88 inc/render/render-shortcode.php:121
+#, fuzzy
+msgid "Carousel contents not found!"
+msgstr "Karussellinhalte nicht gefunden!"
+
+#: inc/render/templates/style20.php:17 inc/render/templates/style21.php:15
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "vor %s"
+
+#: inc/settings-fields.php:8
+#, fuzzy
+msgid "Display By"
+msgstr "Zeigen Sie eine einzelne Eigenschaft an"
+
+#: inc/settings-fields.php:9
+#, fuzzy
+msgid "How you want to display carousel"
+msgstr "Wie Sie Karussell anzeigen wollen"
+
+#: inc/settings-fields.php:11
+#, fuzzy
+msgid "By Post Type"
+msgstr "Bitte wählen Sie einen Einitragstyp"
+
+#: inc/settings-fields.php:12
+#, fuzzy
+msgid "By Taxonomy"
+msgstr "Taxonomy wählen"
+
+#: inc/settings-fields.php:20 inc/settings-fields.php:21
+msgid "Select Taxonomy"
+msgstr "Taxonomy wählen"
+
+#: inc/settings-fields.php:28
+msgid "Select Term"
+msgstr "Begriff auswählen"
+
+#: inc/settings-fields.php:29
+msgid "Select Terms"
+msgstr "Werte auswählen"
+
+#: inc/settings-fields.php:36 inc/settings-fields.php:37
+msgid "Select Post Type"
+msgstr "Bitte wählen Sie einen Einitragstyp"
+
+#: inc/settings-fields.php:44
+msgid "Select Posts"
+msgstr "Beiträge auswählen"
+
+#: inc/settings-fields.php:45
+#, fuzzy
+msgid "Choose posts to display in carousel"
+msgstr "Wählen Sie Beiträge, um im Karussell anzuzeigen"
+
+#: inc/settings-fields.php:52
+msgid "Exclude Posts"
+msgstr "Beiträge ausschließen"
+
+#: inc/settings-fields.php:53
+#, fuzzy
+msgid "Comma separated ids of posts that you do not want to display"
+msgstr "Komma getrennte IDs von Beiträgen, die Sie nicht anzeigen wollen"
+
+#: inc/settings-fields.php:60
+msgid "Title"
+msgstr "Titel"
+
+#: inc/settings-fields.php:61
+#, fuzzy
+msgid ""
+"Provide post meta key to display as heading. You can use only one meta key "
+"here."
+msgstr ""
+"Geben Sie die Post-Meta-Taste an, die als Überschrift angezeigt werden soll. "
+"Hier können Sie nur einen Meta-Schlüssel verwenden."
+
+#: inc/settings-fields.php:62 inc/settings-fields.php:72
+#: inc/settings-fields.php:81 inc/settings-fields.php:91
+#: inc/settings-fields.php:311
+msgid "Example"
+msgstr "Beispiel"
+
+#: inc/settings-fields.php:70
+#, fuzzy
+msgid "Title Words Length"
+msgstr "Beschreibung Wörter Länge"
+
+#: inc/settings-fields.php:71
+#, fuzzy
+msgid "Maximum words to display for title."
+msgstr "Maximale Wörter, die zur Beschreibung angezeigt werden."
+
+#: inc/settings-fields.php:79
+#, fuzzy
+msgid "Content"
+msgstr "Stellen Sie Inhalte für bereits eingeloggte Benutzer bereit"
+
+#: inc/settings-fields.php:80
+#, fuzzy
+msgid ""
+"Provide post meta key to display as description. You can use only one meta "
+"key here."
+msgstr ""
+"Geben Sie die Post-Meta-Taste an, um sie als Beschreibung anzuzeigen. Hier "
+"können Sie nur einen Meta-Schlüssel verwenden."
+
+#: inc/settings-fields.php:89
+#, fuzzy
+msgid "Description Words Length"
+msgstr "Beschreibung Wörter Länge"
+
+#: inc/settings-fields.php:90
+#, fuzzy
+msgid "Maximum words to display for description."
+msgstr "Maximale Wörter, die zur Beschreibung angezeigt werden."
+
+#: inc/settings-fields.php:98
+msgid "Append to Trimmed Text"
+msgstr ""
+
+#: inc/settings-fields.php:99
+msgid "What to append if Maximum Words is defined. Default: "
+msgstr ""
+
+#: inc/settings-fields.php:107
+msgid "Shortcodes/Page Builders"
+msgstr ""
+
+#: inc/settings-fields.php:108
+msgid ""
+"Check this if you are using any page builder or shortcodes inside post/page "
+"contents."
+msgstr ""
+
+#: inc/settings-fields.php:115
+msgid "Read More Button Text"
+msgstr "Mehr dazu Button Text"
+
+#: inc/settings-fields.php:116
+#, fuzzy
+msgid ""
+"Provide text for read more button (if available in selected template). Leave "
+"blank to disable."
+msgstr ""
+"Geben Sie Text für mehr Taste (wenn in ausgewählten Vorlage verfügbar). "
+"Legen lassen, um zu deaktivieren."
+
+#: inc/settings-fields.php:123
+#, fuzzy
+msgid "Read More Button CSS Classes"
+msgstr "Lesen Sie mehr Button CSS-Klassen"
+
+#: inc/settings-fields.php:124
+#, fuzzy
+msgid "Provide css classes for styling of button"
+msgstr "Stellen Sie css-Kurse für das Styling der Taste"
+
+#: inc/settings-fields.php:131
+msgid "Link Target"
+msgstr "Link Ziel"
+
+#: inc/settings-fields.php:132
+#, fuzzy
+msgid "How you want to open links"
+msgstr "Wie Sie Links öffnen wollen"
+
+#: inc/settings-fields.php:134
+msgid "Same Tab"
+msgstr "Selber Tab"
+
+#: inc/settings-fields.php:135
+msgid "New Tab"
+msgstr "Neuen Tab hinzufügen"
+
+#: inc/settings-fields.php:143
+#, fuzzy
+msgid "Template Style"
+msgstr "Vorlage Stil"
+
+#: inc/settings-fields.php:144
+#, fuzzy
+msgid "Choose post display style here and customize it below."
+msgstr "Wählen Sie hier den Anzeigestil aus und passen Sie ihn unten an."
+
+#: inc/settings-fields.php:153
+msgid "Accessibility"
+msgstr "Barrierefrei"
+
+#: inc/settings-fields.php:154
+#, fuzzy
+msgid "Enables tabbing and arrow key navigation"
+msgstr "Ermöglicht Tabbing und Pfeilschlüssel-Navigation"
+
+#: inc/settings-fields.php:161
+#, fuzzy
+msgid "Bottom Dots"
+msgstr "Unten Punkte"
+
+#: inc/settings-fields.php:162
+#, fuzzy
+msgid "Check to enable current slide indicator dots"
+msgstr "Überprüfen, um die aktuellen Dia-Indikator-Punkte zu aktivieren"
+
+#: inc/settings-fields.php:169
+msgid "Auto Play"
+msgstr "Automatische Wiedergabe"
+
+#: inc/settings-fields.php:170
+#, fuzzy
+msgid "Enables auto play of slides"
+msgstr "Ermöglicht das automatische Spiel der Dias"
+
+#: inc/settings-fields.php:178
+#, fuzzy
+msgid "Check to enable Next/Prev arrows"
+msgstr "Überprüfen Sie, ob Next/Prev Pfeile aktivieren können"
+
+#: inc/settings-fields.php:185
+msgid "Auto Play Speed"
+msgstr "Automatische Wiedergabegeschwindigkeit"
+
+#: inc/settings-fields.php:186
+#, fuzzy
+msgid "Auto play change interval in milliseconds"
+msgstr "Auto Spiel-Wechselintervall in Millisekunden"
+
+#: inc/settings-fields.php:193
+msgid "Pause on Hover"
+msgstr "Bei Massekontakt pausieren"
+
+#: inc/settings-fields.php:194
+#, fuzzy
+msgid "Enable it to pause the auto play when user hover over the slider."
+msgstr ""
+"Aktivieren Sie es, das automatische Spiel zu unterbrechen, wenn der Benutzer "
+"über den Schieberegler schwebt."
+
+#: inc/settings-fields.php:201
+#, fuzzy
+msgid "Number of Columns (Desktop)"
+msgstr "Anzahl der Säulen (Desktop)"
+
+#: inc/settings-fields.php:202
+#, fuzzy
+msgid "Number of posts to show at a time in a row for desktop view"
+msgstr ""
+"Anzahl der Beiträge, die zu einer Zeit in einer Reihe für die Desktop-"
+"Ansicht angezeigt werden"
+
+#: inc/settings-fields.php:209
+#, fuzzy
+msgid "Number of Columns (Tablet)"
+msgstr "Anzahl der Spalten (Tablet)"
+
+#: inc/settings-fields.php:210
+#, fuzzy
+msgid "Number of posts to show at a time in a row for tablet view"
+msgstr ""
+"Anzahl der Beiträge, die zu einer Zeit in Folge für Tablet-Ansicht angezeigt "
+"werden"
+
+#: inc/settings-fields.php:217
+msgid "Number of Columns (Mobile)"
+msgstr "Anzahl der Spalten (Mobil)"
+
+#: inc/settings-fields.php:218
+#, fuzzy
+msgid "Number of posts to show at a time in a row for mobile view"
+msgstr ""
+"Anzahl der Beiträge, die zu einer Zeit in Folge für mobile Ansicht angezeigt "
+"werden"
+
+#: inc/settings-fields.php:225
+#, fuzzy
+msgid "Number of Posts To Slide"
+msgstr "Anzahl der Stellen zum Rutschen"
+
+#: inc/settings-fields.php:226
+#, fuzzy
+msgid "Number of posts to slide at a time"
+msgstr "Anzahl der Beiträge, die gleichzeitig rutschen"
+
+#: inc/settings-fields.php:233
+msgid "Slide Speed"
+msgstr "Geschwindigkeit der Slide"
+
+#: inc/settings-fields.php:234
+#, fuzzy
+msgid "Transition speed in milliseconds"
+msgstr "Übergangsgeschwindigkeit in Millisekunden"
+
+#: inc/settings-fields.php:241
+msgid "Infinite"
+msgstr "Unendlich"
+
+#: inc/settings-fields.php:242
+#, fuzzy
+msgid "Infinite loop sliding."
+msgstr "Unendliche Schlaufe."
+
+#: inc/settings-fields.php:249
+#, fuzzy
+msgid "Center Mode"
+msgstr "Mittelmodus"
+
+#: inc/settings-fields.php:250
+#, fuzzy
+msgid ""
+"Enables centered view with partial prev/next slides. Use it with odd Number "
+"of Columns."
+msgstr ""
+"Aktiviert die zentrierte Ansicht mit partiellen prev/nächsten Folien. "
+"Verwenden Sie es mit ungeraden Anzahl von Spalten."
+
+#: inc/settings-fields.php:257
+#, fuzzy
+msgid "Initial Slide"
+msgstr "Erste Rutsche"
+
+#: inc/settings-fields.php:258
+#, fuzzy
+msgid "Set the initial slide here, starting from 0"
+msgstr "Stellen Sie hier die erste Folie ein, ab 0"
+
+#: inc/settings-fields.php:265
+#, fuzzy
+msgid "CSS Easing"
+msgstr "CSS-Lockerung"
+
+#: inc/settings-fields.php:266
+#, fuzzy
+msgid "Slide animation easing can be choosed here."
+msgstr "Die Dia-Animation wird hier gewählt."
+
+#: inc/settings-fields.php:269
+msgid "Linear"
+msgstr "Linear"
+
+#: inc/settings-fields.php:270
+msgid "easeInSine"
+msgstr "easeInSine"
+
+#: inc/settings-fields.php:271
+msgid "easeOutSine"
+msgstr "easeOutSine"
+
+#: inc/settings-fields.php:272
+msgid "easeInOutSine"
+msgstr "easeInOutSine"
+
+#: inc/settings-fields.php:273
+msgid "easeInQuad"
+msgstr "easeInQuad"
+
+#: inc/settings-fields.php:274
+msgid "easeOutQuad"
+msgstr "easeOutQuad"
+
+#: inc/settings-fields.php:275
+msgid "easeInOutQuad"
+msgstr "easeInOutQuad"
+
+#: inc/settings-fields.php:276
+msgid "easeInCubic"
+msgstr "easeInCubic"
+
+#: inc/settings-fields.php:277
+msgid "easeOutCubic"
+msgstr "easeOutCubic"
+
+#: inc/settings-fields.php:278
+msgid "easeInOutCubic"
+msgstr "easeInOutCubic"
+
+#: inc/settings-fields.php:279
+msgid "easeInQuart"
+msgstr "easeInQuart"
+
+#: inc/settings-fields.php:280
+msgid "easeOutQuart"
+msgstr "easeOutQuart"
+
+#: inc/settings-fields.php:281
+msgid "easeInOutQuart"
+msgstr "easeInOutQuart"
+
+#: inc/settings-fields.php:282
+msgid "easeInQuint"
+msgstr "easeInQuint"
+
+#: inc/settings-fields.php:283
+msgid "easeOutQuint"
+msgstr "easeOutQuint"
+
+#: inc/settings-fields.php:284
+msgid "easeInOutQuint"
+msgstr "easeInOutQuint"
+
+#: inc/settings-fields.php:285
+msgid "easeInExpo"
+msgstr "easeInExpo"
+
+#: inc/settings-fields.php:286
+msgid "easeOutExpo"
+msgstr "easeOutExpo"
+
+#: inc/settings-fields.php:287
+msgid "easeInOutExpo"
+msgstr "easeInOutExpo"
+
+#: inc/settings-fields.php:288
+msgid "easeInCirc"
+msgstr "easeInCirc"
+
+#: inc/settings-fields.php:289
+msgid "easeOutCirc"
+msgstr "easeOutCirc"
+
+#: inc/settings-fields.php:290
+msgid "easeInOutCirc"
+msgstr "easeInOutCirc"
+
+#: inc/settings-fields.php:291
+msgid "easeInBack"
+msgstr "easeInBack"
+
+#: inc/settings-fields.php:292
+msgid "easeOutBack"
+msgstr "easeOutBack"
+
+#: inc/settings-fields.php:293
+msgid "easeInOutBack"
+msgstr "easeInOutBack"
+
+#: inc/settings-fields.php:301
+#, fuzzy
+msgid "Vertical Mode"
+msgstr "Vertikaler Modus"
+
+#: inc/settings-fields.php:302
+#, fuzzy
+msgid ""
+"It will display slides vertically, best to display in widgets or sidebars."
+msgstr ""
+"Es wird Dias vertikal anzeigen, am besten in Widgets oder Sidebars angezeigt."
+
+#: inc/settings-fields.php:309
+#, fuzzy
+msgid "Space Between Posts"
+msgstr "Raum zwischen Posts"
+
+#: inc/settings-fields.php:310
+#, fuzzy
+msgid "Margin will apply to both sides. Provide with unit."
+msgstr "Die Marge wird für beide Seiten gelten. Mit Einheit versorgen."
+
+#: inc/settings-fields.php:319
+#, fuzzy
+msgid "Carousel Background Color"
+msgstr "Karussell-Background Farbe"
+
+#: inc/settings-fields.php:320
+#, fuzzy
+msgid "Choose background color for whole carousel"
+msgstr "Wählen Sie die Hintergrundfarbe für das ganze Karussell"
+
+#: inc/settings-fields.php:327
+msgid "Navigation Dots Color"
+msgstr ""
+
+#: inc/settings-fields.php:328
+msgid "Choose the color for bottom navigation dots"
+msgstr ""
+
+#: inc/settings-fields.php:335
+msgid "Full Width"
+msgstr ""
+
+#: inc/settings-fields.php:336
+msgid ""
+"Checking it will remove the margin from slides on the sides making it full "
+"as the container."
+msgstr ""
+
+#: inc/settings-fields.php:343
+msgid "RTL Mode"
+msgstr ""
+
+#: inc/settings-fields.php:344
+msgid "Checking it will enable the right to left mode."
+msgstr ""
+
+#: inc/settings-fields.php:351
+#, fuzzy
+msgid "Same Height Slides"
+msgstr "Gleiche-Höhe-Modus"
+
+#: inc/settings-fields.php:352
+#, fuzzy
+msgid "Checking it will make all slides equal to the biggest one."
+msgstr "Wenn man dies überprüft, machen alle Bilder gleich in der Höhe."
+
+#: inc/settings-fields.php:359
+msgid "Custom CSS"
+msgstr "Benutzerdefinierte CSS"
+
+#: inc/settings-fields.php:360
+msgid "Paste custom css code here"
+msgstr "Fügen Sie hier Ihren eigenen CSS Code ein."
+
+#: inc/settings-fields.php:370
+#, fuzzy
+msgid "Arrows Type"
+msgstr "Pfeile-Typ"
+
+#: inc/settings-fields.php:371
+#, fuzzy
+msgid "Choose navigation arrows type here"
+msgstr "Hier wählen Sie den Navigationspfeilentyp"
+
+#: inc/settings-fields.php:373 inc/settings-fields.php:395
+msgid "Circle"
+msgstr "Kreis"
+
+#: inc/settings-fields.php:374
+#, fuzzy
+msgid "Circle Inverted"
+msgstr "Kreis umgedreht"
+
+#: inc/settings-fields.php:375
+msgid "Simple"
+msgstr "简单"
+
+#: inc/settings-fields.php:376
+msgid "Long"
+msgstr "lange"
+
+#: inc/settings-fields.php:377
+msgid "Angle"
+msgstr "Winkel"
+
+#: inc/settings-fields.php:378
+#, fuzzy
+msgid "Double Angle"
+msgstr "Doppelwinkel"
+
+#: inc/settings-fields.php:379
+msgid "Caret"
+msgstr "Zirkumflex"
+
+#: inc/settings-fields.php:380
+#, fuzzy
+msgid "Caret Square"
+msgstr "Caret Square"
+
+#: inc/settings-fields.php:381
+msgid "Hand"
+msgstr "Hand"
+
+#: inc/settings-fields.php:382
+msgid "Chevron"
+msgstr "Chevron"
+
+#: inc/settings-fields.php:390
+msgid "Arrows Style"
+msgstr "Pfeil-Stil"
+
+#: inc/settings-fields.php:391
+#, fuzzy
+msgid "Choose arrow appearance here"
+msgstr "Wählen Sie Pfeilbild hier"
+
+#: inc/settings-fields.php:393
+msgid "Transparent"
+msgstr "Transparent"
+
+#: inc/settings-fields.php:394
+msgid "Square"
+msgstr "OXID"
+
+#: inc/settings-fields.php:403
+msgid "Arrows Color"
+msgstr "Pfeilfarbe"
+
+#: inc/settings-fields.php:404
+#, fuzzy
+msgid "Choose arrows color"
+msgstr "Wählen Sie Pfeilenfarbe"
+
+#: inc/settings-fields.php:411
+#, fuzzy
+msgid "Arrows Background Color"
+msgstr "Pfeile-Hintergrundfarbe"
+
+#: inc/settings-fields.php:412
+#, fuzzy
+msgid "Choose arrows background color"
+msgstr "Wählen Sie die Hintergrundfarbe der Pfeile"
+
+#: inc/settings-fields.php:419
+msgid "Arrows Size"
+msgstr "Pfeil-Größe"
+
+#: inc/settings-fields.php:420
+#, fuzzy
+msgid "Provide size in pixels along with unit"
+msgstr "Geben Sie Größe in Pixeln zusammen mit Einheit"
+
+#: inc/settings-fields.php:427
+#, fuzzy
+#| msgid "Arrows Color"
+msgid "Arrows Position"
+msgstr "Pfeilfarbe"
+
+#: inc/settings-fields.php:428
+#, fuzzy
+msgid "Where you want to display the arrows"
+msgstr "Wie Sie Karussell anzeigen wollen"
+
+#: inc/settings-fields.php:431
+msgid "Top Right"
+msgstr ""
+
+#: inc/settings-fields.php:432
+msgid "Top Left"
+msgstr ""
+
+#: inc/settings-fields.php:433
+#, fuzzy
+#| msgid "Total Posts"
+msgid "Above Posts"
+msgstr "Summe Beiträge"
+
+#: inc/settings-fields.php:443
+msgid "Images Size"
+msgstr "Größe Bilder"
+
+#: inc/settings-fields.php:444
+#, fuzzy
+msgid "Choose images size for thumbnails"
+msgstr "Wählen Sie die Größe der Bilder für die Vorschaubilder"
+
+#: inc/settings-fields.php:451
+msgid "Lazy Loading"
+msgstr "Langsames Laden"
+
+#: inc/settings-fields.php:452
+#, fuzzy
+msgid ""
+"It will enable the lazy loading of the images. Make sure that Equal Height "
+"Mode is not enabled to avoid strange results."
+msgstr ""
+"Es wird das faule Laden der Bilder ermöglichen. Vergewissern Sie sich, dass "
+"der Gleiche-Höhe-Modus nicht aktiviert ist, um seltsame Ergebnisse zu "
+"vermeiden."
+
+#: inc/settings-fields.php:459
+#, fuzzy
+msgid "Skip Posts"
+msgstr "Schichtposten"
+
+#: inc/settings-fields.php:460
+#, fuzzy
+msgid "Number of posts to skip from initial posts regarding current settings."
+msgstr ""
+"Anzahl der Beiträge, die von den ersten Beiträgen über die aktuellen "
+"Einstellungen überspringen."
+
+#: inc/settings-fields.php:467
+msgid "Total Posts"
+msgstr "Summe Beiträge"
+
+#: inc/settings-fields.php:468
+#, fuzzy
+msgid ""
+"Number of posts to display from current settings. Leave blank to display all."
+msgstr ""
+"Anzahl der Beiträge, die aus den aktuellen Einstellungen angezeigt werden "
+"sollen. Lassen Sie leer, um alle anzuzeigen."
+
+#: inc/settings-fields.php:475
+msgid "Rows"
+msgstr "Zeilen"
+
+#: inc/settings-fields.php:476
+#, fuzzy
+msgid ""
+"Setting this to more than 1 initializes grid mode. Use slidesPerRow to set "
+"how many slides should be in each row."
+msgstr ""
+"Wenn man diese Einstellung auf mehr als 1 setzt, wird der Gittermodus in die "
+"richtige Form gebracht. Verwenden Sie slidesPerRow, um festzulegen, wie "
+"viele Dias in jeder Zeile sein sollen."
+
+#: inc/settings-fields.php:483
+msgid "Slides Per Row"
+msgstr "Folien pro Reihe"
+
+#: inc/settings-fields.php:484
+#, fuzzy
+msgid ""
+"With grid mode initialized via the rows option, this sets how many slides "
+"are in each grid row."
+msgstr ""
+"Wenn der Gittermodus über die Zeilenoption initialisiert wird, legt diese "
+"fest, wie viele Dias in jeder Gitterreihe sind."
+
+#: inc/settings-fields.php:491
+#, fuzzy
+msgid "Placeholder Image Url"
+msgstr "Ortsvorsteher Bild Url"
+
+#: inc/settings-fields.php:492
+#, fuzzy
+msgid ""
+"Provide placeholder image url for that posts which do not have featured "
+"images."
+msgstr ""
+"Geben Sie Platzhalter-Bild-URL für die Beiträge, die keine Bilder enthalten."
+
+#: inc/settings-fields.php:499
+#, fuzzy
+msgid "Disable Current Post"
+msgstr "Stromposten abschalten"
+
+#: inc/settings-fields.php:500
+#, fuzzy
+msgid ""
+"Check to exclude the current post from slider if you are using it under a "
+"post."
+msgstr ""
+"Überprüfen Sie, ob Sie den aktuellen Beitrag vom Schieberegler ausschließen, "
+"wenn Sie ihn unter einem Beitrag verwenden."
+
+#: inc/settings-fields.php:507
+#, fuzzy
+msgid "Equal Height Mode"
+msgstr "Gleiche-Höhe-Modus"
+
+#: inc/settings-fields.php:508
+#, fuzzy
+msgid "Checking this make all images same in height."
+msgstr "Wenn man dies überprüft, machen alle Bilder gleich in der Höhe."
+
+#: inc/settings-fields.php:515
+msgid "Images Height"
+msgstr "Bilder-Höhe"
+
+#: inc/settings-fields.php:516
+#, fuzzy
+msgid ""
+"Fixed Height for images in px. Eg: 450px if Equal Height Mode is enabled."
+msgstr ""
+"Die Höhe für Bilder in px wurde korrigiert. ZB: 450px, wenn der Gleiche-Höhe-"
+"Modus aktiviert ist."
+
+#: inc/settings-fields.php:525
+msgid "Post Link"
+msgstr "Beitrag Link"
+
+#: inc/settings-fields.php:526
+#, fuzzy
+msgid "Facebook"
+msgstr "Facebook URL"
+
+#: inc/settings-fields.php:527
+#, fuzzy
+msgid "Twitter"
+msgstr "Twitter-URL"
+
+#: inc/settings-fields.php:528
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/settings-fields.php:529
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/settings-fields.php:530
+msgid "Email"
+msgstr "Email"
+
+#: inc/settings-fields.php:531
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/settings-fields.php:532
+#, fuzzy
+msgid "Linkedin"
+msgstr "LinkedIn URL"
+
+#: inc/settings-fields.php:533
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/settings-fields.php:534
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/settings-fields.php:535
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/settings-fields.php:536
+#, fuzzy
+msgid "Hacker News"
+msgstr "Hacker-News"
+
+#: inc/settings-fields.php:537
+msgid "VK"
+msgstr "VK"
+
+#: inc/settings-fields.php:538
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/settings-fields.php:540
+msgid "Social Networks"
+msgstr "Soziale Netzwerke"
+
+#: inc/settings-fields.php:541
+#, fuzzy
+msgid "Choose social networks for specific templates."
+msgstr "Wählen Sie soziale Netzwerke für spezifische Vorlagen."
+
+#: inc/templates/post-card-with-author.php:13
+msgid "Profile"
+msgstr "Profil"
+
+#: inc/templates/post-card-with-author.php:14
+msgid "More Info"
+msgstr "Mehr Infos"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "Responsive Posts Carousel Pro"
+msgstr "Responsive Posts Carousel Pro"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://webcodingplace.com/responsive-posts-carousel-wordpress-plugin"
+msgstr "https://webcodingplace.com/responsive-posts-carousel-wordpress-plugin"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "The best Posts Slider Plugin for WordPress you will ever need."
+msgstr ""
+"Die besten Beiträge Slider Plugin für WordPress werden Sie jemals brauchen."
+
+#. Author of the plugin/theme
+msgid "WebCodingPlace"
+msgstr "WebCodingPlace"
+
+#. Author URI of the plugin/theme
+msgid "https://webcodingplace.com/"
+msgstr "https://webcodingplace.com/"
