@@ -3,7 +3,7 @@
 @import "font_mobile";
 @import "color";
 @import "bootstrap_override";
-
+@import url('https://fonts.googleapis.com/css?family=Poppins');
 /* Genesis Css */
 .genesis-skip-link {
     margin: 0;
@@ -24,7 +24,7 @@
 		content: " ";
 		display: table;
 	}
-}sdg s;kdfjglkjsfdklh dkflk
+}
 .site-inner {
 	padding: 0;
 	max-width: 100%;
@@ -96,23 +96,55 @@
 		display: table;
 	}
 }
-.wp-custom-logo .title-area img{
-	display: none;
+.site-header{
+  .title-area{
+	 display: none;
+  }
 }
   /* header right widget */
   .site-footer{
     display: none;;
   }
-.hero-section{
-    background-image: url("http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/bg.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position:center;
-    background-color: red;
-    height: 1000px;
-    h1{
-        color: $primary-color;
-        font-size: 54px;
-    }
-}
+  .hero-section {
+	background-image: url("http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	#hero-slider {
+	  padding-top: 12em;
+	  padding-bottom: 12em;
+	  h3 {
+		color: $white-color;
+		font-size: 34px;
+		font-style: normal;
+		line-height: 46px;
+		font-weight: 400;
+		text-transform: capitalize;
+		margin-bottom: 10px;
+		position: relative;
+	  }
+	  .lead {
+		font-size: 1.25rem;
+		font-weight: 300;
+		color: $white-color;
+	  }
+	  .btn-blue {
+		background: #10c2f2;
+		color: #fff;
+		padding-left: 35px;
+		padding-right: 35px;
+		padding-top: 12px;
+		padding-bottom: 12px;
+		border-radius: 50px;
+	  }
+	}
+	.navbar {
+	  .nav-item {
+		.nav-link {
+		  color: $white-color;
+		  font-size: 18px;
+		}
+	  }
+	}
+  }
+  
 

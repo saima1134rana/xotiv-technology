@@ -69,7 +69,8 @@ genesis_markup(
 jQuery('#hero-slider').owlCarousel({
     loop:true,
     margin:10,
-    nav:true,
+    nav:false,
+    dots:false,
 	autoplay:true,
     autoplayTimeout:6000,
     autoplayHoverPause:true,
