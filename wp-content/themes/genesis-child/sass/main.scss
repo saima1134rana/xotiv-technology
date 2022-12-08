@@ -104,7 +104,7 @@
     display: none;;
   }
 *{
-	font-family: 'Arial';
+	font-family: cursive;
 }
 /*Hero Section*/   
   .hero-section {
@@ -134,6 +134,7 @@
 		.nav-link {
 		  color: $white-color;
 		  font-size: 18px;
+		  font-family: $font-alt-1;
 		}
 	  }
 	}
@@ -199,8 +200,39 @@
 
 
 .modern-section{
-	margin-top: 6em;;
+	margin-top: 6em;
 	.heading-subtitle {
 		@include heading-subtitle;
 	}	
+	.client-logo{
+		img{
+			width: unset !important;
+			margin: 0 auto;
+			height: 45px;
+		}
+	}
+}
+
+.client-projects{
+	margin-top: 6em;
+	.heading-subtitle {
+		@include heading-subtitle;
+	}
+	.counter{
+		margin-top: 3em;
+		.highlight {
+			color: $green-color;
+			padding: 20px 0;
+			font-weight: $fw-700;
+			display: contents;
+			overflow: hidden;
+			margin-bottom: 0;
+			font-size: 40px;
+		}
+		.milestone-details {
+			font-weight: 500;
+			font-size: 18px;
+			color: $quaternary-color;
+		}
+	}
 }

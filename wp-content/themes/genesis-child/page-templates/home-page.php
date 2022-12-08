@@ -37,6 +37,7 @@
         <li class="nav-item ">
            <a class="nav-link" href="#">Contact Us</a>
         </li>
+        <a href="#" class="btn get-btn"><span>Get A Free Quote</span></a>
       </ul>
       
     </div>
@@ -149,7 +150,94 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <div class="heading-subtitle">We Build Software For Modern Platforms</div>
-        <p class="px-5">Xotiv Technologies is the premier service in complete Development and Quality Assurance and specialized in the innovative development of the time-sensitive service and on-premises solutions.</p>
+        <p class="px-5 pt-5">Xotiv Technologies is the premier service in complete Development and Quality Assurance and specialized in the innovative development of the time-sensitive service and on-premises solutions.</p>
+      </div>
+      <div class="col-lg-12 mt-5">
+        <div class="owl-carousel owl-theme" id="client-slider">
+          <div class="item">
+            <div class="client-logo">
+              <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/4-1.png" class="img-fluid">
+            </div>
+            <div class="skill-title text-center pt-2">Python</div>
+          </div>
+          <div class="item">
+          <div class="client-logo">
+              <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/6.png" class="img-fluid">
+            </div>
+            <div class="skill-title text-center pt-2">Swift</div>
+          </div>
+          <div class="item">
+          <div class="client-logo">
+              <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/8.png" class="img-fluid">
+            </div>
+            <div class="skill-title text-center pt-2"> Virtual Reality</div>
+          </div>
+          <div class="item">
+          <div class="client-logo">
+              <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/5-1.png" class="img-fluid">
+              <div class="skill-title text-center pt-2">React Native</div>
+            </div>
+          </div>
+          <div class="item">
+          <div class="client-logo">
+              <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/2-1.png" class="img-fluid">
+            </div>
+            <div class="skill-title text-center pt-2">Java Script </div>
+          </div>
+          <div class="item">
+          <div class="client-logo">
+              <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/1-1.png" class="img-fluid">
+            </div>
+            <div class="skill-title text-center pt-2">Augmented Reality</div>
+          </div>
+          <div class="item">
+          <div class="client-logo">
+              <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/3-1.png" class="img-fluid">
+            </div>
+            <div class="skill-title text-center pt-2">Kotlin</div>
+          </div>
+          <div class="item">
+          <div class="client-logo">
+              <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/7.png" class="img-fluid">
+            </div>
+            <div class="skill-title text-center pt-2">TensorFlow</div>
+          </div>
+          <div class="item">
+          <div class="client-logo">
+              <img src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/8-1.png" class="img-fluid">
+            </div>
+            <div class="skill-title text-center pt-2"> Virtual Reality</div>
+          </div>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="container-fluid client-projects">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <div class="heading-subtitle">We Completed 150+ Projects Yearly <span class="d-block">Successfully & Counting</span></div>
+      </div>
+      <div class="col-lg-4">
+        <div class="coutner">
+         <p><span class="stat-count highlight">100</span><i class="fa fa-plus" aria-hidden="true"></i></p>
+         <div class="milestone-details">Highly Qualified<br>Software Professional</div>
+       </div>
+      </div>
+      <div class="col-lg-4">
+      <div class="coutner">
+         <p><span class="stat-count highlight">50</span><i class="fa fa-plus" aria-hidden="true"></i></p>
+         <div class="milestone-details">Successfully<br>Delivered Projects</div>
+       </div>
+      </div>
+      <div class="col-lg-4">
+      <div class="coutner">
+         <p><span class="stat-count highlight">5</span><i class="fa fa-plus" aria-hidden="true"></i></p>
+         <div class="milestone-details">Year of Experience per<br>Team Member</div>
+       </div>
       </div>
     </div>
   </div>

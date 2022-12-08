@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins");
 .btn {
-  font-family: "Poppins", sans-serif;
+  font-family: cursive;
   font-size: 14px;
   font-weight: 400;
   text-transform: capitalize;
@@ -36,6 +36,12 @@
   transform: scaleX(1);
 }
 
+.get-btn {
+  background: linear-gradient(90deg, #2196f3 0, rgba(98, 77, 248, 0.5882352941) 90%);
+  color: #fff !important;
+  margin-left: 30px;
+}
+
 .btn-primary {
   background: #10c2f2 !important;
 }
@@ -62,7 +68,7 @@
 h1, h2, h3, h4, h5, h6 {
   font-style: normal;
   text-transform: capitalize;
-  font-family: "Poppins", sans-serif;
+  font-family: cursive;
   margin: 0 0 28px;
   color: var(--clr-success);
   font-weight: var(--fw-600);
@@ -79,7 +85,7 @@ h2, h3, h4, h5, h6 {
 }
 
 p {
-  font-family: "Arial";
+  font-family: cursive;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -91,7 +97,7 @@ p a:hover {
 }
 
 .p-alt {
-  font-family: "Poppins", sans-serif;
+  font-family: cursive;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -99,7 +105,7 @@ p a:hover {
 }
 
 em, strong {
-  font-family: "Poppins", sans-serif;
+  font-family: cursive;
   font-size: 16px;
   font-weight: 700;
   text-transform: none;
@@ -108,7 +114,7 @@ em, strong {
 }
 
 .font-alt-1 {
-  font-family: "Poppins", sans-serif;
+  font-family: cursive;
 }
 
 .font-alt-2 {
@@ -696,7 +702,7 @@ em, strong {
 }
 
 * {
-  font-family: "Arial";
+  font-family: cursive;
 }
 
 /*Hero Section*/
@@ -726,6 +732,7 @@ em, strong {
 .hero-section .navbar .nav-item .nav-link {
   color: #fff;
   font-size: 18px;
+  font-family: cursive;
 }
 
 /*About Section*/
@@ -806,4 +813,37 @@ em, strong {
   line-height: 1.5;
   color: #1c2045;
   text-transform: capitalize;
+}
+.modern-section .client-logo img {
+  width: unset !important;
+  margin: 0 auto;
+  height: 45px;
+}
+
+.client-projects {
+  margin-top: 6em;
+}
+.client-projects .heading-subtitle {
+  font-size: 34px;
+  font-style: normal;
+  line-height: 1.5;
+  color: #1c2045;
+  text-transform: capitalize;
+}
+.client-projects .counter {
+  margin-top: 3em;
+}
+.client-projects .counter .highlight {
+  color: #16dca7;
+  padding: 20px 0;
+  font-weight: 700;
+  display: contents;
+  overflow: hidden;
+  margin-bottom: 0;
+  font-size: 40px;
+}
+.client-projects .counter .milestone-details {
+  font-weight: 500;
+  font-size: 18px;
+  color: #333333;
 }/*# sourceMappingURL=main.css.map */

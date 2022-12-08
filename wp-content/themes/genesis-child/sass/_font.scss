@@ -6,10 +6,12 @@ $info-color:#1c2045;
 $white-color:#fff;
 $color_1:#efe6e6b0;
 $gold_color:#f3b662;
+$green-color:#16dca7;
 
 
-$font-alt-1:'Poppins', sans-serif;
+$font-alt-1:cursive;
 $font-alt-2:'arial', sans-serif;
+
 
 
 $fw-900:900;
@@ -61,7 +63,11 @@ $fw-100:100;
         }
     }
 }
-
+.get-btn{
+	background: linear-gradient(90deg,#2196f3 0,#624df896 90%);
+    color: $white-color!important;
+	margin-left: 30px;
+}
 .btn-primary{
 	background: $tertiary-color !important;
 	&:hover{
@@ -119,7 +125,7 @@ h1{font-size: clamp(1.15em,5vw, 2.5em);}
 h2,h3,h4,h5,h6{font-size: clamp(1.125em,5vw, 2em);}
 
 p{
-	font-family: 'Arial';
+	font-family: $font-alt-1;
 	font-size: 16px;
 	font-weight: $fw-400;
 	line-height: 1.5;
