@@ -2,7 +2,6 @@
 @import "font";
 @import "font_mobile";
 @import "color";
-@import "bootstrap_override";
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 /* Genesis Css */
 .genesis-skip-link {
@@ -101,11 +100,12 @@
 	 display: none;
   }
 }
-  /* header right widget */
   .site-footer{
     display: none;;
   }
-
+*{
+	font-family: 'Arial';
+}
 /*Hero Section*/   
   .hero-section {
 	background-image: url("http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/bg.jpg");
@@ -126,17 +126,7 @@
 	  }
 	  .lead {
 		font-size: 1.25rem;
-		font-weight: 300;
 		color: $white-color;
-	  }
-	  .btn-blue {
-		background: #10c2f2;
-		color: #fff;
-		padding-left: 35px;
-		padding-right: 35px;
-		padding-top: 12px;
-		padding-bottom: 12px;
-		border-radius: 50px;
 	  }
 	}
 	.navbar {
@@ -175,30 +165,42 @@
 		margin-top: 5em;
 	}
   }
-  .section-title{
-	margin-bottom:50px;
-	.title{
-		font-size: 18px;
-		font-style: normal;
-		line-height: 1.5;
-		margin-bottom: 10px;
-		color: #1c2045;
-	}
-	.about-front {
-		font-size: 34px;
-		font-style: normal;
-		line-height: 1.5;
-		color: #1c2045;
-		text-transform: capitalize;
+   .about-section-2{
+	 margin-bottom:50px;
+	 .heading-title{
+		@include heading-title;	
+	 }
+	.heading-subtitle {
+		@include heading-subtitle;
      }
-	 .btn-blue {
-		background: #10c2f2;
-		color: #fff;
-		padding-left: 35px;
-		padding-right: 35px;
-		padding-top: 12px;
-		padding-bottom: 12px;
-		border-radius: 50px;
-	  }
 }
+}
+
+.service-section{
+	margin-top: 6em;
+	.heading-title{
+		@include heading-title;
+		color: $gold-color;
+	}
+	.heading-subtitle {
+		@include heading-subtitle;
+	}
+	.service{
+		box-shadow: 0 0 25px #65616121;
+		padding: 20px;
+	.service-icon{
+		img{
+			height: 35px;
+		}
+	}
+}
+}
+
+
+
+.modern-section{
+	margin-top: 6em;;
+	.heading-subtitle {
+		@include heading-subtitle;
+	}	
 }

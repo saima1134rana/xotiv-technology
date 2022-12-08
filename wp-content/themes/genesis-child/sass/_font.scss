@@ -1,9 +1,11 @@
-$primary-color:#004A94;
+$primary-color:#624df8;
 $secondary-color:#595959;
-$tertiary-color :#3ddddd;
-$quaternary-color:#dfdfdf;
-$info-color:#898989;
+$tertiary-color :#10c2f2;
+$quaternary-color:#333333;
+$info-color:#1c2045;
 $white-color:#fff;
+$color_1:#efe6e6b0;
+$gold_color:#f3b662;
 
 
 $font-alt-1:'Poppins', sans-serif;
@@ -19,6 +21,87 @@ $fw-400:400;
 $fw-300:300;
 $fw-200:200;
 $fw-100:100;
+
+.btn {
+	font-family: $font-alt-1;
+	font-size: 14px;
+	font-weight: $fw-400;
+	text-transform: capitalize;
+	line-height: 20px;
+    border-radius: 50px;
+    padding: 15px 35px;
+	position: relative;
+	display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    position: relative;
+    -webkit-transition-property: color;
+    transition-property: color;
+    transition: 0.4s;
+    @media only screen and (max-width: 768px) {
+        font-size: 15px !important;
+    }
+	&::before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        transform: scaleX(0);
+        transition-property: transform;
+        transition: 0.4s;
+    }
+    &:hover {
+        &::before {
+            -webkit-transform: scaleX(1);
+            transform: scaleX(1);
+        }
+    }
+}
+
+.btn-primary{
+	background: $tertiary-color !important;
+	&:hover{
+      background: $primary-color !important;
+    }
+}
+
+.btn-secondary{
+	background:$color_1 !important;
+	border:0;
+	color: $primary-color;
+    &:hover {
+        color: $quaternary-color !important;
+    }
+}
+.btn-service{
+	background:$color_1 !important;
+	border:0;
+	color: $gold-color;
+	max-width: 30%;
+}
+@mixin heading-title {
+	font-size: 18px;
+    font-style: normal;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    color: $info-color;
+}
+
+@mixin heading-subtitle {
+	font-size: 34px;
+    font-style: normal;
+    line-height: 1.5;
+    color: $info-color;
+    text-transform: capitalize;
+}
+
+
+
+
 
 
 //Default font scheme
@@ -36,7 +119,7 @@ h1{font-size: clamp(1.15em,5vw, 2.5em);}
 h2,h3,h4,h5,h6{font-size: clamp(1.125em,5vw, 2em);}
 
 p{
-	font-family: arial;
+	font-family: 'Arial';
 	font-size: 16px;
 	font-weight: $fw-400;
 	line-height: 1.5;
