@@ -7,6 +7,7 @@
   line-height: 20px;
   border-radius: 50px;
   padding: 15px 35px;
+  border: 0;
   position: relative;
   display: inline-block;
   vertical-align: middle;
@@ -15,25 +16,14 @@
   transition-property: color;
   transition: 0.4s;
 }
+.btn:hover {
+  color: #fff !important;
+  background: linear-gradient(90deg, #2196f3 0, rgba(98, 77, 248, 0.5882352941) 90%) !important;
+}
 @media only screen and (max-width: 768px) {
   .btn {
     font-size: 15px !important;
   }
-}
-.btn::before {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  transform: scaleX(0);
-  transition-property: transform;
-  transition: 0.4s;
-}
-.btn:hover::before {
-  transform: scaleX(1);
 }
 
 .get-btn {
@@ -45,24 +35,16 @@
 .btn-primary {
   background: #10c2f2 !important;
 }
-.btn-primary:hover {
-  background: #624df8 !important;
-}
 
 .btn-secondary {
   background: rgba(239, 230, 230, 0.6901960784) !important;
-  border: 0;
   color: #624df8;
-}
-.btn-secondary:hover {
-  color: #333333 !important;
 }
 
 .btn-service {
   background: rgba(239, 230, 230, 0.6901960784) !important;
-  border: 0;
   color: #f3b662;
-  max-width: 30%;
+  max-width: 40%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -84,32 +66,34 @@ h2, h3, h4, h5, h6 {
   font-size: clamp(1.125em, 5vw, 2em);
 }
 
-p {
+em, strong, body main ul li, body main p, body main .p, body main .p-alt {
   font-family: cursive;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  color: #333;
+  letter-spacing: normal;
+  color: #333333;
+  text-transform: initial;
   margin: 0 0 28px;
 }
-p a:hover {
-  text-decoration: none !important;
-}
 
-.p-alt {
-  font-family: cursive;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  color: #624df8;
+body {
+  line-height: inherit;
 }
-
+body a {
+  text-decoration: none;
+}
+body a:hover {
+  text-decoration: none;
+}
+body main p a, body main .p a, body main .p-alt a {
+  color: #10c2f2 !important;
+}
+body main p a:hover, body main .p a:hover, body main .p-alt a:hover {
+  color: #624df8 !important;
+}
 em, strong {
-  font-family: cursive;
-  font-size: 16px;
   font-weight: 700;
-  text-transform: none;
-  line-height: 1.5;
   color: #624df8;
 }
 
@@ -778,6 +762,7 @@ em, strong {
   text-transform: capitalize;
 }
 
+/*service Section*/
 .service-section {
   margin-top: 6em;
 }
@@ -804,6 +789,7 @@ em, strong {
   height: 35px;
 }
 
+/*Modern Section*/
 .modern-section {
   margin-top: 6em;
 }
@@ -820,6 +806,7 @@ em, strong {
   height: 45px;
 }
 
+/*Client Section*/
 .client-projects {
   margin-top: 6em;
 }
@@ -830,10 +817,10 @@ em, strong {
   color: #1c2045;
   text-transform: capitalize;
 }
-.client-projects .counter {
-  margin-top: 3em;
+.client-projects .coutner {
+  margin-top: 6em;
 }
-.client-projects .counter .highlight {
+.client-projects .coutner .highlight {
   color: #16dca7;
   padding: 20px 0;
   font-weight: 700;
@@ -842,8 +829,40 @@ em, strong {
   margin-bottom: 0;
   font-size: 40px;
 }
-.client-projects .counter .milestone-details {
+.client-projects .coutner .milestone-details {
   font-weight: 500;
   font-size: 18px;
   color: #333333;
+  margin-top: 30px;
+}
+
+/*Testimonials Section*/
+.testimonials-section {
+  margin-top: 6em;
+}
+.testimonials-section .heading-title {
+  font-size: 18px;
+  font-style: normal;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  color: #1c2045;
+  color: #10c2f2;
+}
+.testimonials-section .heading-subtitle {
+  font-size: 34px;
+  font-style: normal;
+  line-height: 1.5;
+  color: #1c2045;
+  text-transform: capitalize;
+}
+
+/*Bg Section*/
+.bg-section {
+  background-image: url(http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/designfooter.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 4% 0 20% 0;
+  margin-top: 0;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
 }/*# sourceMappingURL=main.css.map */

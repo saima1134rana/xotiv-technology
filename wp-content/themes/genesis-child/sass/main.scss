@@ -116,16 +116,16 @@
 	  padding-bottom: 12em;
 	  h3 {
 		color: $white-color;
-		font-size: 34px;
+		font-size: $fs-34;
 		font-style: normal;
-		line-height: 46px;
-		font-weight: 400;
+		line-height:1.5;
+		font-weight: $fw-400;
 		text-transform: capitalize;
 		margin-bottom: 10px;
 		position: relative;
 	  }
 	  .lead {
-		font-size: 1.25rem;
+		font-size: $fs-20;
 		color: $white-color;
 	  }
 	}
@@ -133,7 +133,7 @@
 	  .nav-item {
 		.nav-link {
 		  color: $white-color;
-		  font-size: 18px;
+		  font-size: $fs-18;
 		  font-family: $font-alt-1;
 		}
 	  }
@@ -176,7 +176,7 @@
      }
 }
 }
-
+/*service Section*/ 
 .service-section{
 	margin-top: 6em;
 	.heading-title{
@@ -198,7 +198,7 @@
 }
 
 
-
+/*Modern Section*/ 
 .modern-section{
 	margin-top: 6em;
 	.heading-subtitle {
@@ -213,13 +213,15 @@
 	}
 }
 
+
+/*Client Section*/ 
 .client-projects{
 	margin-top: 6em;
 	.heading-subtitle {
 		@include heading-subtitle;
 	}
-	.counter{
-		margin-top: 3em;
+	.coutner{
+		margin-top: 6em;
 		.highlight {
 			color: $green-color;
 			padding: 20px 0;
@@ -227,12 +229,35 @@
 			display: contents;
 			overflow: hidden;
 			margin-bottom: 0;
-			font-size: 40px;
+			font-size: $fs-40;
 		}
 		.milestone-details {
-			font-weight: 500;
-			font-size: 18px;
+			font-weight: $fw-500;
+			font-size: $fs-18;
 			color: $quaternary-color;
+			margin-top: 30px;
 		}
 	}
+}
+
+/*Testimonials Section*/ 
+.testimonials-section{
+	 margin-top: 6em;
+	.heading-title{
+		@include heading-title;
+		color: $tertiary-color;
+	}
+	.heading-subtitle{
+		@include heading-subtitle;
+	}
+}
+/*Bg Section*/ 
+.bg-section{
+	background-image: url(http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/designfooter.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 4% 0 20% 0;
+    margin-top: 0;
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
 }

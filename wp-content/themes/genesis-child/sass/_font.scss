@@ -12,8 +12,6 @@ $green-color:#16dca7;
 $font-alt-1:cursive;
 $font-alt-2:'arial', sans-serif;
 
-
-
 $fw-900:900;
 $fw-800:800;
 $fw-700:700;
@@ -24,14 +22,38 @@ $fw-300:300;
 $fw-200:200;
 $fw-100:100;
 
-.btn {
+$fs-12 : 12px; 
+$fs-13 : 13px; 
+$fs-14 : 14px; 
+$fs-15 : 15px; 
+$fs-16 : 16px; 
+$fs-17 : 17px; 
+$fs-18 : 18px; 
+$fs-20 : 20px; 
+$fs-22 : 22px; 
+$fs-24 : 24px; 
+$fs-25 : 25px; 
+$fs-26 : 26px; 
+$fs-28 : 28px; 
+$fs-30 : 30px;
+$fs-34 : 34px; 
+$fs-36 : 36px; 
+$fs-45 : 45px; 
+$fs-48 : 48px; 
+$fs-50 : 50px; 
+$fs-60 : 60px; 
+$fs-75 : 75px; 
+
+
+.btn{
 	font-family: $font-alt-1;
-	font-size: 14px;
+	font-size: $fs-14;
 	font-weight: $fw-400;
 	text-transform: capitalize;
 	line-height: 20px;
     border-radius: 50px;
     padding: 15px 35px;
+	border:0;
 	position: relative;
 	display: inline-block;
     vertical-align: middle;
@@ -41,74 +63,87 @@ $fw-100:100;
     -webkit-transition-property: color;
     transition-property: color;
     transition: 0.4s;
+	&:hover {
+        color: $white-color !important;
+		background: linear-gradient(90deg, #2196f3 0, rgba(98, 77, 248, 0.5882352941) 90%) !important;
+    }
     @media only screen and (max-width: 768px) {
-        font-size: 15px !important;
+        font-size: $fs-15 !important;
     }
-	&::before {
-        content: "";
-        position: absolute;
-        z-index: -1;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        transform: scaleX(0);
-        transition-property: transform;
-        transition: 0.4s;
-    }
-    &:hover {
-        &::before {
-            -webkit-transform: scaleX(1);
-            transform: scaleX(1);
-        }
-    }
+    
 }
 .get-btn{
 	background: linear-gradient(90deg,#2196f3 0,#624df896 90%);
     color: $white-color!important;
 	margin-left: 30px;
 }
-.btn-primary{
-	background: $tertiary-color !important;
-	&:hover{
-      background: $primary-color !important;
-    }
-}
-
+.btn-primary{background: $tertiary-color !important;}
 .btn-secondary{
 	background:$color_1 !important;
-	border:0;
-	color: $primary-color;
-    &:hover {
-        color: $quaternary-color !important;
-    }
+	color: $primary-color;  
 }
 .btn-service{
 	background:$color_1 !important;
-	border:0;
 	color: $gold-color;
-	max-width: 30%;
+	max-width: 40%;
 }
+
 @mixin heading-title {
-	font-size: 18px;
+	font-size: $fs-18;
     font-style: normal;
     line-height: 1.5;
     margin-bottom: 10px;
     color: $info-color;
 }
-
 @mixin heading-subtitle {
-	font-size: 34px;
+	font-size: $fs-34;
     font-style: normal;
     line-height: 1.5;
     color: $info-color;
     text-transform: capitalize;
 }
 
+%body-style{
+	font-family: $font-alt-1;
+	font-size: $fs-16;
+	font-weight:$fw-400;
+	line-height: 1.5;
+	letter-spacing: normal;
+	color: $quaternary_color;
+	text-transform: initial;
+	margin: 0 0 28px;
+}
+body{
+	line-height: inherit;
+	a{
+	 text-decoration: none;
+		&:hover{
+			text-decoration: none;
+		}		
+	}
+	main{
+		p, .p, .p-alt{
+			@extend %body-style;
+			a{
+				color: $tertiary_color!important;
+				&:hover{
+					color:$primary_color !important;
+				}
+			}
+		}
+		ul{
+			li{
+				@extend %body-style;
+			}
+		}
+     }
+}
 
-
-
-
+em,strong{
+	@extend %body-style;
+	font-weight: $fw-700;
+	color:$primary-color;	
+}
 
 //Default font scheme
 h1, h2, h3, h4, h5, h6{
@@ -124,82 +159,35 @@ h1, h2, h3, h4, h5, h6{
 h1{font-size: clamp(1.15em,5vw, 2.5em);}
 h2,h3,h4,h5,h6{font-size: clamp(1.125em,5vw, 2em);}
 
-p{
-	font-family: $font-alt-1;
-	font-size: 16px;
-	font-weight: $fw-400;
-	line-height: 1.5;
-	color:#333;
-	margin: 0 0 28px;
-	a{
-		
-	    &:hover{
-	    	
-	    	text-decoration: none !important;
-	    }
-	}
-	 
-}
-.p-alt{
-	font-family: $font-alt-1;
-	font-size: 16px;
-	font-weight: $fw-400;
-	line-height: 1.5;
-	color:$primary-color;
-}
-
-em,strong{
-	font-family: $font-alt-1;
-	font-size: 16px;
-	font-weight: $fw-700;
-	text-transform: none;
-	line-height: 1.5;
-	color:$primary-color;
-	
-}
-
-
 
 //Classes for font family
 .font-alt-1{font-family: $font-alt-1;}
 .font-alt-2{font-family: $font-alt-2;}
 
 
-//Classes for font-weights
-.text-thin { font-weight: 100; }
-.text-xlight { font-weight: 200; }
-.text-light { font-weight: 300; }
-.text-normal { font-weight: 400; }
-.text-medium { font-weight: 500; }
-.text-semibold { font-weight: 600; }
-.text-bold { font-weight: 700; }
-.text-xbold { font-weight: 800; }
-.text-heavy { font-weight: 900; }
-
 //Classes for font sizes
-.fs-12 { font-size: 12px; }
-.fs-13 { font-size: 13px; }
-.fs-14 { font-size: 14px; }
-.fs-15 { font-size: 15px; }
-.fs-16 { font-size: 16px; }
-.fs-17 { font-size: 17px; }
-.fs-18 { font-size: 18px; }
-.fs-20 { font-size: 20px; }
-.fs-22 { font-size: 22px; }
-.fs-24 { font-size: 24px; }
-.fs-25 { font-size: 25px; }
-.fs-26 { font-size: 26px; }
-.fs-28 { font-size: 28px; }
-.fs-30 { font-size: 30px; }
-.fs-35 { font-size: 35px; }
-.fs-36 { font-size: 36px; }
-.fs-45 { font-size: 45px; }
-.fs-48 { font-size: 48px; }
-.fs-50 { font-size: 50px; }
-.fs-60 { font-size: 60px; }
-.fs-75 { font-size: 75px; }
-.fs-100 { font-size: 100px; }
-.fs-103 { font-size: 103px; }
+.fs-12 { font-size: $fs-12; }
+.fs-13 { font-size: $fs-13; }
+.fs-14 { font-size: $fs-14; }
+.fs-15 { font-size: $fs-15; }
+.fs-16 { font-size: $fs-16; }
+.fs-17 { font-size: $fs-17; }
+.fs-18 { font-size: $fs-18; }
+.fs-20 { font-size: $fs-20; }
+.fs-22 { font-size: $fs-22; }
+.fs-24 { font-size: $fs-24; }
+.fs-25 { font-size: $fs-25; }
+.fs-26 { font-size: $fs-26; }
+.fs-28 { font-size: $fs-28; }
+.fs-30 { font-size: $fs-30; }
+.fs-35 { font-size: $fs-35; }
+.fs-36 { font-size: $fs-36; }
+.fs-45 { font-size: $fs-45; }
+.fs-48 { font-size: $fs-48; }
+.fs-50 { font-size: $fs-50; }
+.fs-60 { font-size: $fs-60; }
+.fs-75 { font-size: $fs-75; }
+
 
 //Classes for Font Weight
 .fw-900{font-weight: $fw-900;}
@@ -215,7 +203,7 @@ em,strong{
 
 
 //Classes for line Heights
-.lh-0 { line-height: 0; }
+.lh-0 { line-height: 0;     }
 .lh-14 { line-height: 14px; }
 .lh-16 { line-height: 16px; }
 .lh-18 { line-height: 18px; }

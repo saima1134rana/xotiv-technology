@@ -216,32 +216,63 @@
 
 
 <section class="container-fluid client-projects">
-  <div class="container">
+  <div class="container text-center">
     <div class="row">
       <div class="col-lg-12 text-center">
         <div class="heading-subtitle">We Completed 150+ Projects Yearly <span class="d-block">Successfully & Counting</span></div>
       </div>
+      <div class="row">
       <div class="col-lg-4">
         <div class="coutner">
-         <p><span class="stat-count highlight">100</span><i class="fa fa-plus" aria-hidden="true"></i></p>
+         <div class="highlight"><span class="stat-count ">100</span> <i class="fa fa-plus" aria-hidden="true"></i></div>
          <div class="milestone-details">Highly Qualified<br>Software Professional</div>
        </div>
       </div>
       <div class="col-lg-4">
       <div class="coutner">
-         <p><span class="stat-count highlight">50</span><i class="fa fa-plus" aria-hidden="true"></i></p>
+      <div class="highlight"><span class="stat-count ">50</span> <i class="fa fa-plus" aria-hidden="true"></i></div>
          <div class="milestone-details">Successfully<br>Delivered Projects</div>
        </div>
       </div>
       <div class="col-lg-4">
       <div class="coutner">
-         <p><span class="stat-count highlight">5</span><i class="fa fa-plus" aria-hidden="true"></i></p>
+      <div class="highlight"><span class="stat-count ">5</span> <i class="fa fa-plus" aria-hidden="true"></i></div>
          <div class="milestone-details">Year of Experience per<br>Team Member</div>
        </div>
+      </div>
       </div>
     </div>
   </div>
 </section>
+
+
+<section class="container-fluid testimonials-section">
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-5">
+      <div class="heading-title"><img class="img-fluid" src="http://localhost/Xotiv-Technology/wp-content/uploads/2022/12/testimonial-icon.png" alt=""> Testimonial</div>
+      <div class="heading-subtitle">What's Our Client Say About Us!</div>
+      <p>Here, We make almost every genre of applications. You name it and we build it.</p>
+    </div>
+    <div class="col-lg-7"></div>
+  </div>
+ </div>
+</section>
+
+<section class="container-fluid testimonials-section">
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="heading-subtitle">Have Any Idea To Discuss ?<br>
+          Just Drop A Message Anytime. We Endeavor All Inquiries Within 24 Hours.</div>
+          <a class="btn btn-primary mt-4" href="/contact-us/"><span>Contact Us</span></a>   
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="container-fluid bg-section"></section>
 
 <?php  get_footer(); ?>
 

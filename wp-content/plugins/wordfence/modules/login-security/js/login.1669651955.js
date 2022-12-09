@@ -286,25 +286,28 @@
 		}
 
 		this.release = function() {
-			this.released = true;
+			released = true;
 		}
 
 		this.clickSubmit = function() {
 			this.unblock();
-			this.getButtons().first().trigger('click');
+			var submitButton = this.getButtons().first();
+			setTimeout(function() {
+				submitButton.trigger('click');
+			}, 1);
 		}
 
 		this.initialize = function(callback) {
 			form.on('submit', function(event) {
-				if (self.released && (!self.clickOnSubmit || self.clickSubmitInProgress)) {
-					if (self.clickSubmitInProgress)
-						self.clickSubmitInProgress = false;
+				if (released && (!clickOnSubmit || clickSubmitInProgress)) {
+					if (clickSubmitInProgress)
+						clickSubmitInProgress = false;
 					return;
 				}
 				event.preventDefault();
 				event.stopPropagation();
-				if (self.released) {
-					self.clickSubmitInProgress = true;
+				if (released) {
+					clickSubmitInProgress = true;
 					self.clickSubmit();
 					return;
 				}
@@ -389,6 +392,9 @@
 							wrapper.append(button);
 							overlay.append(wrapper);
 							form.css('position', 'relative').append(overlay);
+							form.on('submit', function() {
+								$('#wfls-token-submit').prop('disabled', true).addClass('disabled');
+							});
 							$('#wfls-token').focus();
 
 							new $.Zebra_Tooltips($('.wfls-tooltip-trigger'));
